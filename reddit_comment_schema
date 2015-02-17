@@ -1,0 +1,10 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start=comment
+comment= element comment {mixed {submitter,body}}
+submitter = element submitter {text}
+body = element body {mixed{anglicism}}
+anglicism = element anglicism {mixed {pos,cc,wc}}
+pos = attribute pos {text}
+cc = attribute cc {text}
+wc = attribute wc {text}
