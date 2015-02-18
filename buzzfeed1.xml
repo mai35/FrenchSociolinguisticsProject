@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre>12 choses à ne jamais dire à quelqu’un atteint d’un cancer</titre>
+        <st>On sait que vous pensez bien faire, mais franchement, arrêtez.</st>
+    </header>
+
+    <auteur>
+        <nom>Louise McSharry</nom>
+        <association>BuzzFeed Contributor</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. « C’est un bon cancer ça. »</titre>
+                <commentaire>Il n’y a pas de bons cancers. Bien sûr, il y en a qui sont plus faciles
+                    à soigner que d’autres, et en tant que patiente, j’en sais quelque chose, mais
+                    vous non. S’il vous plaît, ne me dites pas à quel point je suis chanceuse. Je ne
+                    suis pas forcément d’humeur à entendre ça.</commentaire>
+            </li>
+            <li>
+                <titre>2. « Le cancer, ce n’est plus aussi terrible qu’autrefois. »</titre>
+                <commentaire>C’est marrant, parce qu’à moi ça me semblait assez terrible ce matin,
+                    quand je me suis retrouvée allongée sur le sol de la salle de bain, en larmes à
+                    cause de mes nausées.</commentaire>
+            </li>
+            <li>
+                <titre>3. « J’ai toujours voulu me raser le crâne. »</titre>
+                <commentaire> Perdre ses cheveux à cause de la chimio et se raser la tête parce
+                    qu’on trouve que Natalie Portman était <anglicisme pos="adj" cc="4" sc="1"
+                        >cool</anglicisme> dans « V pour Vendetta », ça n’a rien à
+                    voir.</commentaire>
+            </li>
+            <li>
+                <titre>4. « Tu ressembles à Natalie Portman dans “V pour Vendetta !” »</titre>
+                <commentaire>Non.</commentaire>
+            </li>
+            <li><titre>5. « On ne pensait pas que tu aurais envie de venir. »</titre><commentaire> Ne croyez pas
+                que parce qu’on a un cancer, on est incapables de faire certaines choses. Continuez
+                à nous inviter. Parfois, on refusera l’invitation, mais parfois on l’acceptera, et
+                on aura désespérément besoin de sortir un peu de chez nous pour se changer les
+                idées.</commentaire> </li>
+            <li>
+                <titre>6. « Tu as tellement de courage. »</titre>
+                <commentaire>On sait que ça part d’un bon sentiment quand vous dites ça, mais on ne
+                    se sent pas courageux. Le courage, c’est quand quelqu’un choisit de faire
+                    quelque chose qui lui fait peur. Nous, on n’a pas le choix. </commentaire>
+            </li>
+            <li>
+                <titre>7. « Est-ce que tu as essayé ___ ? »</titre>
+                <commentaire>Sauf si vous pensez pouvoir nous donner un conseil extraordinaire
+                    duquel notre survie dépendrait (littéralement), s’il vous plaît, ne faites pas
+                    de suggestions à propos de notre traitement. Oui, manger des kiwis est peut-être
+                    un moyen efficace de lutter contre la constipation dans votre vie quotidienne,
+                    mais si les puissants laxatifs de l’industrie pharmaceutique qui m’ont été
+                    prescrits par un vrai médecin ne marchent pas, ajouter des fruits à mon régime
+                    alimentaire ne marchera sûrement pas non plus.</commentaire>
+            </li>
+            <li>
+                <titre>8. « Si quelqu’un peut battre ce cancer, c’est bien toi. »</titre>
+                <commentaire>Parce que ceux qui sont morts d’un cancer ne se sont pas assez
+                    battus?</commentaire>
+            </li>
+            <li>
+                <titre>9. « N’oublie pas qu’il y aura toujours quelqu’un dans une situation pire que
+                    la tienne. »</titre>
+                <commentaire>Voilà qui m’aide beaucoup.</commentaire>
+            </li>
+            <li>
+                <titre>10. « Je sais ce que tu ressens. »</titre>
+                <commentaire> Non, tu ne sais pas.</commentaire>
+            </li>
+            <li>
+                <titre>11. « Au moins, tu as plein de temps libre maintenant. »</titre>
+                <commentaire> Je ne suis pas en vacances. J’ai pris un congé parce que combattre le
+                    cancer, c’est un boulot à plein temps. </commentaire>
+            </li>
+            <li>
+                <titre>12. « Félicitations ! C’est fini ! »</titre>
+                <commentaire>Ce n’est pas forcément fini parce qu’on a subi notre dernière séance de
+                    chimio ou de radiothérapie programmée. Atteindre la fin du traitement peut être
+                    effrayant, alors on vous fera savoir quand on se sentira prêts à fêter
+                    ça.</commentaire>
+            </li>
+        </ol>
+        <ps>
+            <header><titre>Alors, qu'est-ce que vous êtes censé dire ?</titre></header>
+            <ul>
+                <li>
+                    <titre>« Je ne sais pas trop quoi dire. »</titre>
+                    <commentaire>Il n’a pas de honte à vous montrer honnête sur vos sentiments. On
+                        ne s’attend pas à ce que vous arriviez à gérer cette situation comme un
+                        pro.</commentaire>
+                </li>
+                <li>
+                    <titre>« Je suis désolé que tu aies à subir tout ça. »</titre>
+                    <commentaire>Parfois, admettre que la situation actuelle est merdique peut
+                        vraiment aider.</commentaire>
+                </li>
+                <li>
+                    <titre>« Tu auras besoin que je te ramène chez toi après ta chimio ? »</titre>
+                    <commentaire>Des propositions bien spécifiques aident beaucoup plus que des
+                        affirmations générales du genre, </commentaire>
+                </li>
+                <li>
+                    <titre>« je suis là si tu as besoin de moi. »</titre>
+                    <commentaire>On vous prendra au mot, et cette aide pourra faire toute la
+                        différence.</commentaire>
+                </li>
+                <li>
+                    <titre>« Est-ce que tu as vu ___ ? »</titre>
+                    <commentaire> Les recommandations de films ou de séries sont inestimables pour
+                        les journées où on n’arrive pas à se lever du canapé et où on a l’impression
+                        d’avoir vu tout ce que <anglicisme pos="nomPropre" cc="7" sc="2">Netflix</anglicisme> avait à proposer.</commentaire>
+                </li>
+            </ul>
+        </ps>
+    </corps>
+</article>
