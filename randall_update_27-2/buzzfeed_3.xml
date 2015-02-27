@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema_updated.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre>23 moments que l’on connaît tous quand on est bourré</titre>
+        <st>Racontés par Disney.</st>
+    </header>
+    <auteur>
+        <nom>Maggy van Eijk</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. Quand vous décidez de commander des <anglicisme pos="noun" cc="5" sc="1"
+                        >shots</anglicisme>.</titre>
+            </li>
+            <li>
+                <titre>2. Quand vous entendez votre morceau préféré.</titre>
+            </li>
+            <li>
+                <titre>3. Quand vous essayez de réajuster votre robe discrètement.</titre>
+            </li>
+            <li>
+                <titre>4. Quand vous décidez de faire connaissance avec toutes les personnes
+                    présentes.</titre>
+            </li>
+            <li>
+                <titre>5. Quand vous trouvez la vie tellement belle que vous aimeriez vous rouler
+                    dans l’herbe.</titre>
+            </li>
+            <li>
+                <titre>6. Quand votre ex vient d’arriver au <anglicisme pos="noun" cc="3" sc="1"
+                        >bar</anglicisme>, et que vous essayez d’avoir l’air naturel.</titre>
+            </li>
+            <li>
+                <titre>7. Quand vous dites à un(e) parfait(e) inconnu(e) que vous avez rencontré(e)
+                    dans la queue pour les chiottes que vous l’aimez vraiment VRAIMENT
+                    beaucoup.</titre>
+            </li>
+            <li>
+                <titre>8. Quand vous vous sentez <anglicisme pos="adjective" cc="5" sc="2"
+                        >super</anglicisme>
+                    <anglicisme pos="adjective" cc="4" sc="2">sexy</anglicisme>.</titre>
+            </li>
+            <li>
+                <titre>9. Quand vous êtes en train de pisser dans la rue et que quelqu’un passe à
+                    côté de vous.</titre>
+            </li>
+            <li>
+                <titre>10. Quand quelqu’un vous marche sur les pieds et que vous avez envie de taper
+                    un scandale.</titre>
+            </li>
+            <li>
+                <titre>11. Quand la moindre petite chose vous émerveille.</titre>
+            </li>
+            <li>
+                <titre>12. Quand vous croisez votre reflet dans le miroir.</titre>
+            </li>
+            <li>
+                <titre>13. Quand vous ne savez plus où vous avez mis vos clés.</titre>
+            </li>
+            <li>
+                <titre>14. Quand vous commencez à vous poser des questions existentielles.</titre>
+            </li>
+            <li>
+                <titre>15. Quand vous n’arrivez plus à marcher droit.</titre>
+            </li>
+            <li>
+                <titre>16. Quand vous insistez devant vos amis : « Mais non ça va, je suis pas
+                    bourré(e) ! »</titre>
+            </li>
+            <li>
+                <titre>17. Quand vous avez beaucoup de mal à monter les escaliers.</titre>
+            </li>
+            <li>
+                <titre>18. Quand vous vous exclamez : « Non, TOI tu as bu quatre bouteilles de vin.
+                    »</titre>
+            </li>
+            <li>
+                <titre>19. Quand vous croisez un McDonald’s ouvert.</titre>
+            </li>
+            <li>
+                <titre>20. Quand vous voyez triple mais que vous décidez quand même de draguer cette
+                    personne.</titre>
+            </li>
+            <li>
+                <titre>21. Quand la pièce tourne beaucoup trop.</titre>
+            </li>
+            <li>
+                <titre>22. Quand vous êtes tellement bourré(e) que vous êtes à deux doigts de tomber
+                    dans les pommes.</titre>
+            </li>
+            <li>
+                <titre>23. Et quand vous essayez vraiment de ne pas vomir.</titre>
+            </li>
+        </ol>
+    </corps>
+</article>

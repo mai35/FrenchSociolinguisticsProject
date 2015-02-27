@@ -1,0 +1,26 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start=article
+article = element article {header, auteur, corps}
+header = element header {titre, st?, anglicisme*}
+auteur = element auteur {(nom|association)+}
+corps = element corps {(ol|ul), ps?}
+titre = element titre {mixed {anglicisme*}}
+st = element st {mixed {anglicisme*}}
+nom = element nom {text}
+association = element association {mixed {anglicisme*}}
+ol = element ol {li+}
+ps = element ps {header, (ol|ul)}
+li = element li {titre, commentaire*}
+commentaire = element commentaire {mixed {anglicisme*}}
+anglicisme = element anglicisme {pos, cc, sc, text}
+pos = attribute pos {text}
+cc = attribute cc {text}
+sc = attribute sc {text}
+ul = element ul {li+}
+
+
+
+
+
+

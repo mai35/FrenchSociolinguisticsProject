@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema_updated.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre/>
+    </header>
+    <auteur>
+        <nom/>
+        <association/>
+    </auteur>
+    <corps/>
+</article>

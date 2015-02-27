@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema_updated.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre>20 secrets que les employés de McDonald’s ne vous dévoileront jamais</titre>
+        <st>Vous voulez des frites avec ça ?</st>
+    </header>
+    <auteur>
+        <nom>Laura Silver</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. Les ingrédients de la sauce du Big Mac contiennent tous les ingrédients du
+                    Big Mac, sauf le bœuf.</titre>
+                <commentaire>Et il est sensé y avoir une tranche de cornichon dans chaque bouchée.
+                    Dommage pour ceux qui n’aiment pas cela !</commentaire>
+            </li>
+            <li>
+                <titre>2. C’est vraiment dur de ne pas se sentir ridicule avec ce truc.</titre>
+            </li>
+            <li>
+                <titre>3. Et le reste de l’uniforme n’est pas beaucoup mieux.</titre>
+                <commentaire>Ces pantalons taille haute…</commentaire>
+            </li>
+            <li>
+                <titre>4. Les gens adorent vous dire comment sont fait les <anglicisme pos="noun"
+                        cc="7" sc="2">nuggets</anglicisme>.</titre>
+                <commentaire>Sérieusement…</commentaire>
+            </li>
+            <li>
+                <titre>5. Vous attendez avec impatience qu’on vous envoie en salle pour pouvoir vous
+                    cacher dans les toilettes.</titre>
+                <commentaire>« Je jetais juste un coup d’œil. »</commentaire>
+            </li>
+            <li>
+                <titre>6. Ça prend moins de 30 secondes pour cuire le steak d’un <anglicisme
+                        pos="noun" cc="6" sc="2">burger</anglicisme>.</titre>
+                <commentaire>Ouep.</commentaire>
+            </li>
+            <li>
+                <titre>7. Et pas besoin de les retourner parce que les deux côtés cuisent en même
+                    temps.</titre>
+            </li>
+
+            <li>
+                <titre>8. Il n’y a rien de pire que se brûler en essayant de décoller un pain du
+                        <anglicisme pos="noun" cc="7" sc="2">toaster</anglicisme>.</titre>
+            </li>
+            <li>
+                <titre>9. A part lorsqu’on se cogne le coude contre le coin d’une friteuse en
+                    versant une fournée de frites fraiches</titre>
+            </li>
+            <li>
+                <titre>10. Vous passez votre temps à manger des frites en douce quand vous croyez
+                    que personne ne vous voit.</titre>
+            </li>
+            <li>
+                <titre>11. Ou quelque fois les restes de <anglicisme pos="noun" cc="7" sc="2">nuggets</anglicisme> si vous avez de la chance.</titre>
+            </li>
+            <li>
+                <titre>12. Mais vous mangez quand même l’intégralité du repas qui vous est offert
+                    quand vient l’heure de la pause.</titre>
+            </li>
+            <li>
+                <titre>13. Vous détestez quand vos horaires coïncident avec la fermeture des
+                        <anglicisme pos="noun" cc="4" sc="1">bars</anglicisme> parce que vous tombez
+                    sur les gens les plus relous.</titre>
+            </li>
+            <li>
+                <titre>14. Vous tombez toujours sur un abruti pour vous commander un Big Mac, sans
+                    sauce, sans fromage, mais juste avec du ketchup.</titre>
+                <commentaire>Donc, pas un Big Mac, quoi.</commentaire>
+            </li>
+            <li>
+                <titre>15. Vous ignorez délibérément les gens qui crient « bonjouuur ?? » dans le
+                    micro du <anglicisme pos="noun" cc="5" sc="1">drive</anglicisme> si vous ne prenez pas leur commande assez rapidement.</titre>
+            </li>
+            <li>
+                <titre>16. Vous détestez tous ceux qui commandent des Filet-O-Fish parce que vous
+                    devez les faire à la commande à chaque fois.</titre>
+                <commentaire>Mais QUI commande un Filet-O-Fish ?</commentaire>
+            </li>
+            <li>
+                <titre>17. En particulier si vous portez des lunettes, parce que cuire le pain à la
+                    vapeur les embuera instantanément.</titre>
+            </li>
+            <li>
+                <titre>18. Vous essayez vraiment de ne pas perdre patience quand les gens attendent
+                    d’être arrivés devant vous pour réfléchir sérieusement à ce qu’ils vont
+                    prendre.</titre>
+            </li>
+            <li>
+                <titre>19. Mais ce n’est rien à côté de ceux qui se plaignent de ne pas avoir des
+                    frites chaudes et se plaignent ensuite de devoir attendre qu’elles
+                    cuisent.</titre>
+            </li>
+            <li>
+                <titre>20. Mais au moins vous avez des <anglicisme pos="noun" cc="7" sc="2"
+                        >burgers</anglicisme> gratuits !</titre>
+                <commentaire>Et bien sûr, de l’argent et un job.</commentaire>
+            </li>
+        </ol>
+    </corps>
+</article>

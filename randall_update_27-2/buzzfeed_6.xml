@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema_updated.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre>Voici ce que les acteurs de « La Guerre des Stevens » sont devenus</titre>
+        <st>Louis Stevens a bien grandi.</st>
+    </header>
+    <auteur>
+        <nom>Brice Sander</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ul>
+            <li>
+                <titre>Christy Carlson Romano, dans le rôle de Ren Stevens</titre>
+                <commentaire>Depuis la fin de « La Guerre des Stevens » en 2003, Christy a travaillé
+                    à Broadway dans « La Belle et la Bête » et « Avenue Q », a prêté sa voix aux
+                    films « Kim Possible » et « Hello! », a tourné dans des films pour la télé et
+                    est retournée à l’école — elle étudie actuellement la réalisation au Barnard
+                    College. Christy, qui a maintenant 30 ans, est très active sur les réseaux
+                    sociaux. Elle a récemment perdu un pari sur « Cinquante Nuances de Grey » contre
+                    son mari.</commentaire>
+            </li>
+            <li>
+                <titre>Shia LaBeouf, dans le rôle de Louis Stevens</titre>
+                <commentaire>Shia, qui a maintenant 28 ans, est devenu une <anglicisme pos="noun"
+                        cc="9" sc="3">superstar</anglicisme> après avoir joué en 2007 dans le
+                        <anglicisme pos="noun" cc="11" sc="3">blockbuster</anglicisme> «
+                    Transformers ». D’autres <anglicisme pos="noun" cc="12" sc="3"
+                        >blockbusters</anglicisme> ont suivi, dont « Indiana Jones et le Royaume du
+                    Crâne de Cristal » et « Fury ». Une série d’étranges apparitions en public ont
+                    éclipsé sa carrière en 2014. Il a quand même démarré 2015 en <anglicisme
+                        pos="noun" cc="7" sc="2">fanfare</anglicisme> en jouant dans le <anglicisme
+                        pos="noun" cc="4" sc="1">clip</anglicisme> d’« Elastic Heart » de
+                    Sia.</commentaire>
+            </li>
+            <li>
+                <titre>Nick Spano, dans le rôle de Donnie Stevens</titre>
+                <commentaire>Après « La Guerre des Stevens », Nick est apparu dans des épisodes de «
+                    Cold Case : affaires classées », « NCIS : Enquêtes spéciales » et « FBI : portés
+                    disparus ». Nick, qui a aujourd’hui 38 ans, a apparemment mis fin à sa carrière
+                    d’acteur en 2011 pour se concentrer sur d’autres projets, dont la création de
+                    City Farm, un programme de marchés fermiers et de Re/creation LA, une communauté
+                    de yoga. Vous pouvez suivre les aventures de Nick sur Instagram.</commentaire>
+            </li>
+            <li>
+                <titre>Tom Virtue, dans le rôle de Steve Stevens</titre>
+                <commentaire> Tom, 57 ans, est très occupé depuis qu’il n’est plus Steve Stevens. Il
+                    est apparu dans « Malcolm », « Desperate Housewives », « Mon <anglicisme
+                        pos="noun" cc="8" sc="2">Comeback</anglicisme> », « Drake et Josh », « La
+                    Vie secrète d’une ado ordinaire », « Mon oncle Charlie » et une dizaine d’autres
+                    séries. Tom a retrouvé Shia, son fils à l’écran, en 2011 dans « Transformers 3 :
+                    La Face cachée de la lune » et il a tourné récemment dans « Témoin à louer
+                    ».</commentaire>
+            </li>
+            <li>
+                <titre>Donna Pescow, dans le rôle de Eileen Stevens</titre>
+                <commentaire>Donna, qui a aujourd’hui 60 ans, était déjà connue pour ses rôles dans
+                    « La Croisière s’amuse » et « Loin de ce Monde » avant de jouer dans « La Guerre
+                    des Stevens ». Depuis la fin de la série, elle est apparue dans « Les Sopranos »
+                    et « Body of Proof ».</commentaire>
+            </li>
+            <li>
+                <titre>A.J. Trauth, dans le rôle d’Alan Twitty</titre>
+                <commentaire>Après avoir été l’ami de Louis, A.J. a connu des rôles plus matures
+                    dans « Ghost Whisperer », « Les Experts », « Numb3rs », « Bones » et « Franklin
+                    et Bash ». À 28 ans, il a deux <anglicisme pos="noun" cc="5" sc="1"
+                        >films</anglicisme> actuellement en production et a récemment épousé
+                    l’ancienne <anglicisme pos="noun" cc="4" sc="1">star</anglicisme> de Disney
+                    Channel, aujourd’hui actrice dans « The Originals », Leah Pipes.</commentaire>
+            </li>
+            <li>
+                <titre>Margo Harshman, dans le rôle de Tawny Dean</titre>
+                <commentaire>Margo, 28 ans, n’a pas quitté la télévision depuis la fin de « La
+                    Guerre des Stevens » avec des apparitions dans « Grey’s Anatomy », « Modern
+                    Family » et « Bones ». Elle a également des rôles récurrents dans « NCIS », où
+                    elle joue la copine de McGee et « The Big Bang Theory », en tant qu’assistante
+                    de Sheldon. Margo est sur Twitter, mais n’a pas <anglicisme pos="verb" cc="6"
+                        sc="2">tweeté</anglicisme> depuis 2013.</commentaire>
+            </li>
+            <li>
+                <titre>Steven Anthony Lawrence, dans le rôle de Bernard Aranguren</titre>
+                <commentaire>Steven, qui a aujourd’hui 24 ans, a continué sa carrière avec des rôles
+                    dans les films « Treize à la douzaine », « Match en famille » et « Bratz ». Il a
+                    également joué dans des pubs pour T-Mobile et Old Spice. Il a fait le
+                        <anglicisme pos="noun" cc="4" sc="1">buzz</anglicisme> en 2013 quand Tyler,
+                    The Creator a utilisé le visage de Steven comme avatar sur Twitter. Il est
+                    récemment apparu dans le <anglicisme pos="noun" cc="4" sc="1">clip</anglicisme> de « Boulders », du groupe indé Dear
+                    Blanca.</commentaire>
+            </li>
+        </ul>
+    </corps>
+</article>
