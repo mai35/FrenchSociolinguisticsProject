@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<article>
+    <header>
+        <titre>18 femmes qui ADORENT faire le ménage selon les banques d’images</titre>
+        <st>Bienvenue dans l’univers bien sexiste des images d’illustration, où les femmes trouvent
+            leur raison de vivre un plumeau à la main.</st>
+    </header>
+
+    <auteur>
+        <nom>Marie Telling</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <intro>Les banques d’images sont des services de photos très pratiques pour illustrer des
+            articles sur la vie quotidienne, des pubs, ou même des <anglicisme pos="nom" cc="6"
+                sc="1">tracts</anglicisme> politiques. On y trouve des centaines de photos
+            sur-posées, où des mannequins traversent souvent des crises existentielles intenses et
+            rejouent des scènes du quotidien au réalisme douteux. Les banques d’image, comme
+                <anglicisme pos="nom" cc="10" sc="2">Thinkstock</anglicisme> par exemple, qui
+            appartient à Getty Images, regorgent de photos ultra sexistes. Quand on cherche « normal
+            woman » (« femme normale »), voilà l’une des photos qui apparaît : En parcourant leurs
+            photos, on a parfois l’impression de faire un bon dans un monde parallèle où les femmes
+            font des crises d’hystérie quotidiennes et ADORENT faire le ménage. Voici donc quelques
+            femmes qui vivent pour leur plumeau, dont on a inventé le monologue intérieur :</intro>
+        <ol>
+            <li>
+                <titre>1. « Souvent, je m’interroge sur l’absurdité de l’existence. Mais dès que je
+                    prends mon plumeau en main, je sais que tout est à sa place. »</titre>
+            </li>
+            <li>
+                <titre>2. « Quand je nettoie des vitres, j’ai un peu l’impression de nettoyer mon
+                    âme. »</titre>
+            </li>
+            <li>
+                <titre>3. « J’adore le repassage ! Ça me permet de me vider la tête et d’oublier les
+                    limitations intellectuelles dont souffrent toutes les femmes. »</titre>
+            </li>
+            <li>
+                <titre>4. « Faire la poussière est un peu ma raison d’être. »</titre>
+            </li>
+            <li>
+                <titre>5. « Choisir l’éponge que je vais utiliser pour faire la vaisselle est le
+                    moment le plus stimulant de ma journée. »</titre>
+            </li>
+            <li>
+                <titre>6. « Mon ambition dans la vie ? Rendre ce comptoir aussi blanc que mon
+                    sourire. »</titre>
+            </li>
+            <li>
+                <titre>7. « Parfois, je me sens un peu déprimée. Mais tous mes soucis s’envolent dès
+                    que je commence à faire la poussière. »</titre>
+            </li>
+            <li>
+                <titre>8. « Il n’y a pas de compliment plus appréciable que lorsqu’un homme vous
+                    félicite pour vos talents de ménagère. »</titre>
+            </li>
+            <li>
+                <titre>9. « Récurer est ma seule vraie passion. »</titre>
+            </li>
+            <li>
+                <titre>10. « Regardez-moi ce robinet tout propre ! »</titre>
+            </li>
+            <li>
+                <titre>11. « Je ne me sens jamais autant épanouie qu’en cirant mes meubles en bois.
+                    »</titre>
+            </li>
+            <li>
+                <titre>12. « Chaque vitre est une nouvelle expérience, de nouvelles émotions.
+                    »</titre>
+            </li>
+            <li>
+                <titre>13. « Ma recette du bonheur ? Une éponge propre et un seau rempli de produits
+                    ménagers. »</titre>
+            </li>
+            <li>
+                <titre>14. « J’ai longtemps cherché ma voie, jusqu’au jour où j’ai lavé ma première
+                    assiette. J’ai tout de suite su que j’étais faite pour ça. »</titre>
+            </li>
+            <li>
+                <titre>15. « J’adore laver les sols. ça me fait me sentir en vie. »</titre>
+            </li>
+            <li>
+                <titre>16. « Partager les tâches ménagères avec mon homme ? Autant renoncer tout de
+                    suite à mon statut de femme ! »</titre>
+            </li>
+            <li>
+                <titre>17. « Pendant longtemps, ma vie n’avait pas de sens. Et puis j’ai découvert
+                    les produits ménagers. »</titre>
+            </li>
+            <li>
+                <titre>18. « Le ménage, c’est la vie ! »</titre>
+            </li>
+        </ol>
+        <ps>
+            <ul>
+                <li>
+                    <titre>Parce que l’égalité et la diversité passent aussi par des photos
+                        d’illustration, remontez-vous le moral avec 44 photos qui veulent changer la
+                        représentation des femmes !</titre>
+                    <commentaire> C’est un projet mené par Getty Images, à qui appartient
+                            <anglicisme pos="nom" cc="10" sc="2">Thinkstock</anglicisme>, espérons
+                        donc que l’initiative se répande dans le reste de leur collection.
+                    </commentaire>
+                </li>
+            </ul>
+        </ps>
+    </corps>
+</article>

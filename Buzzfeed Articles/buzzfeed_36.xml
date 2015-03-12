@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<article>
+    <header>
+        <titre>21 choses à faire lorsque vous avez le cafard</titre>
+        <st>De quoi vous remonter le moral.</st>
+    </header>
+
+    <auteur>
+        <nom>Leonora Epstein</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. Regarder un film <anglicisme pos="adj" cc="6" sc="2"
+                    >Disney</anglicisme>.</titre>
+                <commentaire>Revisitez un classique de votre enfance. Même si cela ne vous réchauffe
+                    pas le cœur, ça devrait au moins vous amuser.</commentaire>
+            </li>
+            <li>
+                <titre>2. Poster un <anglicisme pos="nom" cc="4" sc="3">#tbt</anglicisme>, même si
+                    ce n’est pas jeudi.</titre>
+                <commentaire>Postez une photo qui vous rappelle un bon souvenir avec quelqu’un.
+                    Évoquer brièvement des souvenirs remonte toujours le moral. (Et c’est toujours
+                    sympa quand beaucoup de gens aiment ce que vous postez.)</commentaire>
+            </li>
+            <li>
+                <titre>3. Bien manger.</titre>
+                <commentaire>Le manque de graisse saine ou de calories en général peut perturber
+                    l’équilibre de votre corps. Si vous vous sentez faible au même moment chaque
+                    jour, essayez de voir si un en-cas sain ne vous redonne pas la
+                    forme.</commentaire>
+            </li>
+            <li>
+                <titre>4. Relire un livre que vous aviez adoré lorsque vous étiez enfant.</titre>
+                <commentaire>Pour vous évader une fois de plus.</commentaire>
+            </li>
+            <li>
+                <titre>5. Sentir quelque chose de bon.</titre>
+                <commentaire>Stimulez vos sens avec vos parfums préférés, comme l’odeur d’un gâteau
+                    tout juste sorti du four. (En prime, vous pourrez aussi le
+                    manger.)</commentaire>
+            </li>
+            <li>
+                <titre>6. Regarder de belles couleurs.</titre>
+                <commentaire>Ce <anglicisme pos="nom" cc="6" sc="2">Tumblr</anglicisme> rassemble
+                    des images de dégradés de couleurs. C’est tout ! Simple, et pourtant si apaisant
+                    à regarder.</commentaire>
+            </li>
+            <li>
+                <titre>7. Suivre son humeur.</titre>
+                <commentaire>Il peut parfois être utile de voir si vous vous sentez déprimé à des
+                    moments spécifiques de la journée, du mois ou de l’année. Si vous parvenez à
+                    comprendre ce qui déclenche votre tristesse, vous pourrez mieux la combattre.
+                    Des applications comme <anglicisme pos="nom" cc="9" sc="3"
+                        >MoodPanda</anglicisme> peuvent vous aider à le faire !</commentaire>
+            </li>
+            <li>
+                <titre>8. Être artistique.</titre>
+                <commentaire>Transformez votre mélancolie en énergie créative. Écrivez vos
+                    sentiments. Peignez vos émotions. Réalisez une bande dessinée dont VOUS êtes le
+                    héros, et où vous vainquez la déprime.</commentaire>
+            </li>
+            <li>
+                <titre>9. Aller voir un film tout seul.</titre>
+                <commentaire>Une autre façon géniale de vous évader.</commentaire>
+            </li>
+            <li>
+                <titre>10. Chercher des photos vos endroits préférés sur <anglicisme pos="nom"
+                        cc="9" sc="3">Instagram</anglicisme>.</titre>
+                <commentaire>C’est si facile — utilisez simplement <anglicisme pos="nom" cc="8"
+                        sc="2">Gramfeed</anglicisme> pour chercher par <anglicisme pos="nom" cc="3"
+                        sc="1">tag</anglicisme>.</commentaire>
+            </li>
+            <li>
+                <titre>11. Aller se promener.</titre>
+                <commentaire>Quelque chose d’aussi simple qu’un changement de paysage peut vous
+                    sortir de la déprime. Prenez de la <anglicisme pos="nom" cc="8" sc="3"
+                        >vitamine</anglicisme> D et respirez l’odeur de la nature.</commentaire>
+            </li>
+            <li>
+                <titre>12. Acheter des fleurs bon marché.</titre>
+                <commentaire>Parfois, vous offrir un petit luxe peut vous remonter le
+                    moral.</commentaire>
+            </li>
+            <li>
+                <titre>13. Se reposer.</titre>
+                <commentaire>Assurez-vous de suffisamment dormir pour fonctionner correctement ! Les
+                    compagnons de sieste sont fortement recommandés.</commentaire>
+            </li>
+            <li>
+                <titre>14. Faire un câlin virtuel.</titre>
+                <commentaire>Il est toujours bon de savoir qu’il y a des gens qui sont gentils sans
+                    raison. « The Nicest Place on the Internet » est un <anglicisme pos="nom" cc="4"
+                        sc="1">site</anglicisme> amusant, uniquement dédié au partage de câlins et à
+                    l’aide en ligne.</commentaire>
+            </li>
+            <li>
+                <titre>15. Mettre votre calendrier à jour de façon à voir toutes les choses que vous
+                    attendez avec impatience.</titre>
+                <commentaire>Et si vous n’avez rien de particulier de prévu, organisez quelque
+                    chose. Une sortie avec un ami ? Une journée pour prendre soin de vous ? Une
+                    excursion d’un jour à petit prix ?</commentaire>
+            </li>
+            <li>
+                <titre>16. Se concentrer sur les petits détails.</titre>
+                <commentaire>De temps en temps, prenez le temps de vous arrêter pour observer les
+                    petites choses qui rendent la vie belle et merveilleuse, comme le moment précis
+                    de la journée où le ciel devient doré.</commentaire>
+            </li>
+            <li>
+                <titre>17. Réorganiser l’agencement d’une pièce.</titre>
+                <commentaire>Voici une façon de vous rafraîchir sur le plan physique comme sur le
+                    plan mental. Sans parler des endorphines dont vous bénéficierez après tous ces
+                    efforts.</commentaire>
+            </li>
+            <li>
+                <titre>18. Dire à quelqu’un qu’il vous manque.</titre>
+                <commentaire>Faites le d’une manière brève et créative. Pourquoi ne pas envoyer une
+                    série d’<anglicisme pos="nom" cc="6" sc="3">emojis</anglicisme> que la personne
+                    devra décoder ? Une blague ? Un <anglicisme pos="nom" cc="3" sc="1"
+                        >gif</anglicisme> ? Faire quelque chose pour autrui est toujours agréable,
+                    même lorsque vous êtes triste.</commentaire>
+            </li>
+            <li>
+                <titre>19. Faire de votre espace de travail un endroit heureux.</titre>
+                <commentaire>Si vous déprimez à cause d’un manque de créativité, transformez votre
+                    espace de travail en un endroit heureux où vous aurez envie d’être. Les fleurs
+                    sont un plus !</commentaire>
+            </li>
+            <li>
+                <titre>20. Créer des playlists joyeuses.</titre>
+                <commentaire>Lorsque vous êtes de bonne humeur, créez une playlist joyeuse et qui
+                    vous inspire, puis sauvegardez-la pour les moments où vous aurez besoin d’un
+                    remontant.</commentaire>
+            </li>
+            <li>
+                <titre>21. Évacuer la tristesse en dansant.</titre>
+                <commentaire>Bougez votre corps et laissez ces petites endorphines bien utiles
+                    travailler à votre place.</commentaire>
+            </li>
+        </ol>
+        <ps>
+            <ul>
+                <li>
+
+                    <titre>Et maintenant, au boulot ! Voici un peu d’inspiration pour débuter votre
+                        JOURNÉE SUPER JOYEUSE !</titre>
+                </li>
+            </ul>
+        </ps>
+    </corps>
+</article>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<article>
+    <header>
+        <titre>22 photos qui résument parfaitement votre horreur lorsque vous lancez la caméra
+            frontale de votre téléphone</titre>
+        <st>Mais pourquoi est-ce qu’on continue à tomber dans le panneau ?</st>
+    </header>
+
+    <auteur>
+        <nom>Lauren Yapalater</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <intro>Parfois vous avez envie de prendre une jolie photo. Une photo d’un magnifique coucher
+            de soleil, ou quelque chose à partager avec vos amis. Mais c’est là que vous lancez
+            accidentellement votre caméra frontale…</intro>
+        <ol>
+            <li>
+                <titre>1. … ET QUE VOUS VOYEZ ÇA.</titre>
+            </li>
+            <li>
+                <titre>2. OU ÇA</titre>
+            </li>
+            <li>
+                <titre>3. OU ÇA</titre>
+            </li>
+            <li>
+                <titre>4. L’HORREUR DE LAISSER ACCIDENTELLEMENT LA CAMÉRA FRONTALE OUVERTE.</titre>
+            </li>
+            <li>
+                <titre>5. LA DOULEUR DE LAISSER ACCIDENTELLEMENT LA CAMÉRA FRONTALE OUVERTE.</titre>
+            </li>
+            <li>
+                <titre>6. AH, L’HUMANITÉ.</titre>
+            </li>
+            <li>
+                <titre>7. POURQUOI M’AS-TU TRAHI, <anglicisme pos="nom" cc="6" sc="2">IPHONE</anglicisme> ?</titre>
+            </li>
+            <li>
+                <titre>8. MAIS POURQUOIII ? J’AI COMMIS UNE GRAVE ERREUR.</titre>
+            </li>
+            <li>
+                <titre>9. POURQUOI LES GENS BIENS DOIVENT-ILS SOUFFRIR DE LA SORTE ?</titre>
+            </li>
+            <li>
+                <titre>10. C’EST DONC À ÇA QUE JE RESSEMBLE ?</titre>
+            </li>
+            <li>
+                <titre>11. ME SERAIS-JE TROMPÉ SUR MON APPARENCE ?</titre>
+            </li>
+            <li>
+                <titre>12. ÉTEINS ÇA, ÉTEINS ÇA !</titre>
+            </li>
+            <li>
+                <titre>13. MON DIEU.</titre>
+            </li>
+            <li>
+                <titre>14. faslkjnglsafkdnglfkLKGNSDLKFGGLNSDKF</titre>
+            </li>
+            <li>
+                <titre>15. PRIEZ POUR MOI. PRIEZ POUR TOUS CEUX QUI SUBISSENT LA DOULEUR D’AVOIR
+                    LAISSÉ LA CAMÉRA FRONTALE OUVERTE.</titre>
+            </li>
+            <li>
+                <titre>16. JE SUIS INNOCENT, INNOCENT JE VOUS DIS !</titre>
+            </li>
+            <li>
+                <titre>17. FAITES QUE ÇA S’ARRÊTE !</titre>
+            </li>
+            <li>
+                <titre>118. AHHHHH.</titre>
+            </li>
+            <li>
+                <titre>19. AHHHHH.</titre>
+            </li>
+            <li>
+                <titre>20. QU’EST-CE QUE J’AI FAIT POUR MÉRITER ÇA ? ÇA ARRIVE À TOUT LE MONDE DE
+                    LAISSER LA CAMÉRA FRONTALE EN MARCHE DE TEMPS EN TEMPS, NON ?</titre>
+            </li>
+            <li>
+                <titre>21. POURQUOI ?!?!?!?!</titre>
+            </li>
+            <li>
+                <titre>22. ÉTEIGNEZ ÇA !</titre>
+            </li>
+        </ol>
+            <ps>
+                <ul>
+                    <li>
+                        <titre>SOUVENEZ-VOUS : Ne prenez pas de risque, choisissez le bon
+                            sens.</titre>
+                    </li>
+                </ul>
+            </ps>
+    </corps>
+</article>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<article>
+    <header>
+        <titre>16 choses que tous les bons coups en ont marre d’entendre</titre>
+        <st>Sérieusement, c’est lourd à force.</st>
+    </header>
+
+    <auteur>
+        <nom>Jo Barrow</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <intro/>
+        <ol>
+            <li>
+                <titre>1. De longs gémissements de plaisir.</titre>
+            </li>
+            <li>
+                <titre>2. Des profonds soupirs.</titre>
+            </li>
+            <li>
+                <titre>3. « Mon dieu, t’es tellement incroyable. »</titre>
+            </li>
+            <li>
+                <titre>4. « Mais qui es-tu… Comment peux-tu.. Putain… »</titre>
+            </li>
+            <li>
+                <titre>5. « Mais où est-ce que t’as appris tout ça ?! »</titre>
+            </li>
+            <li>
+                <titre>6. « OH PUTAIN ! »</titre>
+            </li>
+            <li>
+                <titre>7. « OUI… LÀ… OUI ! »</titre>
+            </li>
+            <li>
+                <titre>8. « OH OUI OH OUI OH OUI »</titre>
+            </li>
+            <li>
+                <titre>9. « OH PUTAIN ! »</titre>
+            </li>
+            <li>
+                <titre>10. Des cris d’extase.</titre>
+            </li>
+            <li>
+                <titre>11. Des gémissements rapides et répétitifs.</titre>
+            </li>
+            <li>
+                <titre>12. « OH MON DIEU OH PUTAIN OH PUTAIN DE MORDEL DE MERDE OH PUTAIN OH PUTAIN
+                    OH PUTAIN OH OUI OH OUI OH OUI OH OUIII »</titre>
+            </li>
+            <li>
+                <titre>13. Un silence ému et satisfait.</titre>
+            </li>
+            <li>
+                <titre>14. Un soupir de satisfaction.</titre>
+            </li>
+            <li>
+                <titre>15. Le battement des cils de votre partenaire lorsqu’il/elle vous regarde
+                    avec reconnaissance et admiration.</titre>
+            </li>
+            <li>
+                <titre>16. « Tu es le meilleur coup que j’ai jamais connu et celui que je connaitrai
+                    jamais. »</titre>
+                <commentaire>Celui-là, franchement, c’est le pire.</commentaire>
+            </li>
+        </ol>
+        <conversation>
+            <commentaire>«DÉSOLÉ D'EXPRIMÉ LE PLAISIR INTENSE QUE JE RESSENS QUAND ON FAIT L'AMOUR.
+                La prochaine fois on le fera juste pas.» défini parfaitement comment l'autre se sent
+                après avoir eu un orgasme.</commentaire>
+        </conversation>
+    </corps>
+</article>

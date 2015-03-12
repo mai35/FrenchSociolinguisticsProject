@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<article>
+    <header>
+        <titre>13 signes que vous êtes né en 1986</titre>
+        <st>La crise de la trentaine approche à grands pas.</st>
+    </header>
+
+    <auteur>
+        <nom>Jenna Guillaume</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. Votre certificat de naissance indique que vous êtes né en 1986.</titre>
+            </li>
+            <li>
+                <titre>2. Et vous avez 29 ans cette année.</titre>
+            </li>
+            <li>
+                <titre>3. Ce qui veut dire que vous allez bientôt faire une légère crise de la
+                    trentaine.</titre>
+            </li>
+            <li>
+                <titre>4. Vous êtes résolu à profiter le plus possible de la dernière année de votre
+                    vingtaine.</titre>
+            </li>
+            <li>
+                <titre>5. Mais vous êtes aussi légèrement stressé par le fait que vous n’avez encore
+                    rien accompli.</titre>
+            </li>
+            <li>
+                <titre>6. Vous vous sentez bizarre en réalisant que vous ne faites plus partie des
+                    personnes les plus jeunes de votre bureau.</titre>
+            </li>
+            <li>
+                <titre>7. Et ça vous choque quand un de vos collègues mentionne le fait qu’il est né
+                    dans les années 1990.</titre>
+                <commentaire>LES ANNÉES 1990 !!</commentaire>
+            </li>
+            <li>
+                <titre>8. Et réaliser que les gens nés dans les années 2000 sont des ADOLESCENTS
+                    vous terrifie.</titre>
+            </li>
+            <li>
+                <titre>9. Vous comprenez de moins en moins la ~culture des jeunes~.</titre>
+            </li>
+            <li>
+                <titre>10. Vos souvenirs du lycée sont de plus en plus flous.</titre>
+            </li>
+            <li>
+                <titre>11. Vous avez vécu autant de temps en tant qu’adulte qu’en tant qu’enfant ou
+                    adolescent.</titre>
+            </li>
+            <li>
+                <titre>12. Mais dans votre tête vous êtes toujours jeune (donc en déni
+                    total).</titre>
+            </li>
+            <li>
+                <titre>13. Et vous êtes un putain de tigre.</titre>
+            </li>
+        </ol>
+        <conversation>
+            <commentaire>pffff dur... ;p</commentaire>
+        </conversation>
+    </corps>
+</article>
