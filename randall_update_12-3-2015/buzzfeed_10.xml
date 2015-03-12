@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema_updated.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre>14 photos d’amoureux des tatouages, avec et sans leurs vêtements</titre>
+        <st>Le photographe Alan Powdrill révèle le magnifique travail d’artiste caché sous les
+            vêtements des passionnés de tatouages britanniques. Faites glisser l’image pour voir les
+            modèles entièrement nus (à ne pas regarder au bureau, donc).</st>
+    </header>
+    <auteur>
+        <nom>Lynzy Billing</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. Stefano, de Londres</titre>
+                <citation>J’adore chaque centimètre carré de ma peau pour plusieurs raisons, mais
+                    j’aime surtout mon dos car j’ai attendu 17 ans pour le faire, et le résultat est
+                    exactement à la hauteur de ce que j’imaginais.</citation>
+            </li>
+            <li>
+                <titre>2. James, de Brighton</titre>
+                <citation>J’avais 16 ans quand je me suis fait tatouer un petit lézard sur la
+                    hanche. Mes parents m’ont dit : “mais comment tu vas pouvoir trouver un boulot
+                    maintenant ?”</citation>
+            </li>
+            <li>
+                <titre>3. Dave, de Leyton</titre>
+            </li>
+            <li>
+                <titre>4. Ness, du Sussex</titre>
+                <citation>J’adore la façon dont [les tatouages] changent en même temps que mon corps
+                    vieillit ; les plis et les rides modifient leur aspect.</citation>
+            </li>
+            <li>
+                <titre>5. Dan, de Bexleyheath</titre>
+                <citation>Quand est-ce que je vais arrêter de me faire tatouer ? Jamais.</citation>
+            </li>
+            <li>
+                <titre>6. Darren, de Crawley</titre>
+                <citation>J’adore mes tatouages ; si vous, vous ne les aimez pas, personne ne vous
+                    force à les regarder. Je me fiche de savoir comment je me sentirai quand je
+                    serai vieux.</citation>
+            </li>
+            <li>
+                <titre>7. Patrick, de Brighton</titre>
+                <citation>J’ai eu mon premier tatouage à 13 ans, et je n’en ai parlé à personne
+                    pendant 10 ans. Cela fait partie de moi et je ne deviendrai jamais
+                    vieux.</citation>
+            </li>
+            <li>
+                <titre>8. Lilianna, de Coventry</titre>
+                <citation>Je ne pense pas que je changerai un jour d’avis sur mes tatouages. Je n’ai
+                    pas l’impression que j’aurai un jour des regrets, quel que soit mon
+                    âge.</citation>
+            </li>
+            <li>
+                <titre>9. Uno, de Hastings</titre>
+                <citation>Au point où j’en suis, je ne peux plus revenir en arrière. Ça fait un mal
+                    de chien, mais je ne changerais mon <anglicisme pos="noun" cc="4" sc="1"
+                        >look</anglicisme> pour rien au monde.</citation>
+            </li>
+            <li>
+                <titre>10. Nick, de Londres</titre>
+            </li>
+            <li>
+                <titre>11. Izzy, de Aylesford</titre>
+                <citation>J’adore être différente, on me parle de mes tatouages au moins une fois
+                    par jour, et les gens réagissent toujours positivement. Un bon tatouage n’est
+                    pas donné, un tatouage donné n’est pas bon.</citation>
+            </li>
+            <li>
+                <titre>12. Kenny, de West Drayton</titre>
+                <citation>J’adore mes tatouages ; c’est un véritable état d’esprit pour moi et je
+                    continuerai de me faire tatouer aussi longtemps que possible.</citation>
+            </li>
+            <li>
+                <titre>13. Kimmy, de Ruislip</titre>
+                <citation>Mon tatouage de Kiss est mon préféré ; ça m’a fait incroyablement mal mais
+                    j’adore pouvoir montrer que je suis entièrement dévouée à ce groupe.</citation>
+            </li>
+            <li>
+                <titre>14. Gareth, de Potters Bar, Hertfordshire</titre>
+            </li>
+        </ol>
+        <ps>Alan Powdrill recherche des modèles pour participer à Covered, son projet photo sur les
+            tatouages. Vous pouvez le contacter sur Twitter.</ps>
+    </corps>
+</article>

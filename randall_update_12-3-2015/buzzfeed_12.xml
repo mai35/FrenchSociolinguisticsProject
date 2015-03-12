@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema_updated.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre>7 façons de perdre du poids grâce à la Apple Watch Edition à 11.000 €</titre>
+        <st>Bien sûr, la Apple Watch Sport à 400 € aidera les gens à être en forme. Mais,
+            saviez-vous que la Apple Watch Edition à 11 000 € vous aidera activement à perdre du
+            poids ? Voici comment.</st>
+    </header>
+    <auteur>
+        <nom>Carolyn Kylstra</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. Courir pour échapper aux <anglicisme pos="3" cc="11" sc="3"
+                        >pickpockets</anglicisme> brûle beaucoup de calories.</titre>
+            </li>
+            <li>
+                <titre>2. Si vous la payez en pièces de 1 euros, cela fera environ 50 kilos.
+                    Soulevez du lourd, éliminez vite !</titre>
+            </li>
+            <li>
+                <titre>3. Relever constamment votre manche pour que les gens puissent voir votre
+                    montre = votre nouvel exercice préféré pour les bras.</titre>
+            </li>
+            <li>
+                <titre>4. Polir cette montre en or très, très, brillante est un excellent exercice
+                    de cardio.</titre>
+                <commentaire>Et que ça brille !</commentaire>
+            </li>
+            <li>
+                <titre>5. Vous ne pourrez plus jamais vous permettre de manger dans un restaurant,
+                    vous serez donc forcé(e) de cuisiner vos propres repas à la maison.</titre>
+                <commentaire>Les plats cuisinés maison sont plus sains que ceux des restaurants
+                    !</commentaire>
+            </li>
+            <li>
+                <titre>6. Il ne vous restera pas non plus assez d’argent pour faire les courses.
+                    Vous allez fondre en un rien de temps !</titre>
+                <commentaire>Amusant pour toute la famille.</commentaire>
+            </li>
+            <li>
+                <titre>7. Vous devrez aussi sûrement abandonner votre voiture (trop chère)… mais,
+                    marcher pour aller au travail est une EXCELLENTE façon de perdre du poids
+                    !</titre>
+                <commentaire>Votre Apple Watch comptera même vos pas pour vous !</commentaire>
+            </li>
+        </ol>
+    </corps>
+</article>
