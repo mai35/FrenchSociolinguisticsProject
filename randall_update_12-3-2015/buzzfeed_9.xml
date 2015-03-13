@@ -32,7 +32,7 @@
                 <titre>6. Celui avec les problèmes de signalisation sur la ligne 4.</titre>
             </li>
             <li>
-                <titre>7. Celle qui n’est plus végétarienne parce qu’elle a enfin goûté à un confit
+                <titre>7. Celle qui n’est plus <anglicisme pos="adj" cc="12" sc="5">végétarienne</anglicisme> parce qu’elle a enfin goûté à un confit
                     de canard.</titre>
             </li>
             <li>
@@ -61,7 +61,7 @@
                 <titre>15. Celui qui n’essaie même pas d’arrêter de fumer.</titre>
             </li>
             <li>
-                <titre>16. Celui qui rêve d’être candidat à « Danse avec les <anglicisme pos="noun"
+                <titre>16. Celui qui rêve d’être candidat à « Danse avec les <anglicisme pos="nom"
                         cc="5" sc="1">stars</anglicisme> ».</titre>
             </li>
             <li>
@@ -110,7 +110,7 @@
                 <titre>28. Celle qui vit dans un studio de 9m2 avec toilettes sur le palier.</titre>
             </li>
             <li>
-                <titre>29. Ceux qui ne célèbrent pas Thanksgiving parce qu’ils sont Français et
+                <titre>29. Ceux qui ne célèbrent pas <anglicisme pos="nom" cc="12" sc="3">Thanksgiving</anglicisme> parce qu’ils sont Français et
                     qu’il n’y a pas de ça chez nous.</titre>
             </li>
             <li>
@@ -135,5 +135,9 @@
                     rencontre Pépita et Marie-Ange Nardi.</titre>
             </li>
         </ol>
+        <conversation>
+            <commentaire>Nul.</commentaire>
+            <commentaire>Je dirai même plus "NUL"</commentaire>
+        </conversation>
     </corps>
 </article>
