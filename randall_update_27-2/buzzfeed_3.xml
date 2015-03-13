@@ -12,7 +12,7 @@
     <corps>
         <ol>
             <li>
-                <titre>1. Quand vous décidez de commander des <anglicisme pos="noun" cc="5" sc="1"
+                <titre>1. Quand vous décidez de commander des <anglicisme pos="nom" cc="5" sc="1"
                         >shots</anglicisme>.</titre>
             </li>
             <li>
@@ -39,8 +39,7 @@
                     beaucoup.</titre>
             </li>
             <li>
-                <titre>8. Quand vous vous sentez <anglicisme pos="adjective" cc="5" sc="2"
-                        >super</anglicisme>
+                <titre>8. Quand vous vous sentez super
                     <anglicisme pos="adjective" cc="4" sc="2">sexy</anglicisme>.</titre>
             </li>
             <li>
@@ -95,5 +94,8 @@
                 <titre>23. Et quand vous essayez vraiment de ne pas vomir.</titre>
             </li>
         </ol>
+        <conversation>
+            <commentaire>quand vous renverser le verre d'un inconnu, que vous vous excuser comme un gros bourré, mais que ça créer quand même un scandale entre lui et vos potes -_- c'est pour ça que je préfère les soirée entre potes à la maison !!!</commentaire>
+        </conversation>
     </corps>
 </article>
