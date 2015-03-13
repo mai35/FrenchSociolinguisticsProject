@@ -80,11 +80,11 @@
             </li>
             <li>
                 <titre>14. Avant même d’envisager de sortir du lit, vous passez les 15 premières
-                    minutes (au moins) de votre journée à consulter votre Twitter et votre
-                    Instagram.</titre>
+                    minutes (au moins) de votre journée à consulter votre <anglicisme pos="nom" cc="7" sc="2">Twitter</anglicisme> et votre
+                    <anglicisme pos="nom" cc="9" sc="3">Instagram</anglicisme>.</titre>
                 <commentaire>Puis vous passez les 15 minutes suivantes à lire vos <anglicisme
-                        pos="noun" cc="7" sc="2">e-mails</anglicisme>, et bien sûr à aller sur
-                    Facebook.</commentaire>
+                        pos="nom" cc="7" sc="2">e-mails</anglicisme>, et bien sûr à aller sur
+                    <anglicisme pos="nom" cc="8" sc="2">Facebook</anglicisme>.</commentaire>
             </li>
             <li>
                 <titre>15. Chaque matin, vous débattez avec vous-même pour savoir si vous pouvez ne
@@ -107,7 +107,7 @@
                 <commentaire>Tous les moyens sont bons pour éviter de se lever. </commentaire>
             </li>
             <li>
-                <titre>19. Puis vous vous faites violence et sortez du lit en mode zombie…</titre>
+                <titre>19. Puis vous vous faites violence et sortez du lit en mode <anglicisme pos="nom" cc="6" sc="2">zombie…</anglicisme></titre>
             </li>
             <li>
                 <titre>20. … en vous promettant de faire une sieste un peu plus tard.</titre>
@@ -123,8 +123,8 @@
                     journée se répétera encore et toujours.</titre>
             </li>
         </ol>
-        <ps><header>
-                <titre>C’est tellement dur de se réveiller.</titre>
-            </header></ps>
+        <ps>
+            C’est tellement dur de se réveiller.
+        </ps>
     </corps>
 </article>
