@@ -65,8 +65,8 @@
             </li>
             <li>
                 <titre>10. Neil Flynn était si bon qu’il a inventé la plupart de ses répliques, et
-                    les scénaristes ont même tourné ça en plaisanterie, en inscrivant dans le script
-                    « ce que Neil dira » au lieu de lui attribuer une réplique.</titre>
+                    les scénaristes ont même tourné ça en plaisanterie, en inscrivant dans le <anglicisme pos="nom" cc="6" sc="2">script
+ </anglicisme>                   « ce que Neil dira » au lieu de lui attribuer une réplique.</titre>
             </li>
             <li>
                 <titre>11. C’est Zach Braff qui a suggéré la chanson « Superman » de Lazlo Bane pour
@@ -78,7 +78,7 @@
                     syndrome de Down, dans laquelle l’acteur McGinley est très impliqué.</titre>
             </li>
             <li>
-                <titre>13. La fameuse chiquenaude de nez du Dr. Cox est un clin d’œil au film
+                <titre>13. La fameuse chiquenaude de nez du Dr. Cox est un clin d’œil au <anglicisme pos="nom" cc="4" sc="1">film</anglicisme>
                     américain « L’arnaque ».</titre>
             </li>
             <li>
@@ -113,7 +113,7 @@
             </li>
             <li>
                 <titre>20. Plusieurs membres du <anglicisme pos="noun" cc="7" sc="2"
-                        >casting</anglicisme> de « Scrubs » sont apparus dans la sitcom animée de
+                        >casting</anglicisme> de « Scrubs » sont apparus dans la <anglicisme pos="nom" cc="6" sc="2">sitcom</anglicisme> animée de
                     Bill Lawrence « Clone High ».</titre>
                 <commentaire>Sarah Chalke a joué Marie Antoinette, Zach Braff a joué Paul Revere,
                     Neil Flynn a joué Jules César, Christa Miller a joué Cléopâtre, Donald Faison a
@@ -131,7 +131,7 @@
                     Braff en saison une.</titre>
             </li>
             <li>
-                <titre>23. Michael Muhney, plus connu comme le shérif Lamb dans « Veronica Mars »,
+                <titre>23. Michael Muhney, plus connu comme le <anglicisme pos="nom" cc="6" sc="2">shérif</anglicisme> Lamb dans « Veronica Mars »,
                     était un des favoris pour jouer le rôle de J.D. mais il n’a finalement pas été
                     choisi parce qu’il n’était pas assez excentrique.</titre>
             </li>
@@ -155,5 +155,8 @@
                 <commentaire>Et leur relation est meilleure que les vôtres.</commentaire>
             </li>
         </ol>
+        <conversation>
+            <commentaire>C'est beau putain ='D</commentaire>
+        </conversation>
     </corps>
 </article>
