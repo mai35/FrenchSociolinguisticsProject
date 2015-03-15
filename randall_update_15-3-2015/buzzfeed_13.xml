@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="new_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre>13 fois où Christiane Taubira a fait taire les <anglicisme pos="noun" cc="6" sc="2"
+                >haters</anglicisme></titre>
+        <st>La garde des Sceaux a son lot d’ennemis, mais elle sait leur répondre avec verve.</st>
+    </header>
+    <auteur>
+        <nom>Anais Bordages</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>Lorsqu’on lui parle de ses critiques</titre>
+            </li>
+            <li>
+                <titre>Lorsqu’elle débat face à Eric Zemmour</titre>
+            </li>
+            <li>
+                <titre>Lorsqu’on la traite de «tract ambulant pour le FN»</titre>
+            </li>
+            <li>
+                <titre>Quand on l’emmerde à l’Assemblée</titre>
+            </li>
+            <li>
+                <titre>Lorsqu’on lui demande de répondre à un <anglicisme pos="noun" cc="4" sc="1"
+                        >quiz</anglicisme></titre>
+                <commentaire>(Du coup, on a peu d’espoir de lui faire répondre aux
+                    nôtres…)</commentaire>
+            </li>
+            <li>
+                <titre>Lorsqu’on lui parle des attaques racistes à son égard</titre>
+            </li>
+            <li>
+                <titre>Quand on lui demande si elle pleure parfois</titre>
+            </li>
+            <li>
+                <titre>Quand un député accuse le gouvernement de vouloir détruire le mariage</titre>
+                <commentaire>Vous n'allez pas nous faire croire que vous vivez dans un <anglicisme
+                        pos="noun" cc="5" sc="2">igloo</anglicisme></commentaire>
+            </li>
+            <li>
+                <titre>Quand on essaie de lui citer un poète de la négritude</titre>
+            </li>
+            <li>
+                <titre>Quand elle n’a pas le temps pour vos conneries</titre>
+            </li>
+            <li>
+                <titre>Quand elle n’a pas envie de répondre à vos questions idiotes</titre>
+            </li>
+            <li>
+                <titre>Et quand elle n’en a rien à faire de ce que vous pensez d’elle</titre>
+            </li>
+            <li>
+                <titre>Jeu <anglicisme pos="noun" cc="3" sc="1">set</anglicisme> et <anglicisme
+                        pos="noun" cc="5" sc="1">match</anglicisme>.</titre>
+            </li>
+        </ol>
+        <ps>
+            <header>
+                <titre>*Mic <anglicisme pos="noun" cc="4" sc="1">drop</anglicisme>*</titre>
+            </header>
+        </ps>
+        <conversation><commentaire>Rodrigue Sery: <anglicisme pos="noun" cc="6" sc="2"
+                    >badass</anglicisme> badass badass badass
+                badass...</commentaire><commentaire>Mathilde Bétou: pas mal... mais peut mieux faire
+                question concordance des temps...</commentaire></conversation>
+    </corps>
+</article>
