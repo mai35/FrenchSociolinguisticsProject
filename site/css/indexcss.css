@@ -1,15 +1,15 @@
 body {
     background-image: url("../images/background.png"); 
-    background-repeat: repeat; 
+    background-repeat: repeat-x; 
     background-position: center top;
     background-color: #D8D8D8;
     background-attachment: fixed;
-    min-height: 100%;
+    min-width:100%;
 } 
 h1 { 
     text-align: center;
     font-size: 2.5em;
-    font-family: "Abyssinica SIL", "Sans Serif";
+    font-family: "Abyssinica SIL", "Lucida Sans", "Sans Serif";
 }
 a:link{
     text-decoration: none;
@@ -17,24 +17,65 @@ a:link{
 h2 {
     text-align: center;
     font-size: 2em;
-    font-family: "Abyssinica SIL", "Sans Serif";
+    font-family: "Abyssinica SIL", "Lucida Sans", "Sans Serif";
 }
 h3 {
     text-align: center;
     font-size: 1.5em;
-    font-family: "Abyssinica SIL", "Sans Serif";
+    font-family: "Abyssinica SIL", "Lucida Sans", "Sans Serif";
 }
 h4 {
+    text-align:center;
     font-size: 1.2em;
-    font-family: "Abyssinica SIL", "Sans Serif";
+    font-family: "Abyssinica SIL", "Lucida Sans", "Sans Serif";
 }
 #img {
     text-align: center;
 }
-#menu {
-       text-align: center;
-       color: #0000FF;
-       text-transform: lowercase;
+#nav {
+    background: #00004C;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-type: none;
+    height: 30px;
+    width: 430px;
+}
+#nav li {
+    float: left;
+    display: block;
+}
+#nav li a {
+    padding: 3px 8px;
+    text-decoration: none;
+    color: #FFFFFF;
+    float: left;
+    font-size: 1em;
+    font-family: "Abyssinica SIL", "Lucida Sans", "Sans Serif";
+    position: relative;
+}
+#nav li ul {
+    position: absolute;
+    display: none;
+    list-style-type: none;
+}
+#nav li:hover {
+    position: relative;
+    background: #800000;
+}
+#nav li:hover ul {
+    background: #800000;
+    display: block;
+    position:inherit;
+}
+#nav li:hover ul li a {
+    padding:5px;
+    display: block;
+    width: 160px;
+    background-color: #800000;
+}
+#nav li:hover ul li a:hover {
+    background: #005555;
 }
 hr {
     width: 35%;
@@ -42,31 +83,49 @@ hr {
 p {
     text-align: center;
     margin-top: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 30px;
     margin-left: 100px;
     margin-right: 100px;
     font-family: "Abyssinica SIL", "Sans Serif";
     letter-spacing: 2px;
 }
 #transbox {
-  margin-top: auto;
+  margin-top: 30px;
   margin-bottom: auto;
   margin-left: auto;
   margin-right: auto;
   background-color: #ffffff;
-  border: 1px solid black;
-  opacity:0.7;
-  height: 650px;
-  width: 980px;
-  overflow: auto;
-  min-height: 100%;
-
+  border: 5px solid black;
+  opacity:0.9;
+  height:100%;
+  width: 900px;
 }
 .bio {
-    padding-left: 0px;
+    font-family: "Abyssinica SIL", "Lucida Sans", "Sans Serif";
+    letter-spacing: 2px;
 }
 .lt {
     font-weight: 700;
+}
+.other {
+    text-align: left;
+    font-family: "Abyssinica SIL", "Lucida Sans", "Sans Serif";
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: "Abyssinica SIL", "Sans Serif";
+    letter-spacing: 2px;
+}
+ul {
+    text-align: left;
+    font-family: "Abyssinica SIL", "Lucida Sans", "Sans Serif";
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: "Abyssinica SIL", "Sans Serif";
+    letter-spacing: 2px;
 }
 #ccl{
     text-align: center;
