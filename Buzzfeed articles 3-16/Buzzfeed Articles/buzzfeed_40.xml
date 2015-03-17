@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<article>
+    <header>
+        <titre>15 GIFs Disney qui résument parfaitement votre semaine au travail</titre>
+        <st>Faites une petite pause.</st>
+    </header>
+
+    <auteur>
+        <nom>DanielMerrifield</nom>
+        <association>Community Member</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. Quand vous vous réveillez le lundi.</titre>
+            </li>
+            <li>
+                <titre>2. Quand vous vous réveillez tous les jours de la semaine, en fait.</titre>
+            </li>
+            <li>
+                <titre>3. Même les jours où vous pensez que vous vous lèverez de bonne
+                    humeur.</titre>
+            </li>
+            <li>
+                <titre>4. Quand les gens laissent traîner leur sac dans le métro.</titre>
+            </li>
+            <li>
+                <titre>5. Quand le patron vous félicite.</titre>
+            </li>
+            <li>
+                <titre>6. Quand on vous pose une question après un moment d’absence dans une
+                    réunion.</titre>
+            </li>
+            <li>
+                <titre>7. Quand quelqu’un amène des chouquettes au bureau.</titre>
+            </li>
+            <li>
+                <titre>8. Quand vous découvrez que deux collègues sortent ensemble.</titre>
+            </li>
+            <li>
+                <titre>9. Quand vous sortez du bureau pour déjeuner quand il fait froid.</titre>
+            </li>
+            <li>
+                <titre>10. Quand vous faites tomber le nombre de vos <anglicisme pos="nom" cc="7"
+                        sc="2">e-mails</anglicisme> à 99.</titre>
+            </li>
+            <li>
+                <titre>11. Quand un collègue se vante d’avoir réussi à venir malgré un
+                    rhume.</titre>
+            </li>
+            <li>
+                <titre>12. Quand le téléphone sonne à 17h30.</titre>
+            </li>
+            <li>
+                <titre>13. Quand votre patron paie sa tournée.</titre>
+            </li>
+            <li>
+                <titre>14. Quand votre patron ne paie aucune tournée de la soirée.</titre>
+            </li>
+            <li>
+                <titre>15. Mais surtout, quand vous passez votre journée à lire <anglicisme
+                        pos="nom" cc="8" sc="2">BuzzFeed</anglicisme> au travail.</titre>
+            </li>
+        </ol>
+    </corps>
+</article>

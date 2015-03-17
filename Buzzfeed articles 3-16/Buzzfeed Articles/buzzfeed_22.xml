@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre>23 preuves qu’Harry Potter est un personnage détestable</titre>
+        <st>Sans Harry, Sirius Black serait encore en vie.</st>
+    </header>
+
+    <auteur>
+        <nom>Jemima Skelley</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <intro> Tout le monde a déjà entendu parler de Harry Potter. Mais peu de personnes
+            reconnaissent que c’est, en réalité, un vrai petit con. Si, si je vous jure. </intro>
+        <ol>
+            <li>
+                <titre>1. Pour commencer, il est malpoli.</titre>
+            </li>
+            <li>
+                <titre>2. Et il pense être meilleur que tout le monde, parce qu’il est
+                    ~l’élu~.</titre>
+                <commentaire>Cela aurait très bien pu être Neville.</commentaire>
+            </li>
+            <li>
+                <titre>3. Dans toute l’histoire de la fiction, aucun autre personnage n’a autant
+                    tenu la chandelle.</titre>
+            </li>
+            <li>
+                <titre>4. Non mais franchement, laisse-les donc vivre leur histoire d’amour
+                    adolescente.</titre>
+            </li>
+            <li>
+                <titre>5. N’oublions pas que son père était lui aussi un petit con.</titre>
+            </li>
+            <li>
+                <titre>6. Harry ne pense jamais à ménager les sentiments d’autrui. Vous vous
+                    souvenez quand il a dépensé une fortune en bonbons devant Ron, comme si de rien
+                    n’était ?</titre>
+                <commentaire>OUI il a partagé ses bonbons mais NON cela ne rend pas acceptable de
+                    claquer son argent de la sorte. Surtout devant quelqu’un qui n’est clairement
+                    pas aussi privilégié.</commentaire>
+            </li>
+            <li>
+                <titre>7. Harry pense être au-dessus de l’autorité parce que ses deux parents sont
+                    morts et que personne n’a à lui dire ce qu’il a à faire. </titre>
+            </li>
+            <li>
+                <titre>8. Il n’écoute jamais ce qu’on lui dit.</titre>
+            </li>
+            <li>
+                <titre>9. Sérieusement, il enfreint presque toutes les règles qui existent à
+                    Poudlard.</titre>
+            </li>
+            <li>
+                <titre>10. Et il se met constamment en danger alors que TOUT LE MONDE se met en
+                    quatre pour le protéger.</titre>
+            </li>
+            <li>
+                <titre>11. Harry s’est tapé la sœur de son MEILLEUR AMI. Vraiment pas cool.</titre>
+            </li>
+            <li>
+                <titre>12. ET il a essayé de <anglicisme pos="verbe" cc="7" sc="2"
+                        >flirter</anglicisme> avec une fille dont le petit ami venait de
+                    mourir.</titre>
+            </li>
+            <li>
+                <titre>13. En plus il embrasse très mal.</titre>
+            </li>
+            <li>
+                <titre>14. Il a un mépris flagrant pour les sentiments de ses amis.</titre>
+            </li>
+            <li>
+                <titre>15. Il est tout le temps en colère.</titre>
+            </li>
+            <li>
+                <titre>16. Même quand tout le monde est sympa avec lui, il est en colère.</titre>
+            </li>
+            <li>
+                <titre>17. Dans L’Ordre du Phénix, Harry est toujours, toujours en colère.</titre>
+            </li>
+            <li>
+                <titre>18. Il ne réfléchit jamais avant de faire quoi que ce soit.</titre>
+            </li>
+            <li>
+                <titre>19. Et il adore pleurnicher et s’apitoyer sur son sort.</titre>
+            </li>
+            <li>
+                <titre>20. Harry Potter est responsable de la mort de Sirius.</titre>
+                <commentaire>HARRY. SIRIUS T’A DONNÉ UN MIROIR QUI TE PERMETTAIT DE LE CONTACTER
+                    FACILEMENT. SI TU N’ÉTAIS PAS SI OBSÉDÉ PAR TA PETITE PERSONNE TU AURAIS
+                    PEUT-ÊTRE PU PRENDRE UNE MINUTE POUR RÉFLÉCHIR AVANT DE JOUER AU HÉROS.
+                    BRAVO.</commentaire>
+            </li>
+            <li>
+                <titre>21. Il n’aurait pas réussi la moitié de ce qu’il a fait sans beaucoup de
+                    chance et beaucoup d’aide.</titre>
+                <commentaire>QUI D’AUTRE a échappé PLUS D’UNE FOIS à la mort en utilisant seulement
+                    EXPELLIARMUS ?!???!!!</commentaire>
+            </li>
+            <li>
+                <titre>22. VOUS VOUS SOUVENEZ DE LA FOIS OÙ IL A VOLÉ UNE SUCETTE À NEVILLE ? Ce
+                    pauvre Neville qui n’a jamais fait de mal à une mouche.</titre>
+            </li>
+            <li>
+                <titre>23. Et il se fiche apparemment pas mal de ses enfants, quand on voit les
+                    prénoms qu’il leur a donné.</titre>
+            </li>
+        </ol>
+       
+            <ps>Et bien voilà. Harry Potter : le connard qui a survécu.</ps>
+       
+        <conversation>
+            <commentaire>Sérieux, j'étais en train de commenter rationellement chacune de de ces
+                critiques. On peut ne pas aimer le personnage de Harry Potter, mais il n'a pas tous
+                les défauts quand même. (et Sirius serait probablement mort quand même sans son aide
+                car un jour ou l'autre, il aurait fini par sortir sur le champ de bataille et aurait
+                rencontré possiblement sa chère cousine. L'action, c'était sa vie. Il ne pouvait
+                rester sans rien faire. ) Celui qui a écrit cet article n'a pas été en
+                profondeur.</commentaire>
+            <commentaire> Je suis littéralement morte de rire devant cet article. Tout est exagéré à
+                souhait, et ça fait du bien de voir le Balafré descendu de son piédestal. Je suis
+                    <anglicisme pos="adj" cc="3" sc="1">fan</anglicisme> de HP de la première heure
+                mais... sérieux Harry la mort de Sirius quoi... PS: 24: Il est pas fut'fut' (pas un
+                Serdaigle ça c'est sûr) , souvenez-vous quand il y avait des CENTAINES de lettres de
+                Poudlard au sol et que cet andouille a galéré pour en choper une au
+                vol.</commentaire>
+            <commentaire>Soit le rédacteur est un gros <anglicisme pos="nom" cc="5" sc="1"
+                    >troll</anglicisme> soit c'est un grooooooos <anglicisme pos="nom" cc="6" sc="7"
+                    >haters</anglicisme> de Harry Potter XD</commentaire>
+            <commentaire>On peut détester le personnage de Harry Potter et adorer la saga Harry
+                Potter, seuls les abrutis comme toi pensent que l'un ne va pas avec
+                l'autre.</commentaire>
+            <commentaire>Carmen Dean Sylvastra pourquoi insulter directement sans raison ? L'abruti
+                ici c'est toi j'suis navrée de te le dire :/</commentaire>
+            <commentaire>Kelly Métairy Oui Carmen je t'ai pas agresser à ce que je sache. Et peut tu
+                me donner les raisons PRECISES que mon raisonnement fait de moi un abrutis stp ? Car
+                pour un tel déchaînement de violence, il y a bien une raison. Ou alors il ne s'agit
+                juste que de violence gratuite et inutile XD</commentaire>
+            <commentaire>Bravo à l'andouille qui a fait cet article, la palme d'or de la connerie
+                sérieux !</commentaire>
+            <commentaire>Le second degré, c'est pas ton fort ma fille.</commentaire>
+            <commentaire>Il n'y a pas de second degré quand on touche à Harry Potter 'mon gars'. Cet
+                article est d'une incohérence totale.</commentaire>
+            <commentaire>Margaux Hebrard là c'est toi qu'on prend au second degré xD</commentaire>
+            <commentaire>Alors, les deux personnes qui critique en mal ça, sois c'est des
+                    <anglicisme pos="nom" cc="8" sc="2">Fangirls</anglicisme> d'Harry Potter (juste
+                de Harry hein.) sois y à pas d'<anglicisme pos="nom" cc="6" sc="2"
+                    >humour</anglicisme> chez eux. :) Voila bonne soirée. Ah et de deux, vue sa
+                position, non, on ne vois pas sa main de base. Donc sois vous vous acheter un
+                cerveaux et de quoi réfléchir avec de l'<anglicisme pos="nom" cc="6" sc="2"
+                    >humour</anglicisme> sois vous dégager et arrêter de polluer par vos
+                commentaire. :D</commentaire>
+            <commentaire>Il n'en reste pas moins que cet article est complètement tiré par les
+                cheveux. L'auteur de l'article est sûrement un gros lover de Sirius qui a cherché à
+                TOUS PRIX à porter tous les blâmes sur Harry pour la mort de Sirius.</commentaire>
+            <commentaire>Aurore Guégan MDR Où alors c'est juste un mec qui avait envie de rire sur
+                la saga Harry Potter. Faut arrêter de croire qu'il descend Harry Potter car il le
+                déteste c'est seulement un <anglicisme pos="nom" cc="5" sc="1"
+                >troll</anglicisme></commentaire>
+            <commentaire>De mon point de vue c'est les 23 points qui font de lui un personnage
+                intéressant. Sinon, ce serait un personnage totalement plat et sans intérêt
+                ^^</commentaire>
+            <commentaire>J'ai toujours pensé ça du personnage ! Contente de voir que mon avis est
+                partagé.</commentaire>
+            <commentaire>Plus, le fait qu'on lui passe absolument TOUT, meme le fait d'avoir risqué
+                la vie de ses deux amis, et meme RECOMPENSE pour cela, alors qu'il aurait pu les
+                faire faire tuer ou devores vivants. Dumbledore est un peu une enflure pour laisser
+                passer tout ca. Tout ca parce qu'Harry est orphelin et le Jesus du monde magique ? </commentaire>
+            <commentaire>Faut vraiment s'ennuyer à mort et être un "<anglicisme pos="nom" cc="6"
+                    sc="2">no life</anglicisme>" pour pondre un article aussi inutile !
+                Pathétique...</commentaire>
+            <commentaire>Ces commentaires me terrifient, où est le sens d'humour des français? Ayez
+                plus de Brésil dans votre esprit! J'adore HP, la saga et le personnage, et je me
+                suis beaucoup amusé, quand même</commentaire>
+            <commentaire>Je suis d'accord sur la plupart des points. J'aimais bien Harry au début,
+                mais après il devient vraiment insupportable. Il ne réfléchit jamais aux
+                conséquences de ses actes et il agit souvent avec égoïsme. Pour la mort de Sirius
+                j'ai eu la même pensée.</commentaire>
+        </conversation>
+    </corps>
+</article>

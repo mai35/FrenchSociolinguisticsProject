@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre>20 secrets que les employés de McDonald’s ne vous dévoileront jamais</titre>
+        <st>Vous voulez des frites avec ça ?</st>
+    </header>
+    <auteur>
+        <nom>Laura Silver</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. Les ingrédients de la sauce du <anglicisme pos="nom" cc="6" sc="2">Big
+                        Mac</anglicisme> contiennent tous les ingrédients du <anglicisme pos="nom"
+                        cc="6" sc="2">Big Mac</anglicisme>, sauf le bœuf.</titre>
+                <commentaire>Et il est sensé y avoir une tranche de cornichon dans chaque bouchée.
+                    Dommage pour ceux qui n’aiment pas cela !</commentaire>
+            </li>
+            <li>
+                <titre>2. C’est vraiment dur de ne pas se sentir ridicule avec ce truc.</titre>
+            </li>
+            <li>
+                <titre>3. Et le reste de l’uniforme n’est pas beaucoup mieux.</titre>
+                <commentaire>Ces pantalons taille haute…</commentaire>
+            </li>
+            <li>
+                <titre>4. Les gens adorent vous dire comment sont fait les <anglicisme pos="nom"
+                        cc="7" sc="2">nuggets</anglicisme>.</titre>
+                <commentaire>Sérieusement…</commentaire>
+            </li>
+            <li>
+                <titre>5. Vous attendez avec impatience qu’on vous envoie en salle pour pouvoir vous
+                    cacher dans les toilettes.</titre>
+                <commentaire>« Je jetais juste un coup d’œil. »</commentaire>
+            </li>
+            <li>
+                <titre>6. Ça prend moins de 30 secondes pour cuire le <anglicisme pos="nom" cc="5"
+                        sc="1">steak</anglicisme> d’un <anglicisme pos="nom" cc="6" sc="2"
+                        >burger</anglicisme>.</titre>
+                <commentaire>Ouep.</commentaire>
+            </li>
+            <li>
+                <titre>7. Et pas besoin de les retourner parce que les deux côtés cuisent en même
+                    temps.</titre>
+            </li>
+
+            <li>
+                <titre>8. Il n’y a rien de pire que se brûler en essayant de décoller un pain du
+                        <anglicisme pos="nom" cc="7" sc="2">toaster</anglicisme>.</titre>
+            </li>
+            <li>
+                <titre>9. A part lorsqu’on se cogne le coude contre le coin d’une friteuse en
+                    versant une fournée de frites fraiches</titre>
+            </li>
+            <li>
+                <titre>10. Vous passez votre temps à manger des frites en douce quand vous croyez
+                    que personne ne vous voit.</titre>
+            </li>
+            <li>
+                <titre>11. Ou quelque fois les restes de <anglicisme pos="nom" cc="7" sc="2"
+                        >nuggets</anglicisme> si vous avez de la chance.</titre>
+            </li>
+            <li>
+                <titre>12. Mais vous mangez quand même l’intégralité du repas qui vous est offert
+                    quand vient l’heure de la pause.</titre>
+            </li>
+            <li>
+                <titre>13. Vous détestez quand vos horaires coïncident avec la fermeture des
+                        <anglicisme pos="nom" cc="4" sc="1">bars</anglicisme> parce que vous tombez
+                    sur les gens les plus relous.</titre>
+            </li>
+            <li>
+                <titre>14. Vous tombez toujours sur un abruti pour vous commander un <anglicisme
+                        pos="nom" cc="6" sc="2">Big Mac</anglicisme>, sans sauce, sans fromage, mais
+                    juste avec du ketchup.</titre>
+                <commentaire>Donc, pas un <anglicisme pos="nom" cc="6" sc="2">Big Mac</anglicisme>,
+                    quoi.</commentaire>
+            </li>
+            <li>
+                <titre>15. Vous ignorez délibérément les gens qui crient « bonjouuur ?? » dans le
+                    micro du <anglicisme pos="nom" cc="5" sc="1">drive</anglicisme> si vous ne
+                    prenez pas leur commande assez rapidement.</titre>
+            </li>
+            <li>
+                <titre>16. Vous détestez tous ceux qui commandent des <anglicisme pos="nom" cc="12"
+                        sc="4">Filet-O-Fish</anglicisme> parce que vous devez les faire à la
+                    commande à chaque fois.</titre>
+                <commentaire>Mais QUI commande un <anglicisme pos="nom" cc="12" sc="4"
+                        >Filet-O-Fish</anglicisme> ?</commentaire>
+            </li>
+            <li>
+                <titre>17. En particulier si vous portez des lunettes, parce que cuire le pain à la
+                    vapeur les embuera instantanément.</titre>
+            </li>
+            <li>
+                <titre>18. Vous essayez vraiment de ne pas perdre patience quand les gens attendent
+                    d’être arrivés devant vous pour réfléchir sérieusement à ce qu’ils vont
+                    prendre.</titre>
+            </li>
+            <li>
+                <titre>19. Mais ce n’est rien à côté de ceux qui se plaignent de ne pas avoir des
+                    frites chaudes et se plaignent ensuite de devoir attendre qu’elles
+                    cuisent.</titre>
+            </li>
+            <li>
+                <titre>20. Mais au moins vous avez des <anglicisme pos="nom" cc="7" sc="2"
+                        >burgers</anglicisme> gratuits !</titre>
+                <commentaire>Et bien sûr, de l’argent et un job.</commentaire>
+            </li>
+        </ol>
+        <conversation>
+            <commentaire>J'ai quasiment jamais mangé les burgers "gratuits" quand j'y ai bossé parce
+                qu'on fait rapidement une <anglicisme pos="nom" cc="8" sc="3">overdose</anglicisme>
+                avec tout le gras autour de nous (même au sol, on est obligé de porter des
+                surchaussures en plastique pour ne pas glisser). Les restos le savent bien ils sont
+                gagnants là dessus. D'ailleurs les <anglicisme pos="nom" cc="7" sc="2"
+                    >burgers</anglicisme> "gratuits" ne le sont absolument pas! ils sont retirés sur
+                la paye. Pour qu'ils ne soient pas retirés de la paye il faut faire une lettre
+                recommandée avec AR au siège et ça prend plus d'un mois pour que ce soit effectif.
+                Donc en gros, si vous ne mangez pas ces <anglicisme pos="nom" cc="7" sc="2"
+                    >burgers</anglicisme>, vous faites cadeau d'un repas par jour à votre employeur.
+                Il vaut mieux encore les prendre et de les manger, ou de les offrir à des SDF que
+                vous croisez dans la rue.</commentaire>
+            <commentaire>"Tu lances un 8/2 steuplait" xD et ouais les joies de l'équipier
+                polyvalent... Ceci posé, z'avez en face vous un authentique champion de sortie de
+                    <anglicisme pos="nom" cc="6" sc="2">BigMac</anglicisme>, 6 en 41s (montés et en
+                boite) record des franchisés en Seine et Marne, inclinez vous manants xD....ouais qd
+                j'étais étudiant, j'avais rien d'autre à foutre <anglicisme pos="abbr excl"
+                    cc="3" sc="3">lol</anglicisme></commentaire>
+            <commentaire>maintenant on sait pourquoi la salade est un peu partout dans la boite, le
+                    <anglicisme pos="nom" cc="5" sc="1">steak</anglicisme> à moitié dans le
+                    <anglicisme pos="nom" cc="6" sc="2">burger</anglicisme> et le fromage fondu
+                contre la boite au lieu d'etre bien dans le pain. :p (je suis moi même un ex-équipé
+                polyvalent) </commentaire>
+            <commentaire>Quelques trucs faux: -Un <anglicisme pos="nom" cc="5" sc="1"
+                    >steak</anglicisme> de <anglicisme pos="nom" cc="6" sc="2">burger</anglicisme>
+                met 40 sec, pas moins de 30. -Toute personne mangeant tous les jours au McDo finit
+                par en faire une <anglicisme pos="8" cc="8" sc="8">overdose</anglicisme>, donc rares
+                sont les gens en CDI mangeant systématiquement leur repas. -Les toilettes sont tout
+                le temps tellement dégueu que je n'ai jamais vu qui que ce soit aller s'y cacher....
+                Le reste est plutôt correct, ca dépend beaucoup de la personne aussi.</commentaire>
+            <commentaire>Sa dépend surtout du Mac DO.</commentaire>
+            <commentaire>J'ai travaillé à McDo et rien ne m'a empêcher d'y manger à chaque repas, le
+                temps que j'y bossais. Je dois être le seul qui n'en a pas été dégoûté
+                ahah</commentaire>
+            <commentaire>La sauce <anglicisme pos="nom" cc="6" sc="2">big mac</anglicisme>, qui
+                contient tous les ingrédients du <anglicisme pos="nom" cc="6" sc="2">big
+                    mac</anglicisme> sauf le boeuf... pas trop non... La sauce c'est globalement
+                mayo, moutarde, cornichons hâchés, vinaigre de vin blanc, poudre d'ail, poudre
+                d'oignon, paprika....</commentaire>
+            <commentaire>Il a certaines de choses qui sont fausses!!!</commentaire>
+            <commentaire>mais j'adore les <anglicisme pos="nom" cc="12" sc="4"
+                    >filet-o-fish</anglicisme> !!!! et vous m'avez donné faim !!!!</commentaire>
+            <commentaire>Et le numéro 13 il t'a donner faim?^^</commentaire>
+            <commentaire>Ayant travaillé il ya a de nombreuse année maintenant, je peut vous dire
+                que celui de MOULINS (03) dans l'allier et lamentable, niveau hygiène surtout. On
+                vous cache pas mal de chose encore. Il nous étais interdit de quitter les lieux
+                durant notre pause, donc obliger de manger sur place leur <anglicisme pos="nom"
+                    cc="7" sc="2">burgers</anglicisme>, tt les jour pendant 2 ans. Nous étions de
+                vrai esclaves. Ayant des problème de santé a cette époque, et après une dispute avec
+                elle, elle m'a tt simplement dit devants les clients "Tu peut crever, j'en et rien a
+                foutre, le boulot doit être fait", <anglicisme pos="adj" cc="4" sc="1"
+                    >cool</anglicisme> non. Elle et tjr directrice du Mac do MOULINS
+                (03)</commentaire>
+            <commentaire>Ici au québec, vous, les français, dite que nous parlons un mauvais
+                français. Mais au moins, ici, on dit, "pépittes de poulet", et non <anglicisme
+                    pos="nom" cc="6" sc="2">nugget</anglicisme>, et, fillet de poissons, et non,
+                    "<anglicisme pos="nom" cc="11" sc="4">fillet O fish</anglicisme>...</commentaire>
+            <commentaire>Pépite (1 T) filet (1 L). "les Français", et "au Québec" avec une
+                majuscule. Sinon, les Français pensent surtout que les Québécois ont un accent
+                mignon (pardon "<anglicisme pos="adj" cc="6" sc="1">kioute</anglicisme>"), et ils
+                aiment bien vos chansons (pardon "<anglicisme pos="nom" cc="6" sc="1"
+                    >tounes</anglicisme>"). Ta, ta, j'arrête de faire ma <anglicisme pos="nom"
+                    cc="8" sc="">djôkeuse</anglicisme>.</commentaire>
+            <commentaire>J'ai jamais entendu un seul québécois dire pépittes de poulet... Sachant
+                qu'étant québécoise...</commentaire>
+            <commentaire>non c'est effectivement des ''croquettes''</commentaire>
+            <commentaire>Je suis donc la seule à commander des <anglicisme pos="nom" cc="10" sc="4"
+                    >Filet O Fish</anglicisme> ? :( C'est super bon en plus ...</commentaire>
+            <commentaire>T'es pas la seule! :)</commentaire>
+        </conversation>
+    </corps>
+</article>

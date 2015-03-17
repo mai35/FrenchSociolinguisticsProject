@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+            
+<article>
+    <header>
+        <titre>15 lamas qui s’en foutent complètement</titre>
+        <st>Les lamas n’ont pas le temps pour vos conneries.</st>
+    </header>
+
+    <auteur>
+        <nom>Lara Parker</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. Ce lama qui hait les lundis</titre>
+            </li>
+            <li>
+                <titre>2. Ce lama qui avait juste besoin de faire une pause dans sa vie</titre>
+            </li>
+            <li>
+                <titre>3. Ces lamas qui n’ont clairement pas envie de jouer avec le chien</titre>
+            </li>
+            <li>
+                <titre>4. Ce lama qui n’en a rien à faire de votre photo <anglicisme pos="nom"
+                        cc="9" sc="3">Instagram</anglicisme></titre>
+            </li>
+            <li>
+                <titre>5. Ce lama prêt pour la <anglicisme pos="nom" cc="11" sc="3">Fashion
+                        Week</anglicisme></titre>
+            </li>
+            <li>
+                <titre>6. Ce lama qui rêve de nouveaux horizons</titre>
+            </li>
+            <li>
+                <titre>7. Ce lama qui promène son humain</titre>
+            </li>
+            <li>
+                <titre>8. Ce lama qui profite du soleil</titre>
+            </li>
+            <li>
+                <titre>9. Ce lama qui a tout compris à <anglicisme pos="nom" cc="9" sc="3"
+                        >Instagram</anglicisme></titre>
+            </li>
+            <li>
+                <titre>10. Ce lama qui planifie son prochain repas</titre>
+            </li>
+            <li>
+                <titre>11. Ce lama qui passe par sa phase <anglicisme pos="nom" cc="3" sc="2"
+                        >émo</anglicisme></titre>
+            </li>
+            <li>
+                <titre>12. Ce lama qui n’est pas du tout intéressé par votre <anglicisme pos="nom"
+                        cc="6" sc="2">selfie</anglicisme></titre>
+            </li>
+            <li>
+                <titre>13. Ce lama qui n’a absolument PAS le temps pour vos conneries</titre>
+            </li>
+            <li>
+                <titre>14. Ce lama qui N’EN PEUT PLUS</titre>
+            </li>
+            <li>
+                <titre>15. Et ce lama qui refuse de poursuivre cette journée</titre>
+            </li>
+        </ol>
+    </corps>
+</article>

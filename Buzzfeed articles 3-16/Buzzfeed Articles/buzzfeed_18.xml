@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre>Comment larguer quelqu’un (comme un adulte)</titre>
+        <st>Finissons-en avec les <anglicisme pos="nom" cc="6" sc="2">textos</anglicisme> de
+            rupture.</st>
+    </header>
+    <auteur>
+        <nom>Rachel Wilkerson Miller</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>Ne remettez pas la rupture à plus tard.</titre>
+                <commentaire>Harris O’Malley, auteur du site <anglicisme pos="nom" cc="17" sc="6"
+                        >Paging Dr. NerdLove</anglicisme>, confie à <anglicisme pos="nom" cc="12"
+                        sc="3">BuzzFeed Life</anglicisme>: «Vous n’avez besoin ni d’une permission
+                    ni d’une “bonne raison” pour vous séparer de quelqu’un». «Il y aura toujours
+                    quelque chose qui fera que ce n’est pas le “bon moment” pour rompre. Il y a
+                    toujours un anniversaire ou des vacances à l’horizon. Une fois que vous avez
+                    pris votre décision, il vaut mieux en finir au plus vite pour que vous puissiez
+                    tous les deux passer à autre chose.»</commentaire>
+            </li>
+            <li>
+                <titre>Adressez-vous à la meilleure part de l’autre.</titre>
+                <commentaire>«Essayez de vous adresser à la meilleure part de l’autre, dont vous
+                    connaissez l’existence, même si à moment-là vous ne voyez plus que ses mauvais
+                    côtés», recommande Dana Caspersen, spécialiste du conflit et auteur de Changing
+                    the Conversation: The 17 Principles of Conflict Resolution. «Les gens ont
+                    tendance à s’accorder au ton sur lequel nous engageons la conversation avec
+                    eux.»</commentaire>
+            </li>
+            <li>
+                <titre>Faites-le en privé, et en personne, si possible.</titre>
+                <commentaire>«Si vous êtes engagé(e) dans une relation sérieuse, votre partenaire
+                    mérite le respect d’être quitté(e) face à face», affirme Harris O’Malley. Mais
+                    si vous avez du mal à faire face à votre partenaire et à mettre de l’ordre dans
+                    vos pensées, vous devriez, selon lui, le faire par téléphone ou par <anglicisme
+                        pos="nom" cc="6" sc="2">e-mail</anglicisme>. Faites-le également en privé,
+                    à l’occasion d’un moment où vous ne risquez pas d’être interrompu(e). Si vous le
+                    faites en public, «vous ne vous contentez pas de faire du mal à votre
+                    partenaire, vous l’humiliez aussi», selon Harris O’Malley.</commentaire>
+            </li>
+            <li>
+                <titre>Utilisez des mots clairs ne laissant pas place au doute, comme «rupture» ou
+                    «séparation».</titre>
+                <commentaire>«Réaliser qu’on est en train de se faire larguer est très douloureux»,
+                    confie O’Malley. «C’est un peu comme une insulte, dans un sens». Utilisez donc
+                    des phrases du genre «Je pense qu’on devrait se séparer» ou «Je te quitte» dès
+                    le début de la conversation.</commentaire>
+            </li>
+            <li>
+                <titre>Ne rejetez pas la faute sur votre partenaire.</titre>
+                <commentaire>«Le blâme relève de la punition, pas de l’information et du mouvement
+                    vers l’avant», affirme Dana Caspersen. «Ne parlez pas de ce que vous reprochez à
+                    l’autre, et ne faites pas non plus de critiques sur sa personnalité. Cela impute
+                    la responsabilité de votre décision de rompre à votre partenaire, ce qui est
+                    faux. »</commentaire>
+            </li>
+            <li>
+                <titre>Écoutez sans faire de suggestions.</titre>
+                <commentaire>«Écouter concerne le point de vue de l’autre ; faire des suggestions
+                    concerne le vôtre», explique Dana Caspersen. «Respectez la personne en vous
+                    concentrant sur son point de vue, afin de pouvoir aller de l’avant ensuite.»
+                    Harris O’Malley recommande d’utiliser des déclarations contenant la première
+                    personne, comme «Ça ne fonctionne plus pour moi». Si vous accusez son
+                    comportement, votre partenaire pourrait proposer de changer pour vous convaincre
+                    de rester.</commentaire>
+            </li>
+            <li>
+                <titre>Acceptez que votre partenaire puisse vous dire des choses blessantes.</titre>
+                <commentaire>«Durant une séparation, les gens réagissent souvent mal et expriment
+                    leur colère et leur douleur par le biais d’une communication agressive»,
+                    explique Dana Caspersen. «Préparez-vous à cette éventualité et focalisez votre
+                    attention sur ce que l’autre personne essaie réellement de dire, même si elle
+                    l’exprime très mal. Faites savoir à votre partenaire que vous avez entendu ses
+                    paroles, même si vous n’êtes pas d’accord avec leur contenu.» Harris O’Malley
+                    est du même avis. «Acceptez sa réaction», dit-il. «Acceptez d’encaisser sans
+                    broncher. Votre partenaire vous insultera. Ne dites pas que c’est irrationnel,
+                    n’essayez pas d’aplanir les choses. Encaissez calmement.» La seule exception? Si
+                    le partenaire devient violent. Harris O’Malley, dans ce cas de figure,
+                    recommande de «foutre le camp».</commentaire>
+            </li>
+            <li>
+                <titre>Soyez honnête si vous quittez votre partenaire pour quelqu’un
+                    d’autre.</titre>
+                <commentaire>«Je pense qu’il est important de dire la vérité parce que lorsque votre
+                    ex vous verra avec quelqu’un d’autre sans avoir été prévenu, le choc sera
+                    beaucoup plus grand», recommande Harris O’Malley. «Soyez honnête mais
+                    pondéré(e).»</commentaire>
+            </li>
+            <li>
+                <titre>Soyez concis(e), rapide et direct(e).</titre>
+                <commentaire>«Évitez préambules et introductions», recommande Harris O’Malley.
+                    «Finissez-en au plus vite sans tourner autour du pot.»</commentaire>
+            </li>
+            <li>
+                <titre>N’étalez pas les détails de votre rupture sur les réseaux sociaux.</titre>
+                <commentaire>«Vous ne devriez vous défouler qu’en privé, face à face avec vos amis»,
+                    précise Harris O’Malley, ajoutant que même si vous pensez que votre ex ne peut
+                    pas voir vos statuts <anglicisme pos="adj" cc="8" sc="2">Facebook</anglicisme>,
+                    c’est probablement faux. «Un changement de statut sur <anglicisme pos="nom"
+                        cc="8" sc="2">Facebook</anglicisme> est inévitable, mais si les gens vous
+                    posent des questions, répondez simplement que ça ne marchait plus entre vous et
+                    que la rupture était inévitable». Il souligne d’ailleurs que la meilleure chose
+                    que vous puissiez faire pour votre ex, c’est lui laisser sa
+                    dignité.</commentaire>
+            </li>
+        </ol>
+    </corps>
+</article>

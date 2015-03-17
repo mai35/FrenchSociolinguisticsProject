@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre>33 images de nourriture qui vous combleront sexuellement</titre>
+        <st>Pas besoin de manger: on peut éprouver du plaisir avec la nourriture rien qu’en la
+            regardant.</st>
+    </header>
+
+    <auteur>
+        <nom>Hannah Jewell</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. Ce vendeur de rue faisant des rouleaux de crème glacée en
+                    Thaïlande.</titre>
+                <commentaire>Oui. Ouiiiii. Vas-y, racle. Racle encore.</commentaire>
+            </li>
+            <li>
+                <titre>2. La première bouchée de mousse.</titre>
+                <commentaire>Bonjour, jolie petite mousse.</commentaire>
+            </li>
+            <li>
+                <titre>3. Les compositions de la photographe Emily Blincoe.</titre>
+            </li>
+            <li>
+                <titre>4. Merci, Emily Blencoe.</titre>
+            </li>
+            <li>
+                <titre>5. Cette pizza qui se fait recouvrir de sauce chez Pizza Hut.</titre>
+                <commentaire>Vous sentez ça ? Ce plaisir qui vous envahit, comme si vous étiez en
+                    transe ?</commentaire>
+            </li>
+            <li>
+                <titre>6. Ce citron pelé.</titre>
+            </li>
+            <li>
+                <titre>7. La disposition de cette ratatouille.</titre>
+                <commentaire>C’est encore meilleur quand c’est parfait.</commentaire>
+            </li>
+            <li>
+                <titre>8. Ce rayon de supermarché.</titre>
+                <commentaire>Franchement, il devrait y avoir autant de touristes à prendre ça en
+                    photo que devant le tableau de la Joconde.</commentaire>
+            </li>
+            <li>
+                <titre>9. La préparation de cette boule en chocolat.</titre>
+                <commentaire>Est-ce que vous avez la bouche grande ouverte ? Est-ce qu’une flaque de
+                    bave est en train de se former à vos pieds ?</commentaire>
+            </li>
+            <li>
+                <titre>10. Cet avocat aux proportions magnifiques.</titre>
+            </li>
+            <li>
+                <titre>11. Cet art du <anglicisme pos="nom" cc="5" sc="1"
+                    >toast</anglicisme>.</titre>
+            </li>
+            <li>
+                <titre>12. La personne qui a repoussé les limites du possible avec sa glace à
+                    l’italienne.</titre>
+                <commentaire>~Visez la lune. Même en cas d’échec, vous atterrirez dans les
+                    étoiles.~</commentaire>
+            </li>
+            <li>
+                <titre>13. Cette assiette de fromages, charcuterie et fruits.</titre>
+            </li>
+            <li>
+                <titre>14. Ces chiens en chocolat.</titre>
+                <commentaire>Le fourrage est différent selon la race.</commentaire>
+            </li>
+            <li>
+                <titre>15. Cette boîte de cacao complètement pleine.</titre>
+                <commentaire>Remplie à ras bord, avec de magnifiques petites irrégularités, appelant
+                    votre cuillère.</commentaire>
+            </li>
+            <li>
+                <titre>16. Cette crème brûlée craquante.</titre>
+                <commentaire>Oh mon dieu, oui !</commentaire>
+            </li>
+            <li>
+                <titre>17. Cette toute petite tarte aux pommes.</titre>
+                <commentaire>Qui aurait cru que les pommes pouvaient être encore plus belles que les
+                    roses ?</commentaire>
+            </li>
+            <li>
+                <titre>18. Cette montagne de <anglicisme pos="nom" cc="8" sc="2"
+                        >pancakes</anglicisme>.</titre>
+                <commentaire>Une montagne que quelqu’un a eu le courage d’escalader.</commentaire>
+            </li>
+            <li>
+                <titre>19. La découpe de cette pastèque.</titre>
+                <commentaire>Une vraie beauté.</commentaire>
+            </li>
+            <li>
+                <titre>20. Et la façon dont cette pastèque s’insère dans ce sac.</titre>
+                <commentaire>Hmmm, rentre là-dedans.</commentaire>
+            </li>
+            <li>
+                <titre>21. Cette mousse au chocolat et aux <anglicisme pos="nom" cc="12" sc="3"
+                        >marshmallows</anglicisme> grillés.</titre>
+                <commentaire>Rien que le fait d’écrire le nom de cette création me met les larmes
+                    aux yeux.</commentaire>
+            </li>
+            <li>
+                <titre>22. Le mouvement de cette sauce <anglicisme pos="nom" cc="9" sc="3"
+                        >cranberry</anglicisme> en train de glisser.</titre>
+                <commentaire>Oooooh.</commentaire>
+            </li>
+            <li>
+                <titre>23. <anglicisme pos="nom" cc="3" sc="3">BBQ</anglicisme>.</titre>
+                <commentaire>Rien à ajouter.</commentaire>
+            </li>
+            <li>
+                <titre>24. La façon dont les pâtes sont fabriquées.</titre>
+            </li>
+            <li>
+                <titre>25. Ou mieux encore, les <anglicisme pos="nom" cc="9" sc="2"
+                        >sandwichs</anglicisme> de crème glacée.</titre>
+            </li>
+            <li>
+                <titre>26. La douce mélodie d’une friteuse en pleine action.</titre>
+            </li>
+            <li>
+                <titre>27. Et celle du <anglicisme pos="nom" cc="5" sc="2">bacon</anglicisme>
+                    grésillant.</titre>
+            </li>
+            <li>
+                <titre>28. Et ce beurre qui fond de façon presque érotique.</titre>
+            </li>
+            <li>
+                <titre>29. Cette boule de glace à la rondeur parfaite.</titre>
+            </li>
+            <li>
+                <titre>30. La façon dont cette fraise est coupée.</titre>
+                <commentaire>Merci pour ce moment, petite fraise.</commentaire>
+            </li>
+            <li>
+                <titre>31. La façon dont ces beignets de pomme de terre s’insèrent parfaitement sur
+                    ce plateau de cuisson.</titre>
+                <commentaire>Allez, enfournez-les !</commentaire>
+            </li>
+            <li>
+                <titre>32. Cette pomme pelée, image de la perfection.</titre>
+                <commentaire>Vous pleurez, vous ? Parce que moi, oui.</commentaire>
+            </li>
+            <li>
+                <titre>33. Que quelqu’un appelle le samu.</titre>
+                <commentaire>Et dites-leur que nos cœurs viennent d’exploser.</commentaire>
+            </li>
+        </ol>
+        <conversation>
+            <commentaire>Ratatouille ? Tian !</commentaire>
+        </conversation>
+    </corps>
+</article>

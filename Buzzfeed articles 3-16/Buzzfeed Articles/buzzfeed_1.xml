@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre>12 choses à ne jamais dire à quelqu’un atteint d’un cancer</titre>
+        <st>On sait que vous pensez bien faire, mais franchement, arrêtez.</st>
+    </header>
+
+    <auteur>
+        <nom>Louise McSharry</nom>
+        <association>BuzzFeed Contributor</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. « C’est un bon cancer ça. »</titre>
+                <commentaire>Il n’y a pas de bons cancers. Bien sûr, il y en a qui sont plus faciles
+                    à soigner que d’autres, et en tant que patiente, j’en sais quelque chose, mais
+                    vous non. S’il vous plaît, ne me dites pas à quel point je suis chanceuse. Je ne
+                    suis pas forcément d’humeur à entendre ça.</commentaire>
+            </li>
+            <li>
+                <titre>2. « Le cancer, ce n’est plus aussi terrible qu’autrefois. »</titre>
+                <commentaire>C’est marrant, parce qu’à moi ça me semblait assez terrible ce matin,
+                    quand je me suis retrouvée allongée sur le sol de la salle de bain, en larmes à
+                    cause de mes nausées.</commentaire>
+            </li>
+            <li>
+                <titre>3. « J’ai toujours voulu me raser le crâne. »</titre>
+                <commentaire> Perdre ses cheveux à cause de la chimio et se raser la tête parce
+                    qu’on trouve que Natalie Portman était <anglicisme pos="adj" cc="4" sc="1"
+                        >cool</anglicisme> dans « V pour Vendetta », ça n’a rien à
+                    voir.</commentaire>
+            </li>
+            <li>
+                <titre>4. « Tu ressembles à Natalie Portman dans “V pour Vendetta !” »</titre>
+                <commentaire>Non.</commentaire>
+            </li>
+            <li>
+                <titre>5. « On ne pensait pas que tu aurais envie de venir. »</titre>
+                <commentaire> Ne croyez pas que parce qu’on a un cancer, on est incapables de faire
+                    certaines choses. Continuez à nous inviter. Parfois, on refusera l’invitation,
+                    mais parfois on l’acceptera, et on aura désespérément besoin de sortir un peu de
+                    chez nous pour se changer les idées.</commentaire>
+            </li>
+            <li>
+                <titre>6. « Tu as tellement de courage. »</titre>
+                <commentaire>On sait que ça part d’un bon sentiment quand vous dites ça, mais on ne
+                    se sent pas courageux. Le courage, c’est quand quelqu’un choisit de faire
+                    quelque chose qui lui fait peur. Nous, on n’a pas le choix. </commentaire>
+            </li>
+            <li>
+                <titre>7. « Est-ce que tu as essayé ___ ? »</titre>
+                <commentaire>Sauf si vous pensez pouvoir nous donner un conseil extraordinaire
+                    duquel notre survie dépendrait (littéralement), s’il vous plaît, ne faites pas
+                    de suggestions à propos de notre traitement. Oui, manger des kiwis est peut-être
+                    un moyen efficace de lutter contre la constipation dans votre vie quotidienne,
+                    mais si les puissants laxatifs de l’industrie pharmaceutique qui m’ont été
+                    prescrits par un vrai médecin ne marchent pas, ajouter des fruits à mon régime
+                    alimentaire ne marchera sûrement pas non plus.</commentaire>
+            </li>
+            <li>
+                <titre>8. « Si quelqu’un peut battre ce cancer, c’est bien toi. »</titre>
+                <commentaire>Parce que ceux qui sont morts d’un cancer ne se sont pas assez
+                    battus?</commentaire>
+            </li>
+            <li>
+                <titre>9. « N’oublie pas qu’il y aura toujours quelqu’un dans une situation pire que
+                    la tienne. »</titre>
+                <commentaire>Voilà qui m’aide beaucoup.</commentaire>
+            </li>
+            <li>
+                <titre>10. « Je sais ce que tu ressens. »</titre>
+                <commentaire> Non, tu ne sais pas.</commentaire>
+            </li>
+            <li>
+                <titre>11. « Au moins, tu as plein de temps libre maintenant. »</titre>
+                <commentaire> Je ne suis pas en vacances. J’ai pris un congé parce que combattre le
+                    cancer, c’est un boulot à plein temps. </commentaire>
+            </li>
+            <li>
+                <titre>12. « Félicitations ! C’est fini ! »</titre>
+                <commentaire>Ce n’est pas forcément fini parce qu’on a subi notre dernière séance de
+                    chimio ou de radiothérapie programmée. Atteindre la fin du traitement peut être
+                    effrayant, alors on vous fera savoir quand on se sentira prêts à fêter
+                    ça.</commentaire>
+            </li>
+        </ol>
+        <ps>
+            <header>
+                <titre>Alors, qu'est-ce que vous êtes censé dire ?</titre>
+            </header>
+            <ul>
+                <li>
+                    <titre>« Je ne sais pas trop quoi dire. »</titre>
+                    <commentaire>Il n’a pas de honte à vous montrer honnête sur vos sentiments. On
+                        ne s’attend pas à ce que vous arriviez à gérer cette situation comme un
+                        pro.</commentaire>
+                </li>
+                <li>
+                    <titre>« Je suis désolé que tu aies à subir tout ça. »</titre>
+                    <commentaire>Parfois, admettre que la situation actuelle est merdique peut
+                        vraiment aider.</commentaire>
+                </li>
+                <li>
+                    <titre>« Tu auras besoin que je te ramène chez toi après ta chimio ? »</titre>
+                    <commentaire>Des propositions bien spécifiques aident beaucoup plus que des
+                        affirmations générales du genre, </commentaire>
+                </li>
+                <li>
+                    <titre>« je suis là si tu as besoin de moi. »</titre>
+                    <commentaire>On vous prendra au mot, et cette aide pourra faire toute la
+                        différence.</commentaire>
+                </li>
+                <li>
+                    <titre>« Est-ce que tu as vu ___ ? »</titre>
+                    <commentaire> Les recommandations de <anglicisme pos="nom" cc="5" sc="1"
+                            >films</anglicisme> ou de séries sont inestimables pour les journées où
+                        on n’arrive pas à se lever du canapé et où on a l’impression d’avoir vu tout
+                        ce que <anglicisme pos="nom" cc="7" sc="2">Netflix</anglicisme> avait à
+                        proposer.</commentaire>
+                </li>
+            </ul>
+        </ps>
+        <conversation>
+            <commentaire>Moi ce qui m’énervait, c’était quand on me disait que c’était rien car mon
+                cancer avait été diagnostiqué très tôt - les cellules étant agressives j'ai fait
+                quand même une radiothérapie. De plus, à ma soeur aussi on avait dit que c’était
+                rien du tout, juste un petit point. Ca ne l'a pas empêché d'en mourir quelques
+                années plus tard.</commentaire>
+            <commentaire>j'étais dans l'ascenseur mon pin's ruban rose accroché à mon manteau ; une
+                de mes voisines le voit et me dit : "ah vous avez le fameux pin's" ; je réponds :
+                "et oui, je suis hélas concernée" ... là, elle se colle au fond de l'ascenseur,
+                l'air horrifié : ah bon, vous avez le sida ? je réponds : mais non voyons le sida
+                c'est un ruban rouge, le ruban rose c'est pour le cancer du sein ... elle se
+                rapproche alors de moi (je suis du coup moins contagieuse !) et elle me dit : ah un
+                cancer du sein, mais c'est rien du tout, cela se soigne très bien ... et moi, dans
+                un très beau sourire je lui dis : mais ma chère madame, vous avez raison c'est bien
+                moins grave qu'une grippe ... si vous aviez vu sa tête ...!!!</commentaire>
+            <commentaire>Moi j'ai eu droit à -"son cancer était plus grave que le tien parce
+                qu'elle, elle est morte!" Bim' dans ta gueule !!!!! Cette phrase est gravée à jamais
+                dans ma mémoire, et j'en ai eu d'autres tout aussi cocasses!</commentaire>
+            <commentaire>Je comprends, ce sont des mots durs à oublier, le temps fera son
+                oeuvre</commentaire>
+            <commentaire>Nathalie Carret</commentaire>
+            <commentaire>Ne pas oublier le tas de cons qui recule en apprenant ton cancer... C'est
+                pas contagieux ? Arrêter de dire désolé quand vous apprenez que j'ai un cancer..
+                C'est pas de votre faute merde! Mon pauvre Monsieur ... Non Madame, moi je suis
+                encore vivant merci. Et la compassion à tout bout de champs, encore plus chiant que
+                le reste. Non je ne suis pas aigri, juste enervé par l'image que donne la
+                télé...</commentaire>
+            <commentaire>Et oui, j'ai entendu oh mais ce n'est pas grave un cancer du sein sauf
+                qu'il y a encore des décès !!! j'ai entendu aussi tu as l'air en pleine forme
+                pourtant ! Bien sûr que devant les gens on sourit alors que derrière sa porte on
+                pleure et on crie !!!!! Certaines personnes sont stupides face à la maladie et
+                feraient mieux de ne rien dire ! </commentaire>
+            <commentaire>moi cest quand on ne dit ça se voit pas</commentaire>
+            <commentaire>oh tu as une mine superbe !!!! tu as repris le travail ? non pas encore je
+                suis encore en traitement .... Pourtant tu es bien..... oui je sais mon cancer me va
+                bien !!!!!</commentaire>
+            <commentaire>Si tu as le cancer, quelque part, tu l'as bien cherché !!!!! Eh oui, faut
+                se cramponner dans ces cas là , on s'en prend de tous les côtés !!!! Mais faut tenir
+                bon, et continuer sa route</commentaire>
+            <commentaire>Ah ben oui... Parce que, bien sûr, pour vous tous les gens qui sont
+                atteints d'un cancer ont forcément cherché a tombé malade pour en pogner un... Ils
+                ont voulu subir les traitements de chimiothérapie à répétition, ils ont décidé de
+                devoir prendre les médicaments prescrits par le médecin pour essayer de garder un
+                équilibre pour que le mal parte... N'importe quoi. Il n'y a qu'une chose avec
+                laquelle je suis en accord avec vous: oui il faut tenir bon et
+                continuer.</commentaire>
+            <commentaire>il faut l avoir le cancer pour comprendre la detresse dans laquelle on est
+                , peu de gens demande si on a besoin d un coup de main mais personne est a l abri
+                heureusement </commentaire>
+            <commentaire>Malheureusement* nn ?</commentaire>
+            <commentaire>Oui les gens s'attendent à voir quelqu'un de rachitique, blanc comme un
+                linge... le simple fait de nous voir avec "une bonne mine" (merci le maquillage
+                d'ailleurs) les rassure et minimise leur propres angoisses je pense ; "on ne peut
+                pas être gravement malade quand on semble en forme" !! J'ai entendu : de toute façon
+                maintenant les cancers ça se soigne !! En effet oui... Les regards en coin sont pas
+                mal non plus !! L'après traitement est pas forcément très facile je
+                trouve...</commentaire>
+            <commentaire>Bonjour, pour ma part et ayant plusieurs maladies auto-immunes depuis l'âge
+                de 13 ans, j'ai eu droit quand j'ai eu mon cancer a "oui mais toi tu as l'habitude"
+                paf prends toi cà dans la tête. ha oui c'est sûr je suis contente de lutter contre
+                une nouvelle maladie ! Non je m'en serais bien passé comme tous.</commentaire>
+            <commentaire>J'ai déjà entendu " de toute façon on meurt tous un jour".... ça aide :-(
+                ...</commentaire>
+            <commentaire>Moi j'étais au restaurant une petite fille me regarder bizarrement et
+                demande à sa maman pourquoi la dame n'a pas de cheveux sur la tête et sa maman lui
+                répond :ne t'approche pas de cette femme ,elle a le sida .je me suis sauvé du resto
+                et j'ai pleuré de honte et de peur des regards des autres.</commentaire>
+            <commentaire>la lecture de commentaires m'a rappelé diverses "remarques"vraiment plus
+                que maladroites,et que j'entends encore très souvent ,ou bien dire que l'on est
+                guéri après 5 ans de traitement!!!</commentaire>
+            <commentaire>moi personne na compris mon cancer de la vulve car bcp ne savent pas ou
+                cela se trouve et oui les gens ne connaissent pas leur corp</commentaire>
+            <commentaire>moi c est quand on me dit maintenant on en meure plus c est pas comme le
+                sida ;et ::ta bonne mine ;le sourire :::faut bien tu va pas pleuré devant tout le
+                monde :juste toute seule dans ma voiture ou salle de bain :mes bon</commentaire>
+            <commentaire>Moi mon chef de service m'a dit quand je lui ai annoncé mon cancer et du
+                coup mon arrêt de travail "quoi 6 mois pour un cancer ?" tant que çà.... pourtant çà
+                se soigne rapidement. Gros c... et finalement je suis arrêtée depuis un an et je le
+                revois début avril... çà va être chaud je crois.</commentaire>
+            <commentaire>Dite luis que vous AIMEZ car si elle ou lui disparais il seras trop tard
+                .Jais perdus ma fille il a déjà 5 ans ,cas a durée 3 ans de chimio tous les 23 jours
+                8jours hôpital 3 semaine en fac est elle a eu sont MASTER 2 DE PHILO AVEC 15,74 je
+                suis fière de ma fille MAIS elle a pas pu aller chercher son diplôme .TOUS LA FAC
+                SAVAIS POUR MA FILLE SAUF LES CORRECTEURS .JE peut vous dire que celas a étais très
+                dure il avais un SILENCE qui si il avais une mouche on l' aurais entendus .LA FAC et
+                JULE VERNE A AMIENS EN 2010 ETCET LA PREMIERE FOIS QUI DONNEZ UN PRIX A TOUS LES
+                MAGORS DE CHAQUE MATIERE ,VERS LA FIN UN ONCOLOGUE ( cancérologue) A DIT A MA FILLE
+                QUI ETAIS ENCORE CONSIENTE QUEL PENSE A MOURIR A VOUS DE PENSEZ DE DIRE TOUS SE QUI
+                VIENT DU COEUR LA IL AURAS PAS DE TRICHE A BIN ENTENDEUR SALUT ELLE A CONTINUER A
+                VIVRE ET A FAIRE LA FETE AVEC MEME QUELQUE C......</commentaire>
+            <commentaire>ne pas avoir un mari qui vous dise qu est ce que je vais devenir avec les
+                filles, j étais déja morte. hé ben non je me suis lancée un défi j allais emmener ma
+                dernière jusqu a ses 18 ans , elle en a 28 et merde a tout le monde, je suis
+                divorcée depuis peu et libre</commentaire>
+        </conversation>
+    </corps>
+</article>

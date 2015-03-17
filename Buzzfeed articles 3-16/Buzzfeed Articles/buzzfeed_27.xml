@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<article>
+    <header>
+        <titre>24 raisons pour lesquelles vous ne devriez jamais visiter le Mexique</titre>
+        <st>Vraiment, n’y allez pas.</st>
+    </header>
+    
+    <auteur>
+        <nom>Pablo Valdivia</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. Il y a des gens qui semblent penser que le Mexique est le village de vacances idéal.</titre>
+                <commentaire>Mazatlan, Sinaloa, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>2. Ces gens ont de toute évidence tort.</titre>
+                <commentaire>Pie de la Cuesta, Guerrero, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>3. Les plages sont essentiellement des dépotoirs.</titre>
+                <commentaire>Playa Del Carmen, Quintana Roo, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>4. …et elles sont remplies de monde le jour comme la nuit.</titre>
+                <commentaire>Playa Zipolite, Oaxaca, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>5. Si vous n’aimez pas la plage, dommage pour vous. Il n’y a rien d’autre à voir.</titre>
+                <commentaire>Laguna de la Luna, Nevado de Toluca, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>6. Rien que des plaines sur plusieurs kilomètres.</titre>
+                <commentaire>Sumidero Canyon, Chiapas, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>7. Vous pouvez essayer d’aller en sous-sol, mais n’y trouverez rien d’extraordinaire.</titre>
+                <commentaire>Tanzozob, San Luis PotosÃ­, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>8. Il n’y a même pas de faune ni de flore.</titre>
+                <commentaire>Parrot at Playa del Carmen, Quintana Roo, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>9. C’est vraiment tragique.</titre>
+                <commentaire>El Salto, Jalisco, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>10. Il fait tous les jours terriblement chaud.</titre>
+                <commentaire>Pico de Orizaba, Veracruz, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>11. Vous allez suer en permanence.</titre>
+                <commentaire>Puebla, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>12. Les villes sont vraiment sales…</titre>
+                <commentaire>Guanajuato, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>13. …et les habitants n’ont aucun sens de la communauté.</titre>
+                <commentaire>Guanajuato, Mexique.</commentaire>
+            </li>
+            <li>
+                <titre>14. Les cathédrales complètement basiques…</titre>
+                <commentaire>Cathédrale métropolitaine Notre-Dame-de-l’Assomption, ville de Mexico, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>15. …et les pyramides n’y font pas exception.</titre>
+                <commentaire>Chichen Itza, Yucatán, Mexique.</commentaire>
+            </li>
+            <li>
+                <titre>16. Même le soleil refuse de briller sur elles.</titre>
+                <commentaire>Pyramide du Soleil, Teotihuacan, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>7. La culture artistique est visiblement absente…</titre>
+                <commentaire>Palais des Beaux Arts, ville de Mexico, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>18. …et les musées n’ont rien d’important à offrir.</titre>
+                <commentaire>Le Calendrier Aztèque, Musée national d’anthropologie, ville de Mexico, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>19. La nourriture est la pire chose que vous goûterez…</titre>
+            </li>
+            <li>
+                <titre>20. ….surtout les desserts.</titre>
+                <commentaire>Beurk.</commentaire>
+            </li>
+            <li>
+                <titre>21. Bref, le Mexique n’est vraiment pas un endroit qui mérite d’être visité.</titre>
+                <commentaire>Chutes d’eau de Cusarare, Chihuahua, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>22. Ce n’est pas beau…</titre>
+                <commentaire>Cascadas Agua Azul, Palenque, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>23. …ni majestueux.</titre>
+                <commentaire>Huejotzingo, Puebla, Mexique</commentaire>
+            </li>
+            <li>
+                <titre>24. Vraiment, n’y allez pas. C’est complètement inutile.</titre>
+                <commentaire>Cabo San Lucas, Mexique</commentaire>
+            </li>
+        </ol>
+        <conversation>
+            <commentaire>arrêtez de faire des articles faussement sarcastiques vraiment sa fait pitié</commentaire>
+        </conversation>
+    </corps>
+</article>
+
+

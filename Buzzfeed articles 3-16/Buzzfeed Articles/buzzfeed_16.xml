@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre>17 réactions qu’on eu les parents en apprenant qu’il y aurait une suite à «La Reine
+            des Neiges»</titre>
+        <st>Préparez-vous. La Reine des neiges 2 arrive.</st>
+    </header>
+    <auteur>
+        <nom>Mike Spohr</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre><anglicisme pos="excl" cc="3" sc="1">Wow</anglicisme>! Il me tarde
+                    d’en parler aux enfants! Ils vont être tellement contents!</titre>
+            </li>
+            <li>
+                <titre>Attendez. Ce film ne va pas sortir avant deux ans. IL NE FAUT SURTOUT PAS
+                    LEUR DIRE!</titre>
+            </li>
+            <li>
+                <titre>Soyons réalistes. Ils vont l’apprendre, et quand ils le sauront, ils ne
+                    feront qu’en parler pendant les deux prochaines années.</titre>
+            </li>
+            <li>
+                <titre>Pourquoi, Disney? Pourquoi faites-vous ça alors que la folie de La Reine des
+                    neiges commence à peine à s’essouffler?</titre>
+            </li>
+            <li>
+                <titre>Peut-être qu’on peut arrêter ça. Pourquoi pas une pétition en ligne?</titre>
+                <commentaire>Ouais, bien sûr. Comme si ça avait déjà servi à quelque
+                    chose.</commentaire>
+            </li>
+            <li>
+                <titre>Oh non. Ça veut dire encore plus de fêtes d’anniversaires sur le thème de La
+                    Reine des neiges.</titre>
+            </li>
+            <li>
+                <titre>Merde. Et si jamais mon gosse veut une autre fête d’anniversaire La Reine des
+                    neiges ?</titre>
+                <commentaire>Comment est-ce que je vais pouvoir faire mieux que la dernière fois?
+                    Est-ce que je vais devoir apporter de la vraie neige?</commentaire>
+            </li>
+            <li>
+                <titre>8. La bande annonce sur <anglicisme pos="nom" cc="7" sc="2"
+                    >YouTube</anglicisme> va tourner en boucle dans la maison pendant des
+                    années.</titre>
+            </li>
+            <li>
+                <titre>On va encore devoir faire la queue pour rencontrer tous les
+                    personnages!</titre>
+                <commentaire>Et encore deux heures et demie de perdues.</commentaire>
+            </li>
+            <li>
+                <titre>Et mes enfants vont vouloir la peluche de tous les personnages.</titre>
+            </li>
+            <li>
+                <titre>Anna va avoir un enfant, non? Donc ils vont nous vendre un bébé La Reine des
+                    neiges à 50€. Raah!</titre>
+            </li>
+            <li>
+                <titre>Ils vont nous vendre des nouvelles robes, aussi. TELLEMENT DE NOUVELLES
+                    ROBES! Je vais être complètement ruiné.</titre>
+                <commentaire>«Maman, je veux la robe d’Anna au bal de La Reine des neiges 2, la robe
+                    de jour d’Anna dans La Reine des neiges 2, la robe de bal d’Elsa dans La Reine
+                    des neiges 2, la robe de mariage d’Elsa de La Reine des neiges 2, la…
+                    »</commentaire>
+            </li>
+            <li>
+                <titre>Ça veut dire qu’il va falloir qu’on retourne voir La Reine des neiges sur
+                    glace?!</titre>
+                <commentaire>Par pitié.</commentaire>
+            </li>
+            <li>
+                <titre>Je me demande si on peut demander à Disney de payer en plusieurs
+                    fois?</titre>
+            </li>
+            <li>
+                <titre>Les chansons! Il va y avoir encore plus de chansons. Qui resteront encore
+                    PLUS dans la tête. La torture ne s’arrêtera donc jamais.</titre>
+            </li>
+            <li>
+                <titre>Et voilà ce qu’on va avoir à <anglicisme pos="nom" cc="9" sc="3"
+                    >Halloween</anglicisme> pour les prochaines années. Encore plus d’Anna et
+                    d’Elsa.</titre>
+                <commentaire>Ça, ça fait peur.</commentaire>
+            </li>
+            <li>
+                <titre>17. Je me demande de quoi va parler cette suite, quand même. Quoi? Non, je
+                    m’en fous! Oubliez ce que j’ai dit.</titre>
+                <commentaire>Mais je me demande vraiment.</commentaire>
+            </li>
+        </ol>
+    </corps>
+</article>

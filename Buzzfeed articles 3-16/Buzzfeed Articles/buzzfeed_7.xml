@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <header>
+        <titre>12 choses que vous ignorez peut-être sur les troubles alimentaires</titre>
+        <st>Les femmes et les adolescentes blanches ne sont pas les seules concernées.</st>
+    </header>
+    <auteur>
+        <nom>Arianna Rebolini</nom>
+        <association>BuzzFeed Staff</association>
+        <nom>Heben Nigatu</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. Les troubles alimentaires ne concernent pas seulement la perception du
+                    corps.</titre>
+                <commentaire>Une image corporelle négative est un facteur important d’apparition des
+                    troubles alimentaires, mais ce n’est pas le seul. Beaucoup de personnes qui
+                    souffrent d’anorexie ou de boulimie présentent aussi des troubles
+                    psychiatriques, comme la dépression, les troubles anxieux et les TOC, et les
+                    mécanismes de privation, de boulimie et de purge sont souvent une façon de faire
+                    face. Il ne s’agit donc pas seulement d’une tentative extrême de perte de poids
+                    ; c’est un trouble psychiatrique reconnu, que l’ont peut diagnostiquer et donc
+                    traiter.</commentaire>
+            </li>
+            <li>
+                <titre>2. Ils ne concernent pas que les adolescent(e)s.</titre>
+                <commentaire>Une étude publiée en 2012 dans le Journal international des troubles
+                    alimentaires a identifié des symptômes de troubles alimentaires chez 13 % des
+                    femmes interrogées, toutes âgées de plus de 50 ans. 66 % d’entre elles ont
+                    déclaré avoir un problème avec leur apparence générale. Les troubles
+                    alimentaires touchent tous les âges, mais comme ils sont souvent associés aux
+                    adolescentes et pré-adolescentes, ils peuvent provoquer un sentiment de honte
+                    chez des femmes plus âgées qui luttent avec ce problème – en particulier chez
+                    celles qui se définissent comme des féministes.</commentaire>
+            </li>
+            <li>
+                <titre>3. Ils ne sont pas réservés qu’aux femmes.</titre>
+                <commentaire>Bien que des études aient établi que seulement 10 à 15 % des
+                    anorexiques et des boulimiques étaient des hommes, ce nombre est sans doute
+                    sous-évalué. Une étude récente publiée dans le British Medical Journal (BJM)
+                    suggère que l’anorexie et la boulimie se développent de plus en plus chez les
+                    hommes et qu’ils représenteraient près de 25 % des cas. Cette étude de 2011
+                    montre que l’alimentation compulsive est aussi répandue chez les hommes que les
+                    femmes. Les hommes cherchant moins à se soigner, ils sont moins représentés dans
+                    les statistiques. L’avocat Brian Cuban, un ancien boulimique, évoque son
+                    expérience dans la <anglicisme pos="nom" cc="5" sc="3">vidéo</anglicisme>
+                    ci-dessus.</commentaire>
+            </li>
+            <li>
+                <titre>4. Ils ne sont pas réservés qu’aux blanc(he)s.</titre>
+                <commentaire>L’idée circule que les femmes de couleur ne sont pas touchées par les
+                    troubles alimentaires, parce que le lien établi entre beauté et minceur est,
+                    historiquement et culturellement, une pratique de blancs. Mais ce n’est tout
+                    simplement pas vrai. « Nous constatons que les filles afro-américaines sont en
+                    train de devenir de plus en plus susceptibles aux troubles de l’alimentation, et
+                    cela semble être un phénomène post-intégration », explique Melissa Harris-Perry
+                    dans cette <anglicisme pos="nom" cc="5" sc="3">vidéo</anglicisme>. « De plus en
+                    plus de jeunes femmes noires subissent à l’école à une pression très forte quant
+                    à l’idée d’un corps idéal auquel les filles afro-américaines ont dû mal à se
+                    conformer. »</commentaire>
+            </li>
+            <li>
+                <titre>5. Les troubles alimentaires ne sont pas une blague.</titre>
+                <commentaire>Les plaisanteries sur les troubles alimentaires (sur le fait qu’ils ne
+                    sont pas si sérieux, qu’ils sont un choix conscient, et que c’est uniquement un
+                    problème de jeunes filles, etc.) illustrent bien et perpétuent l’ignorance qui
+                    les entoure. Ces blagues font des personnes qui souffrent de troubles
+                    alimentaires des cibles, et peuvent même accentuer ces
+                    pathologies.</commentaire>
+            </li>
+            <li>
+                <titre>6. Ils engloutissent toute votre vie.</titre>
+                <commentaire>La comédienne Margaret Cho décrit son expérience des troubles
+                    alimentaires comme « une année de perdue ». C’est une bonne description qui
+                    pourrait surprendre ceux qui pensent que c’est un problème qui ne se pose qu’au
+                    moment du repas. Ces angoisses consomment énormément de temps, des heures
+                    entières perdues à penser à la nourriture ou des années à poursuivre un objectif
+                    – une taille, un poids – qui ne sera jamais atteint.</commentaire>
+            </li>
+            <li>
+                <titre>7. Il n’y a pas que l’anorexie, la boulimie et l’hyperphagie.</titre>
+                <commentaire>Il existe un éventail entier d’habitudes et de comportements qui ne
+                    sont pas diagnostiqués, mais qui pourraient être considérés comme des troubles
+                    alimentaires. Cela peut inclure l’exercice compulsif, la fixation sur des
+                    aliments spécifiques ou une combinaison des caractéristiques de plusieurs
+                    troubles. Qu’une personne ne remplisse pas tous les critères de diagnostic ne
+                    signifie pas qu’il ou elle a une relation saine à la nourriture.</commentaire>
+            </li>
+            <li>
+                <titre>8. Les personnes souffrant de troubles alimentaires ne sont pas faciles à
+                    identifier.</titre>
+                <commentaire>On a déjà parlé du fait que les jeunes filles blanches ne sont pas les
+                    seules à souffrir de troubles de l’alimentation, mais les personnes trop maigres
+                    non plus. L’apparence extérieure est rarement un critère suffisant pour établir
+                    la gravité de la maladie. Certaines dangers de l’anorexie, de la boulimie et de
+                    l’hyperphagie sont invisibles, comme la perte de muscles, les déséquilibres
+                    électrolytiques, les battements de cœur irréguliers, l’ostéoporose, les ulcères,
+                    l’hypertension artérielle et même le diabète.</commentaire>
+            </li>
+            <li>
+                <titre>9. Les gens qui souffrent de troubles alimentaires ne peuvent pas « s’en
+                    sortir seuls ».</titre>
+                <commentaire>Retrouver une alimentation saine ne suffit pas pour guérir. Chaque
+                    trouble de l’alimentation est une maladie spécifique et complexe – qui peut être
+                    liée à des facteurs psychologiques, culturels et physiologiques – et les
+                    méthodes de traitement doivent être adaptées. Les traitements les plus efficaces
+                    incluent la psychothérapie, les conseils en nutrition, les groupes de soutien,
+                    et, si nécessaire, les médicaments.</commentaire>
+            </li>
+            <li>
+                <titre>10. Il est possible que les personnes atteintes de troubles de l’alimentation
+                    ne se voient pas comme vous les voyez.</titre>
+                <commentaire>On appelle ça la dysmorphophobie. Beaucoup de personnes souffrant de
+                    cette maladie sont aussi atteintes de troubles alimentaires. Les gens souffrants
+                    de dysmorphophobie se focalisent sur un défaut physique (parfois imaginaire) au
+                    point de ne plus pouvoir vivre normalement. C’est pourquoi, dans beaucoup de
+                    troubles de l’alimentation, la personne ne se trouve jamais assez
+                    mince.</commentaire>
+
+            </li>
+            <li>
+                <titre>11. Les troubles alimentaires sont des problèmes graves et potentiellement
+                    mortels.</titre>
+                <commentaire>Les troubles alimentaires possèdent le taux de mortalité le plus élevé
+                    des maladies psychiatriques.</commentaire>
+            </li>
+            <li>
+                <titre>12. La guérison est possible.</titre>
+                <commentaire>Malgré la gravité de tous les troubles de l’alimentation, guérir est
+                    possible grâce à un traitement approprié. Les facteurs de guérison varient au
+                    cas par cas, mais pour beaucoup, ils consistent dans le maintien d’un poids
+                    correct, la restauration d’une image positive du corps et une vie
+                    équilibrée.</commentaire>
+            </li>
+        </ol>
+    </corps>
+</article>

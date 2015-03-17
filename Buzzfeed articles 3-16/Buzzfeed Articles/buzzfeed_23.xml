@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<article>
+    <header>
+        <titre>17 choses impressionnantes que font les femmes enceintes</titre>
+        <st>Bravo.</st>
+    </header>
+
+    <auteur>
+        <nom>Mike Spohr</nom>
+        <association>BuzzFeed Staff</association>
+    </auteur>
+    <corps>
+        <ol>
+            <li>
+                <titre>1. Elles voient les pieds de leur <anglicisme pos="nom" cc="4" sc="2"
+                        >bébé</anglicisme> à travers leur ventre et n’ont pas besoin d’une thérapie
+                    à vie pour s’en remettre.</titre>
+                <commentaire>C’est comme la scène d’« <anglicisme pos="nom" cc="5" sc="2"
+                        >Alien</anglicisme> », mais dans la vraie vie.</commentaire>
+            </li>
+            <li>
+                <titre>2. Elles deviennent quasiment médecins.</titre>
+                <commentaire>Les écouter parler à leur obstétricien, c’est comme regarder une série
+                    médicale.</commentaire>
+            </li>
+            <li>
+                <titre>3. Elles arrivent à supporter les rustres qui essayent de toucher leur
+                    ventre.</titre>
+            </li>
+            <li>
+                <titre>4. Elles endurent aussi les choses ridicules que disent leurs
+                    proches.</titre>
+                <commentaire>Son conjoint : « J’ai peur de heurter le <anglicisme pos="nom" cc="4"
+                        sc="2">bébé</anglicisme> si on… tu sais. » Sa maman : « Tu te rends compte
+                    que tu as encore quatre mois de grossesse devant toi ? »</commentaire>
+            </li>
+            <li>
+                <titre>5. Une bonne alimentation (et pas d’alcool) est pour leur plus grande
+                    priorité.</titre>
+                <commentaire>Les choses ne se passeraient pas aussi bien si on vous demandait de
+                    renoncer aux <anglicisme pos="nom" cc="6" sc="2">hot dogs</anglicisme> et à la
+                    bière.</commentaire>
+            </li>
+            <li>
+                <titre>6. Par contre, lorsqu’elles s’empiffrent, c’est épique.</titre>
+            </li>
+            <li>
+                <titre>7. En parlant d’alimentation, les femmes enceintes ont l’incroyable pouvoir
+                    de se procurer n’importe quelle sorte de nourriture quelle que soit
+                    l’heure.</titre>
+                <commentaire>« Cornichons et tarte à la fraise à 4 heures du matin ? On devrait bien
+                    pouvoir trouver ça quelque part. »</commentaire>
+            </li>
+            <li>
+                <titre>8. Elles sont passées maîtresses dans l’art de vomir et de s’en remettre
+                    immédiatement.</titre>
+                <commentaire>« C’était une bonne soirée, non ? » « Oui, exception faite des
+                    vomissements. » « Tu as vomi ?! » « Ouais. Trois fois. »</commentaire>
+            </li>
+            <li>
+                <titre>9. Leur zèle dans la recherche du nom de <anglicisme pos="nom" cc="4" sc="2"
+                        >bébé</anglicisme> idéal est inégalable.</titre>
+            </li>
+            <li>
+                <titre>10. Si on les y pousse, elles vous sortent un « ne me faites pas chier »
+                    comme personne.</titre>
+            </li>
+            <li>
+                <titre>11. Elles endurent toutes sortes d’horreurs chez l’obstétricien.</titre>
+                <commentaire>L’échographie n’est que le commencement.</commentaire>
+            </li>
+            <li>
+                <titre>12. Elles arrivent à survivre à cette période où elles se demandent « j’ai
+                    des gaz ou des contractions ? »</titre>
+                <commentaire>Si vous deviez vous demander cela à chaque fois que vous voulez en
+                    lâcher un, vous feriez une crise de nerfs.</commentaire>
+            </li>
+            <li>
+                <titre>13. Elles font tout cela pendant neuf mois… NEUF MOIS !</titre>
+                <commentaire>Pendant ce temps, il vous arrive de pleurnicher pour un mal de gorge
+                    qui dure quelques jours.</commentaire>
+            </li>
+            <li>
+                <titre>14. Elles poussent littéralement un <anglicisme pos="nom" cc="4" sc="2"
+                        >bébé</anglicisme> hors de leur corps.</titre>
+            </li>
+            <li>
+                <titre>15. Les femmes qui accouchent par césarienne sont des guerrières.</titre>
+                <commentaire>Note à tous les conjoints : ne vous levez pas pendant la césarienne
+                    pour voir ce qu’il se passe.</commentaire>
+            </li>
+            <li>
+                <titre>16. Et ce qui est impressionnant, c’est qu’elles conservent malgré tout leur
+                    sens de l’<anglicisme pos="nom" cc="6" sc="2">humour</anglicisme>.</titre>
+            </li>
+            <li>
+                <titre>17. Enfin, elles mettent au monde un être humain qui a grandi dans leur
+                    ventre.</titre>
+                <commentaire>Je répète : UN ÊTRE HUMAIN A GRANDI DANS LEUR VENTRE !</commentaire>
+            </li>
+        </ol>
+    </corps>
+</article>
