@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/juliegerstein/16-personnes-avec-un-vagin-tatoue-sur-le-corps-->
+	<header>
+		<titre>16 personnes qui se sont fait tatouer un vagin sur le corps		</titre>
+		<st>
+				
+				
+				Vraiment. NSFW.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Julie Gerstein		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Cette main squelettique très occupée.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Cette Vierge Marie.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Et cette Vierge de Guadalupe.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Cette, euh, figue ?
+				</titre>
+			</li>
+			<li>
+				<titre>5. Cette pin-up à l’anatomie incroyablement correcte.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Ce vagin marin.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Cette fleur délicate.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Cette araignée-vagin.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Cette palourde. (Avec une perle, bien sûr).
+				</titre>
+			</li>
+			<li>
+				<titre>10. Cette Faucheuse vaginale.
+				</titre>
+			</li>
+			<li>
+				<titre>11. Ce taco au bœuf.
+				</titre>
+			</li>
+			<li>
+				<titre>12. Cette orbite larmoyante.
+				</titre>
+			</li>
+			<li>
+				<titre>13. Ce schéma anatomique.
+				</titre>
+			</li>
+			<li>
+				<titre>14. Cette création fuchsia.
+				</titre>
+			</li>
+			<li>
+				<titre>15. Ce démon mi-paon, mi-vagin.
+				</titre>
+			</li>
+			<li>
+				<titre>16. Ce charmant vagin.
+				</titre>
+				<commentaire>Parce qu’on devrait toujours montrer à son vagin qu’on l’aime.
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

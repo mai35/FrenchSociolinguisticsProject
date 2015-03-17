@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/kimberleydadds/20-enfants-stars-qui-sont-devenus-des-adultes-canon-->
+	<header>
+		<titre>20 enfants stars qui sont devenus des adultes canon		</titre>
+		<st>
+				
+				
+				Parfois, vieillir a du bon.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Kimberley Dadds		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Le plus connu et le plus remarquable d’entre tous : Matthew Lewis (« Harry Potter »)
+				</titre>
+			</li>
+			<li>
+				<titre>2. Mais ce n’est pas le seul ancien d’« Harry Potter » qui est devenu un adulte magnifique : il y a aussi Luke Youngblood, qui joue Lee Jordan dans les films.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Alfred Enoch, qui joue Dean Thomas
+				</titre>
+			</li>
+			<li>
+				<titre>4. Et n’oublions pas les trois acteurs principaux : Emma Watson
+				</titre>
+			</li>
+			<li>
+				<titre>5. Daniel Radcliffe
+				</titre>
+			</li>
+			<li>
+				<titre>6. Et Rupert Grint
+				</titre>
+			</li>
+			<li>
+				<titre>7. Et puis, il y a Georgie Henley (« Le Monde de Narnia »)
+				</titre>
+			</li>
+			<li>
+				<titre>8. Abigail Breslin (« Little Miss Sunshine »)
+				</titre>
+			</li>
+			<li>
+				<titre>9. Nicola Peltz (« Le Dernier Maître de l’air »)
+				</titre>
+			</li>
+			<li>
+				<titre>10. Tania Raymonde (« Malcolm »)
+				</titre>
+			</li>
+			<li>
+				<titre>11. Jonathan Lipnicki (« Jerry Maguire »)
+				</titre>
+			</li>
+			<li>
+				<titre>12. Alexa PenaVega (« Spy Kids »)
+				</titre>
+			</li>
+			<li>
+				<titre>13. Tahj Mowry (« Le Petit Malin »)
+				</titre>
+			</li>
+			<li>
+				<titre>14. Josh Peck (« Drake et Josh »)
+				</titre>
+			</li>
+			<li>
+				<titre>15. Zac Efron (« High School Musical »)
+				</titre>
+			</li>
+			<li>
+				<titre>16. Shia LaBeouf (« La Guerre des Stevens »)
+				</titre>
+			</li>
+			<li>
+				<titre>17. Michelle Trachtenberg (« Harriet la petite espionne »)
+				</titre>
+			</li>
+			<li>
+				<titre>18. Lacey Chabert (« La Vie à cinq »)
+				</titre>
+			</li>
+			<li>
+				<titre>19. Joseph Gordon-Levitt (« Troisième planète après le Soleil »)
+				</titre>
+			</li>
+			<li>
+				<titre>20. Nicholas Hoult (« Pour un garçon »)
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

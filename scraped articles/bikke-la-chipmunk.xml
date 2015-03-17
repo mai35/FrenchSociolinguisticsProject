@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/tomschembri/bikke-la-chipmunk-->
+	<header>
+		<titre>10 fois où Bikke la chipmunk a plus eu la flemme que vous		</titre>
+		<st>
+				
+				
+				Bikke est d’accord avec vous, il faut annuler le lundi.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Tom Benjamin		</nom>
+		<association>BuzzFeed Contributor		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>Cette fois où on l’a réveillée trop tôt et où, malgré ses étirements, elle s’est quand même dit qu’il faudrait annuler le concept du lundi.
+				</titre>
+				<commentaire> vine.co
+				</commentaire>
+			</li>
+			<li>
+				<titre>Cette fois où elle a appelé le bureau pour rester chez elle et regarder des séries en mangeant des Special K.
+				</titre>
+				<commentaire> vine.co
+				</commentaire>
+			</li>
+			<li>
+				<titre>Cette fois où elle s’est réveillée en sursaut après une panne d’oreiller et s’est assise en se demandant si elle n’allait pas juste se recoucher.
+				</titre>
+				<commentaire> vine.co
+				</commentaire>
+			</li>
+			<li>
+				<titre>Cette fois où sa mère est venue la réveiller à 7h30 et où elle a menti en disant qu’elle commençait à 10h30 ce jour là.
+				</titre>
+				<commentaire> vine.co
+				</commentaire>
+			</li>
+			<li>
+				<titre>Cette fois où son petit copain lui a proposé gentiment d’aller faire un jogging le dimanche matin mais qu’elle a dit non.
+				</titre>
+				<commentaire> vine.co
+				</commentaire>
+			</li>
+			<li>
+				<titre>Cette fois où elle s’est réveillée avec le nez bouché et a estimé que ça méritait d’appeler son boss pour dire qu’aujourd’hui, elle ne viendrait pas.
+				</titre>
+				<commentaire> vine.co
+				</commentaire>
+			</li>
+			<li>
+				<titre>Cette fois où elle s’est prise deux heures de colles pour avoir baillé en cours de latin.
+				</titre>
+				<commentaire> vine.co
+				</commentaire>
+			</li>
+			<li>
+				<titre>Cette fois où elle a reçu un appel du boulot en pleine grasse matinée le week-end, a été prise d’une crise de rage et a mordu sa couette.
+				</titre>
+				<commentaire> vine.co
+				</commentaire>
+			</li>
+			<li>
+				<titre>Cette fois où elle était en train de comater devant son bol de céréales et s’est dit que vu l’heure, soit elle sautait la douche, soit elle se pointait au bureau en pyjama.
+				</titre>
+				<commentaire> vine.co
+				</commentaire>
+			</li>
+			<li>
+				<titre>Et cette fois où elle s’est réveillée tellement tard qu’elle s’est dit que, à ce stade, autant ne pas y aller du tout.
+				</titre>
+				<commentaire> vine.co
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/andreborges/voila-pourquoi-votre-iphone-ne-vous-laisse-pas-toujours-refu-->
+	<header>
+		<titre>Voilà pourquoi votre iPhone ne vous propose pas toujours de « refuser » un appel		</titre>
+		<st>
+				
+				
+				Pour tous ceux qui se sont déjà posé cette question mais ont eu la flemme de chercher la réponse.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Andre Borges		</nom>
+		<association>BuzzFeed Contributor		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Vous vous êtes déjà demandé pourquoi vous pouvez parfois répondre à votre téléphone comme ça…
+				</titre>
+			</li>
+			<li>
+				<titre>2. …et parfois comme ça ?
+				</titre>
+			</li>
+			<li>
+				<titre>3. Vous avez déjà essayé de refuser un appel mais vous n’aviez aucun moyen de le faire ?
+				</titre>
+			</li>
+			<li>
+				<titre>4. Vous vous êtes déjà demandé POURQUOI vous ne pouviez pas refuser tous vos appels ? POURQUOI iPHONE ? POURQUOI ?
+				</titre>
+			</li>
+			<li>
+				<titre>5. Et bien voilà pourquoi.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Ça n’a rien à voir avec qui vous appelle ou avec l’heure de l’appel. Cela a à voir avec une seule toute petite chose.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Si votre portable est verrouillé lorsqu’on vous appelle, vous n’aurez pas l’option « refuser ».
+				</titre>
+				<commentaire>Même si vous pouvez toujours ignorer l’appel en appuyant sur le bouton de veille de l’iPhone.
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. Mais si votre téléphone est déverrouillé, vous aurez accès à cette option.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Voilà ! C’est aussi bête que ça.
+				</titre>
+			</li>
+			<li>
+				<titre>10. H/T Business Insider
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

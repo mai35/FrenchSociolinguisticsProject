@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/lorynbrantz/le-truc-que-vous-naviez-peut-etre-jamais-remarque-dans-hook-->
+	<header>
+		<titre>Le truc que vous n’aviez peut-être jamais remarqué dans « Hook »		</titre>
+		<st>
+				
+				
+				« Dans ta fiole tronche de cake ! »
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Loryn Brantz		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. « Hook ou la Revanche du capitaine Crochet » est l’un des plus grands films de tous les temps.
+				</titre>
+			</li>
+			<li>
+				<titre>2. La plupart des gens l’ont vu de nombreuses fois.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Et vous avez sans doute vu cette image plus d’une fois.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Mais vous n’aviez peut-être pas remarqué ce que l’artiste James Hance a remarqué récemment.
+				</titre>
+			</li>
+			<li>
+				<titre>5. « Le chapeau du capitaine Crochet est une gueule de crocodile. Le CHAPEAU du capitaine Crochet est une gueule de CROCODILE !! »
+				</titre>
+			</li>
+			<li>
+				<titre>6. Tout devient si clair maintenant.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Ça lui pendait au nez depuis le début.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

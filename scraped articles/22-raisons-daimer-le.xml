@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/anaisbordages/22-raisons-daimer-le-cinama-franaais-g03y-->
+	<header>
+		<titre>37 raisons d’aimer le cinéma français		</titre>
+		<st>
+				
+				
+				Non, le cinéma français n’est pas mort. Au contraire, il est plein de ressources…
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Anais Bordages		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Le cinéma français a un côté rebelle
+				</titre>
+			</li>
+			<li>
+				<titre>2. Une esthétique pure…
+				</titre>
+			</li>
+			<li>
+				<titre>3. Une sophistication naturelle…
+				</titre>
+			</li>
+			<li>
+				<titre>4. Ah, le cinéma français, son charme rieur…
+				</titre>
+			</li>
+			<li>
+				<titre>7. Sa sensibilité…
+				</titre>
+			</li>
+			<li>
+				<titre>9. Sa tendresse…
+				</titre>
+			</li>
+			<li>
+				<titre>10. Son air intellectuel…
+				</titre>
+			</li>
+			<li>
+				<titre>11. Son regard intense…
+				</titre>
+			</li>
+			<li>
+				<titre>12. Ses boucles malicieuses…
+				</titre>
+			</li>
+			<li>
+				<titre>13. SA BARBE.
+				</titre>
+			</li>
+			<li>
+				<titre>14. Le cinéma français, et son amour des animaux…
+				</titre>
+			</li>
+			<li>
+				<titre>16. Ses fossettes à croquer…
+				</titre>
+			</li>
+			<li>
+				<titre>19. Son corps meurtri…
+				</titre>
+			</li>
+			<li>
+				<titre>20. Son CORPS
+				</titre>
+			</li>
+			<li>
+				<titre>23. SON CORPS FERME ET MUSCLE
+				</titre>
+			</li>
+			<li>
+				<titre>24. SON CORPS
+				</titre>
+			</li>
+			<li>
+				<titre>25. …
+				</titre>
+			</li>
+			<li>
+				<titre>26. Qu’est-ce que je disais? Ah oui, le cinéma français…
+				</titre>
+			</li>
+			<li>
+				<titre>28. Son rire…
+				</titre>
+			</li>
+			<li>
+				<titre>31. Sa grâce…
+				</titre>
+			</li>
+			<li>
+				<titre>32. Son élégance…
+				</titre>
+			</li>
+			<li>
+				<titre>34. SES MUSCLES BANDÉS
+				</titre>
+				<commentaire>PS : Le bras droit de Nicolas Duvauchelle mérite un Oscar.
+				</commentaire>
+			</li>
+			<li>
+				<titre>35. OH MON DIEU LE CINÉMA FRANÇAIS
+				</titre>
+			</li>
+			<li>
+				<titre>36. JE T’AIME.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

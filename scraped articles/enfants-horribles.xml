@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/juliekliegman/enfants-horribles-->
+	<header>
+		<titre>Le compte Instagram de cette maman prouve que les enfants sont des monstres		</titre>
+		<st>
+				
+				
+				Même les plus mignons sont horribles.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Julie Kliegman		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Élever des enfants n’est pas de tout repos. Une mère de famille a créé le compte Instagram Kids Are The Worst (« les enfants sont pires que tout ») pour documenter cette dure réalité.
+				</titre>
+			</li>
+			<li>
+				<titre>2. « Parfois, ce sont vraiment des monstres », Anna Macfarlane, la maman de 36 ans, a affirmé à BuzzFeed News. « Et vous avez le droit d’en rire. Cela ne fait pas de vous un mauvais parent ».
+				</titre>
+			</li>
+			<li>
+				<titre>3. La mère de quatre enfants, qui vit à Salt Lake City, a lancé son compte Instagram après avoir entendu ses amis répéter, comme elle, que les enfants étaient pires que tout.
+				</titre>
+			</li>
+			<li>
+				<titre>4. « C’est une communauté sympa où les gens sortent leur téléphone et leur appareil photo avant même d’aider leurs enfants pour qu’on puisse en rire tous ensemble », a-t-elle affirmé en riant.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Vous ne pouvez pas faire confiance aux enfants dans la cuisine.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Il n’accompliront jamais aucune tâche ménagère.
+				</titre>
+			</li>
+			<li>
+				<titre>7. On ne peut pas les amener au supermarché.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Même si c’est pour acheter leur nourriture à eux.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Ils n’auront jamais de bonnes manières.
+				</titre>
+			</li>
+			<li>
+				<titre>10. Mais les enfants ne sont pas les seuls à faire des bêtises. Anna Macfarlane veut que tout le monde sache que les chiens aussi sont horribles.
+				</titre>
+			</li>
+			<li>
+				<titre>11. Bref, ils sont tous incorrigibles.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

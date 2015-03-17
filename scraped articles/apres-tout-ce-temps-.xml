@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/jarrylee/apres-tout-ce-temps-toujours-->
+	<header>
+		<titre>16 raisons pour lesquels vous ne devriez jamais lire Harry Potter		</titre>
+		<st>
+				
+				
+				Sérieusement, ça n’en vaut pas la peine.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Jarry Lee		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Il n’y a que les enfants qui lisent Harry Potter.
+				</titre>
+				<commentaire>Ce cartable appartient de toute évidence à un enfant.
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Vraiment aucun adulte ne le lit.
+				</titre>
+				<commentaire>Vous pourriez penser que ces deux-là sont des adultes, mais vous auriez tort. Parce qu’aucun adulte ne lit Harry Potter, ok ?!
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Et la magie, qu’est-ce que c’est chiant !
+				</titre>
+				<commentaire>Un oiseau transformé en gobelet ? Vous n’avez pas trouvé mieux franchement ?
+				</commentaire>
+			</li>
+			<li>
+				<titre>4. Tellement chiant !
+				</titre>
+			</li>
+			<li>
+				<titre>5. On s’emmerde là, franchement.
+				</titre>
+				<commentaire>Une femme qui se transforme en chat, pff.
+				</commentaire>
+			</li>
+			<li>
+				<titre>6. Vous oublierez les livres juste après les avoir lus.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Ils ne sont même pas bien écrits.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Et vous n’y trouverez pas une seule citation digne d’attention.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Pas une seule.
+				</titre>
+			</li>
+			<li>
+				<titre>10. Pas moyen de s’identifier avec les personnages principaux.
+				</titre>
+				<commentaire>Sérieusement, les thèmes centraux des livres sont le passage à l’âge adulte, l’amitié et le courage.
+				</commentaire>
+			</li>
+			<li>
+				<titre>11. Vraiment, impossible de comprendre ce que les personnages traversent.
+				</titre>
+			</li>
+			<li>
+				<titre>12. Et vous ne ressentirez aucune sympathie pour eux.
+				</titre>
+			</li>
+			<li>
+				<titre>13. Vous ne ne changerez pas en lisant les livres.
+				</titre>
+			</li>
+			<li>
+				<titre>14. Harry Potter ne vous changera pas la vie.
+				</titre>
+			</li>
+			<li>
+				<titre>15. Sérieusement, n’essayez même pas. Vous serez forcément déçu.
+				</titre>
+			</li>
+			<li>
+				<titre>16. Parce que ce n’est pas la réalité !
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

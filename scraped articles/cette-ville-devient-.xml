@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/tanyachen/cette-ville-devient-footloose-irl-->
+	<header>
+		<titre>Une ville canadienne bannit les injures, les crachats et les cris		</titre>
+		<st>
+				
+				
+				Il ne manque plus que l’interdiction de danser et on est dans le film Footloose.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Tanya Chen		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. La ville de Taber, une petite municipalité en Alberta, au Canada, a rendu les crachats, les insultes, et les «sons bruyants» illégaux.
+				</titre>
+				<commentaire>Le conseil municipal a fait passer un décret rendant illégal, pour les résidents, le fait de jurer, de cracher, et de crier en public. Ceux qui commettraient l’une de ces nouvelles infractions pourraient être verbalisés.
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Les gens en dehors de la ville sont, sans surprise, perplexes et embarrassés par cette régulation morale.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Certains allant jusqu’à faire allusion au film Footloose.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Ce n’est pas la première fois que la ville de Taber impose des règles strictes pour ses résidents: la ville compte également une mesure «d’enfermement» et un couvre-feu pour les adolescents, de 23h à 6h, tous les jours.
+				</titre>
+				<commentaire>Sérieusement?!
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. Suivez-nous aussi sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

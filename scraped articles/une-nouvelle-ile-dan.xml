@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/mbvd/une-nouvelle-ile-dans-le-pacifique?responses=-->
+	<header>
+		<titre>Une nouvelle île vient d’apparaître dans le Pacifique		</titre>
+		<st>
+				
+				
+				Trois hommes, qui pensent être les premiers à avoir mis le pied sur cette toute nouvelle île du Pacifique, ont pris d’incroyables photos de l’îlot volcanique.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Michelle Broder Van Dyke		</nom>
+		<association>BuzzFeed News Reporter		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Une île s’est formée dans le Pacifique, au large des côtes de Tonga, après une éruption volcanique sous-marine.
+				</titre>
+			</li>
+			<li>
+				<titre>2. L’île, qui ne porte toujours pas de nom, est large d’environ 1,5 km et se situe entre deux îles volcaniques plus anciennes: Hunga Tonga et Hunga Ha’apai.
+				</titre>
+			</li>
+			<li>
+				<titre>3. L’île se trouve à 45 km au nord-ouest de Nuku’alofa, la capitale tongienne, a rapporté BBC News.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Selon le Telegraph, samedi dernier, Gianpiero Orbassano, 63 ans, ancien tour-opérateur et photographe à Tonga, est allé explorer l’île avec un ami et son fils.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Ils sont tout d’abord arrivés sur une plage noire.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Ils ont ensuite commencé à grimper vers le sommet de la montagne conique de l’île.
+				</titre>
+			</li>
+			<li>
+				<titre>7. La hauteur de l’île est d’environ 250 mètres.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Selon Gianpiero Orbassano, la surface de l’île était encore très chaude.
+				</titre>
+			</li>
+			<li>
+				<titre>9. La sûreté de cette nouvelle île reste pour l’instant incertaine.
+				</titre>
+				<commentaire>Un scientifique a dit à BBC News que l’île était encore instable et dangereuse pour les visiteurs, mais selon Gianpiero Orbassano, «ça avait l’air assez sûr».
+				</commentaire>
+			</li>
+			<li>
+				<titre>10. Le trio est allé jusqu’au bord du cratère.
+				</titre>
+			</li>
+			<li>
+				<titre>11. De là, ils ont pu admirer le magnifique lagon qui s’est formé à l’intérieur.
+				</titre>
+			</li>
+			<li>
+				<titre>12. Et même prendre la pose!
+				</titre>
+				<commentaire>Gianpiero Orbassano et Branko Sugar au bord du cratère.
+				</commentaire>
+			</li>
+			<li>
+				<titre>13. Selon eux, le lac vert du cratère sentait le soufre.
+				</titre>
+				<commentaire>«Nous avions une vue magnifique du volcan, qui est maintenant rempli d’eau vert émeraude, et qui sent le soufre et autres produit chimiques», a déclaré Gianpiero Orbassano à Pacific Beat, un programme de radio australien.
+				</commentaire>
+			</li>
+			<li>
+				<titre>14. Les scientifiques pensent que le volcan est entré en éruption sous-marine il y a plus d’un mois, et qu’il a continué à grandir jusqu’à former cette île.
+				</titre>
+			</li>
+			<li>
+				<titre>15. L’île étant composée de cendres, elle devrait s’éroder et disparaître dans l’océan en quelques mois.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

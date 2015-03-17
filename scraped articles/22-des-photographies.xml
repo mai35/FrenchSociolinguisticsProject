@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/hilarywardle/22-des-photographies-les-plus-importantes-du-monde-->
+	<header>
+		<titre>22 des photographies les plus importantes du monde		</titre>
+		<st>
+				
+				
+				Une exposition aura bientôt lieu au National Media Museum, en Angleterre, présentant quelques-unes des plus importantes photographies jamais prises. En voici les temps forts.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Hilary Wardle		</nom>
+		<association>BuzzFeed Contributor		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Soldiers of the Sky, 1940, Nickolas Muray.
+				</titre>
+				<commentaire>Nicolas Muray était un photographe américain d’origine hongroise spécialisé dans le portrait et escrimeur médaillé aux Jeux olympiques. Il a eu une relation de 10 ans avec l’artiste Frida Kahlo. Pendant la guerre, il a pris cette impressionnante image de propagande pour le magazine Vogue.
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Audrey Hepburn, 1950, Angus McBean.
+				</titre>
+				<commentaire>Cette image surréaliste de Audrey Hepburn a été prise par Angus McBean, photographe britannique de renom, alors qu’il renouait avec la photographie après avoir été condamné à quatre ans de prison pour « actes homosexuels » pendant la Seconde Guerre mondiale.
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Moonrise, Hernandez, New Mexico.
+				</titre>
+				<commentaire>Ansel Adams est considéré par certains comme l’un des photographes les plus influents de tous les temps. Écologiste convaincu, il a travaillé dur pour s’assurer que ses nombreux clichés en noir et blanc de l’ouest américain capturaient parfaitement la qualité particulière de la lumière tombant sur cet endroit à un moment bien particulier.
+				</commentaire>
+			</li>
+			<li>
+				<titre>4. Fading Away, 1858, Henry Peach Robinson.
+				</titre>
+				<commentaire>Cette sinistre image d’une jeune femme mortellement atteinte de tuberculose est en réalité un montage de cinq photos distinctes. Henry Peach Robinson faisait partie du mouvement pictorialiste qui revendiquait la photographie comme une forme d’art.
+				</commentaire>
+			</li>
+			<li>
+				<titre>5. Tempête de sable, comté de Cimarron, 1936, Arthur Rothstein.
+				</titre>
+				<commentaire>Arthur Rothstein était l’un des photojournalistes américains les plus importants pendant la Grande Dépression américaine (1929-39). Le gouvernement américain lui avait demandé de dépeindre la détresse des fermiers durant ce que l’on appelle le « Dust Bowl » : des prairies touchées par la sécheresse.
+				</commentaire>
+			</li>
+			<li>
+				<titre>6. I Wait, 1872, Julia Margaret Cameron.
+				</titre>
+				<commentaire>Julia Margaret Cameron était une photographe britannique devant sa renommée à ses portraits de célébrités. Elle s’est mise à la photographie à l’âge de 48 ans et travaillait dans un ancien poulailler au fond de son jardin. Cette superbe image montre sa nièce Rachel Gurney portant une paire d’ailes de cygne.
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. New Orleans Street Singers, 1971, Tony Ray-Jones.
+				</titre>
+				<commentaire>Tony Ray-Jones était un photojournaliste britannique extrêmement talentueux dont la carrière s’est brutalement terminée lorsqu’il est mort de leucémie à seulement 30 ans. Cette scène de rue haute en couleur de la Nouvelle-Orléans est l’une des dernières photos qu’il a prises.
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. L’hippopotame au jardin zoologique, 1852, Juan Carlos Maria Isidro, (Jean de Bourbon, comte de Montizón).
+				</titre>
+				<commentaire>Ce cliché d’un hippopotame en pleine sieste a été prise au zoo de Londres et est probablement la toute première photo d’un hippopotame jamais prise. Le photographe était le neveu du roi Ferdinand VII et l’un des membres fondateurs de la Royal Photographic Society.
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. Chimney, c. 1934, Noel Griggs.
+				</titre>
+				<commentaire>Cette saisissante image du photographe britannique Noel Griggs est l’une des premières tentatives modernistes pour montrer la beauté de l’architecture industrielle.
+				</commentaire>
+			</li>
+			<li>
+				<titre>10. Larry Burrows on assignment in Vietnam c. 1971, photographe inconnu.
+				</titre>
+				<commentaire>Larry Burrows était un photojournaliste britannique célèbre pour sa couverture virulente et agressive de la guerre du Viêt Nam. Voici l’une des dernières photos de lui : il est mort en 1971, lorsque son hélicoptère a été abattu au-dessus du Laos.
+				</commentaire>
+			</li>
+			<li>
+				<titre>11. Leicester Square, 1896, Paul Martin.
+				</titre>
+				<commentaire>Ce saisissant cliché est l’un des premiers exemples de photographies de nuit. Il a été pris par Paul Martin, photographe victorien plus connu pour ses clichés de l’agitation quotidienne de la vie londonienne.
+				</commentaire>
+			</li>
+			<li>
+				<titre>12. Refugees from East Pakistan on the Indian Border, 1971, Don McCullin.
+				</titre>
+				<commentaire>Don McCullin est un photojournaliste britannique de renommée internationale. Il a pris cette sinistre image pour rendre compte de la terrible Guerre de libération du Bangladesh pour le Sunday Times Magazine en 1971.
+				</commentaire>
+			</li>
+			<li>
+				<titre>13. Portrait de Christina, 1913, Lieutenant Colonel Mervyn O’Gorman.
+				</titre>
+				<commentaire>Cette magnifique image est l’un des premiers exemples de photographie en couleurs. Elle a été créée grâce au procédé de l’autochrome, utilisant des grains séchés de fécules de pommes de terre tenant lieu de filtres couleurs. Ces gravures nécessitant un temps d’exposition très long, les autochromes de personnes vivantes, comme ici celui de Christina, sont très rares.
+				</commentaire>
+			</li>
+			<li>
+				<titre>14. La vallée de l’ombre de la Mort, 1855, Roger Fenton.
+				</titre>
+				<commentaire>Non, vous ne regardez pas des cailloux à la forme bizarre : les pierres rondes de cette image prise par le britannique Roger Fent, pionnier de la photographie, sont en réalité des boulets de canon lancés sur les troupes britanniques par les forces russes lors de la guerre de Crimée.
+				</commentaire>
+			</li>
+			<li>
+				<titre>15. Limbs and the Law, 1924, James Jarché.
+				</titre>
+				<commentaire>« Jimmy » Jarché était un photographe de presse rendant compte de la vie londonienne pour le tabloïd britannique Daily Sketch, qui a fusionné avec le Daily Mail en 1971. Ce célèbre cliché de Jarché montre un groupe de jeunes garçons fuyant devant un policier après avoir été attrapés en train de nager nus dans Hyde Park.
+				</commentaire>
+			</li>
+			<li>
+				<titre>16. Nude on Sand - Oceano, Californie, 1936, Edward Weston.
+				</titre>
+				<commentaire>Edward Weston trouvait que ses photographies illustraient la nature intrinsèque de ses sujets. En prenant des photographies minutieusement composées comme celle-ci, il souhaitait révéler « le plus grand mystère des choses plus clairement que ce que peut voir l’œil ».
+				</commentaire>
+			</li>
+			<li>
+				<titre>17. Queen Victoria, vers 1856, Roger Fenton.
+				</titre>
+				<commentaire>Le photographe de la guerre de Crimée Roger Fenton a aussi tourné son regard - et son objectif - vers la photographie de portraits, comme on peut le voir ici. La reine Victoria faisait partie des premiers amateurs de photographie et était toujours heureuse de poser pour l’objectif.
+				</commentaire>
+			</li>
+			<li>
+				<titre>18. The Bleached Skull of a Steer on the Dry Sun-Baked Earth of the South Dakota Badlands, 1936, Arthur Rothstein.
+				</titre>
+				<commentaire>Si vous aviez des doutes quant à l’étendue des sécheresses causées par le « Dust Bowl », cette photographie devrait les balayer. Cette image montre ce qui reste d’un seul animal d’un cheptel de millions de bêtes mortes pendant la Dépression américaine.
+				</commentaire>
+			</li>
+			<li>
+				<titre>19. The Gate of Goodbye, 1917, Francis James Mortimer.
+				</titre>
+				<commentaire>Tout comme « Fading Away » plus haut, cette photographie est en réalité un composite créé à partir de plus de 20 négatifs originaux. Elle montre des soldats partant pour les tranchées lors de leurs adieux avec leurs familles à la gare de Londres Victoria, pendant la Première Guerre mondiale.
+				</commentaire>
+			</li>
+			<li>
+				<titre>20. Femme afghane, Pakistan, 1984, Steve McCurry.
+				</titre>
+				<commentaire>Cette photographie emblématique d’une jeune réfugiée afghane nommée Sharbat Gula a été publiée en couverture du National Geographic en juin 1985. En 2002, le photographe Steve McCurry est allé au Pakistan pour la trouver. Elle lui a alors dit qu’elle ne se sentait toujours pas en sécurité. « Tu t’es déjà sentie en sécurité ? » lui a-t-il demandé. « Non », a-t-elle répondu.
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

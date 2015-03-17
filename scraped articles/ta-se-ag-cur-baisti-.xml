@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/anaisbordages/ta-se-ag-cur-baisti-dans-ma-culotte?responses=-->
+	<header>
+		<titre>Pourrez-vous finir ce post sans gémir en gaélique?		</titre>
+		<st>
+				
+				
+				Joyeuse Saint Patrick!
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Anais Bordages		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. L’Irlande est un pays plein de ressources.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Une contrée au charme et à la beauté sans pareils.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Faite de chemins ancestraux que l’on aimerait sillonner inlassablement.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Ah, l’Irlande.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Terre de légende qui a inspiré les plus grands poètes.
+				</titre>
+			</li>
+			<li>
+				<titre>6. On pourrait passer des jours à parcourir ses paysages rustiques…
+				</titre>
+			</li>
+			<li>
+				<titre>7. Et se perdre dans le vert de ses prairies.
+				</titre>
+			</li>
+			<li>
+				<titre>8. On aimerait pouvoir se blottir contre la toison chaude et abondante de ses moutons.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Se laisser ensorceler par ses druides.
+				</titre>
+			</li>
+			<li>
+				<titre>10. Ou nager nu dans ses lacs immenses.
+				</titre>
+			</li>
+			<li>
+				<titre>11. Y a-t-il un bonheur plus doux que celui d’humecter nos lèvres avec ses bières de caractère?
+				</titre>
+			</li>
+			<li>
+				<titre>12. Ou de se laisser ravager par la houle de ses vagues indomptables?
+				</titre>
+			</li>
+			<li>
+				<titre>13. AH, L’IRLANDE.
+				</titre>
+			</li>
+			<li>
+				<titre>14. Laissez-vous submerger par la richesse de son patrimoine culturel.
+				</titre>
+			</li>
+			<li>
+				<titre>15. Laissez le gonflement envoûtant et irrégulier de ses collines vous hypnotiser.
+				</titre>
+			</li>
+			<li>
+				<titre>16. LAISSEZ-VOUS SURPRENDRE PAR LES COURBES SINUEUSES DE SES ROUTES DÉSERTIQUES.
+				</titre>
+			</li>
+			<li>
+				<titre>17. MÊME SI VOUS NE COMPRENEZ RIEN AUX PANNEAUX.
+				</titre>
+			</li>
+			<li>
+				<titre>18. REGARDEZ SES FALAISES SE DRESSER AVEC FORCE ET NOBLESSE.
+				</titre>
+			</li>
+			<li>
+				<titre>19. CHEVAUCHEZ AVEC FOUGUE À TRAVERS SES VALLÉES SAUVAGES.
+				</titre>
+			</li>
+			<li>
+				<titre>20. IMMERGEZ-VOUS DANS LE BLEU PROFOND DE SES LACS MAJESTUEUX.
+				</titre>
+			</li>
+			<li>
+				<titre>21. EFFLEUREZ SA ROCHE LISSE ET DURE DU BOUT DE VOS DOIGTS.
+				</titre>
+			</li>
+			<li>
+				<titre>22. LAISSEZ-VOUS ENVOÛTER PAR SA LANGUE SIBYLLINE.
+				</titre>
+			</li>
+			<li>
+				<titre>23. SLAINTE*!
+				</titre>
+				<commentaire>*santé
+				</commentaire>
+			</li>
+			<li>
+				<titre>24. TÁ SÉ AG CUR BÁISTÍ* DANS MA CULOTTE.
+				</titre>
+				<commentaire>*il pleut
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

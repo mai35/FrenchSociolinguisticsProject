@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/remeepatel/une-carte-aurait-suffi-->
+	<header>
+		<titre>19 gâteaux d’anniversaire cauchemardesques qui vous feront regretter d’être né		</titre>
+		<st>
+				
+				
+				L’année prochaine, une carte fera l’affaire!
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Remee Patel		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Ce cauchemar sanglant.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Cette merde.
+				</titre>
+			</li>
+			<li>
+				<titre>3. La litière pour chat comestible, car c’est comme ça que l’on dit «Joyeux anniversaire!» de nos jours.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Ce rêve pour le troisième âge.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Cette création très chic.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Ce gâteau complètement «bad»!
+				</titre>
+			</li>
+			<li>
+				<titre>7. Cette offre, que vous avez la permission de refuser.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Ces chiottes remplies de crottes.
+				</titre>
+				<commentaire>Avec des cafards en bonus.
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. Cette création merdique.
+				</titre>
+			</li>
+			<li>
+				<titre>10. Ce tas de vomi.
+				</titre>
+			</li>
+			<li>
+				<titre>11. MONSIEUR DANNY DEVITO.
+				</titre>
+			</li>
+			<li>
+				<titre>12. Cette invitation à l’aventure.
+				</titre>
+				<commentaire>«Trouvez l’orteil»
+				</commentaire>
+			</li>
+			<li>
+				<titre>13. Celui-ci fait spécialement pour des jumeaux.
+				</titre>
+			</li>
+			<li>
+				<titre>14. Cette véritable œuvre d’art.
+				</titre>
+			</li>
+			<li>
+				<titre>15. Cet agneau qui a souffert de la main de son créateur.
+				</titre>
+			</li>
+			<li>
+				<titre>16. Ce rappel pas très amical.
+				</titre>
+				<commentaire>«Utilise-les ou perds-les»
+				</commentaire>
+			</li>
+			<li>
+				<titre>17. Cette mycose de pied.
+				</titre>
+			</li>
+			<li>
+				<titre>18. CETTE ATROCITÉ.
+				</titre>
+			</li>
+			<li>
+				<titre>19. POURQUOI? POURQUOI AVOIR FAIT ÇA?
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

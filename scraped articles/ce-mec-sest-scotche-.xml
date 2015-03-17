@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/stephaniemcneal/ce-mec-sest-scotche-des-mentos-sur-le-corps-et-a-plonge-dans-->
+	<header>
+		<titre>Ce mec s’est scotché des Mentos sur le corps et a plongé dans une baignoire pleine de Coca		</titre>
+		<st>
+				
+				
+				Pourquoi ?!
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Stephanie McNeal		</nom>
+		<association>BuzzFeed News Reporter		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Un Japonais a posté une vidéo où on le voit plonger dans une baignoire remplie de soda, après s’être couvert le corps de Mentos.
+				</titre>
+				<commentaire>Cet homme, qui répond au nom de Hajime, a posté cette vidéo sur YouTube en juillet dernier, mais elle est récemment devenue virale et compte aujourd’hui plus de six millions de vues.
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Hajime a mené son expérience en scotchant des Mentos sur son corps, avant de plonger dans la baignoire.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Ceux qui espéraient une explosion ont dû être déçus : pas d’explosion, juste quelques bulles.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Les gens sont fous. Visionnez la vidéo complète ci-dessous.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

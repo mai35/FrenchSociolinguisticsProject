@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/augustafalletta/arretez-tout-jared-leto-coupe-cheveux-barbe-->
+	<header>
+		<titre>ARRÊTEZ TOUT : Jared Leto a coupé ses cheveux et sa barbe		</titre>
+		<st>
+				
+				
+				On ne retrouvera jamais de cheveux ombrés aussi sublimes que ceux de Jared. RIP.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Augusta Falletta		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Dites au-revoir au Jared Leto tel qu’on le connaissait.
+				</titre>
+				<commentaire>Parce que cette glorieuse chevelure n’est plus.
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Sa barbe parfaite et ses cheveux parfaitement ombrés ont paradé sur leur dernier tapis rouge aux Oscars.
+				</titre>
+				<commentaire>Regardez-moi cette bouille. Il savait. Il avait déjà mis au point son plan machiavélique.
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. David Ayer, le réalisateur de Suicide Squad, a mis en ligne cette photo sur Twitter ce lundi après-midi, en guise de teasing pour cette coupe de cheveux.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Peu après ce teasing, David Ayer a publié le résultat.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Reposez en paix, cheveux de Jared Leto.
+				</titre>
+				<commentaire>Nous ne vous oublierons jamais.
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

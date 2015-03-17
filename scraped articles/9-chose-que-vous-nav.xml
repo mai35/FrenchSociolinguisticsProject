@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/mathewguiver/9-chose-que-vous-navez-pas-remarqunes-dans-le-->
+	<header>
+		<titre>19 choses que vous n’aviez sans doute pas remarquées dans «Le Diable s’habille en Prada»		</titre>
+		<st>
+				
+				
+				Est-ce que quelqu’un a mangé un bagel aux oignons? Peut-être que oui, peut-être que non.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Mathew Guiver		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Nigel demande si quelqu’un a mangé un bagel aux oignons, mais, lorsque l’on voit Andy en commander un, ça ressemble plus à un bagel au pain complet.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Andy porte une bague d’orteil à Paris.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Andy et Nate semblent être amateurs de Ruffino.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Bien que Runway soit un magazine fictif, les couvertures que l’on voit dans la cafétéria sont de réelles publications.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Apparemment ces portes peuvent être poussées et tirées.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Au début du film, Andy utilise des Post-it bleus, mais elle change pour des oranges immédiatement après son relooking.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Andy ne change jamais le fond d’écran de son ordinateur. Pourtant, on peut penser qu’elle à la permission puisqu’Emily a une image personnalisée.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Le tube de colle de Nigel tombe lorsqu’il parle à Andy.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Lorsqu’Andy s’approche de James Holt, on le voit parler à un homme portant un chignon !
+				</titre>
+			</li>
+			<li>
+				<titre>10. Le chef de chez Smith & Wollensky met le steak de Miranda sur une assiette, c’est pourtant une commande à emporter.
+				</titre>
+			</li>
+			<li>
+				<titre>11. Un serpent albinos (comme celui de Britney, lors de sa prestation tristement célèbre lors des VMA) fait une apparition éclair lors de la séance photo «jungle urbaine».
+				</titre>
+			</li>
+			<li>
+				<titre>12. Cette participante au gala porte une robe avec des perles «goutte d’eau» pendant au niveau de ses seins.
+				</titre>
+			</li>
+			<li>
+				<titre>13. Lorsqu’Andy découvre qu’elle va à Paris, elle porte un collier Chanel orné d’une petite tour Eiffel.
+				</titre>
+			</li>
+			<li>
+				<titre>14. La photo de famille qu’Andy tient est une photo d’Anne Hathaway et de sa propre mère posant avec David Marshall Grant, qui joue son père dans le film.
+				</titre>
+			</li>
+			<li>
+				<titre>15. Nate et Andy ont un grand tube de boules de chewing-gum dans leur appartement.
+				</titre>
+			</li>
+			<li>
+				<titre>16. À Paris, il y a un oiseau sur la lampe de la chambre d’hôtel d’Andy.
+				</titre>
+			</li>
+			<li>
+				<titre>17. Andy attend d’arriver au déjeuner pour mettre ses gants.
+				</titre>
+			</li>
+			<li>
+				<titre>18. Quand Andy s’excuse auprès de Nate, on peut voir que quelqu’un a laissé un pauvre dollar en pourboire.
+				</titre>
+				<commentaire>Un peu maigre pour un pourboire américain.
+				</commentaire>
+			</li>
+			<li>
+				<titre>19. La remplaçante d’Andy bouge l’imprimante.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

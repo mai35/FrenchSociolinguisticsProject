@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/tasneemnashrulla/cette-photo-incroyable-dun-bebe-belette-chevauchant-un-piver-->
+	<header>
+		<titre>Cette photo incroyable d’un bébé belette chevauchant un pivert semble sortie d’un livre pour enfants		</titre>
+		<st>
+				
+				
+				Sauf qu’elle tient plus de l’horreur que du conte de fées: la belette attaquait l’oiseau. Heureusement, il a réussi à s’échapper.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Tasneem Nashrulla		</nom>
+		<association>BuzzFeed News Reporter		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>Martin Le-May, qui habite dans l’Est de Londres, a pris cette photo incroyable d’un bébé belette sur le dos d’un pivert à Essex, au Royaume-Uni, ce lundi.
+				</titre>
+				<commentaire> Martin Le-May
+				</commentaire>
+			</li>
+			<li>
+				<titre>Même si on aimerait tous croire que c’est le début d’une super histoire d’amitié où deux copains embarquent pour une aventure épique, ce n’est malheureusement PAS le cas.
+				</titre>
+				<commentaire>C’est la photo d’une belette essayant de tuer un Picus Viridis.
+				</commentaire>
+			</li>
+			<li>
+				<titre>Martin Le-May a raconté à BuzzFeed News comment il avait capturé l’instant qu’il décrit comme « une lutte pour survivre ».
+				</titre>
+				<commentaire>Photographe amateur, il se promenait avec sa femme dans le Hornchurch Country Park, dans l’Est de Londres, dans l’espoir de lui faire voir un pivert pour la première fois.
+				</commentaire>
+			</li>
+			<li>
+				<titre>C’est fou la nature.
+				</titre>
+			</li>
+			<li>
+				<titre>(Idée via Jason Ward)
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/richardhjames/cette-exposition-affiche-quelques-unes-des-barbes-les-plus-g-->
+	<header>
+		<titre>Cette exposition affiche quelques-unes des barbes les plus glorieuses du monde		</titre>
+		<st>
+				
+				
+				L’exposition londonienne est sobrement intitulée Beard (barbe).
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Richard James		</nom>
+		<association>BuzzFeed News Reporter		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Un série de portraits de barbes est exposée à la Somerset House, dans le centre de Londres.
+				</titre>
+				<commentaire>Ricki Hall.
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Elle compte plus de 80 images prises par le photographe Brock Elbank.
+				</titre>
+				<commentaire>Billy Huxley.
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Les modèles vont de l’acteur John Hurt…
+				</titre>
+			</li>
+			<li>
+				<titre>4. …à Harnaam Kaur, une Anglaise souffrant du syndrome des ovaires polykystiques, qui cause une pilosité excessive.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Elbank a commencé à photographier des barbes alors qu’il travaillait à Sydney. C’est là qu’il a rencontré Jimmy Niggles (ci-dessous).
+				</titre>
+				<commentaire>Après la mort de l’un de ses amis des suites d’un cancer de la peau, Niggles a décidé de se laisser pousser la barbe et de parler de la maladie au plus grand nombre de gens possible.
+				</commentaire>
+			</li>
+			<li>
+				<titre>6. Après sa rencontre avec Niggles, Elbank a lancé #Project60 et commencé à prendre des photos de personnes barbues pour faire connaître la campagne contre le cancer de son ami.
+				</titre>
+				<commentaire>Brandon Baker.
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. Les modèles sont venus du monde entier chez Elbank Warwickshire pour une séance studio.
+				</titre>
+				<commentaire>Stefan Bostrom.
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. L’exposition inclut quelques-unes de ces images, et d’autres, inédites.
+				</titre>
+				<commentaire>Miles Better.
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. Sobrement intitulée Beard, l’exposition se tiendra jusqu’au 29 mars.
+				</titre>
+				<commentaire>Frank Moon.
+				</commentaire>
+			</li>
+			<li>
+				<titre>10. Pour plus d’informations, cliquez ici.
+				</titre>
+				<commentaire>Edwin Venn.
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/anaisbordages/taubira-swag-->
+	<header>
+		<titre>13 fois où Christiane Taubira a fait taire les haters		</titre>
+		<st>
+				
+				
+				La garde des Sceaux a son lot d’ennemis, mais elle sait leur répondre avec verve.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Anais Bordages		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Lorsqu’on lui parle de ses critiques:
+				</titre>
+			</li>
+			<li>
+				<titre>2. Lorsqu’elle débat face à Eric Zemmour:
+				</titre>
+			</li>
+			<li>
+				<titre>3. Lorsqu’on la traite de «tract ambulant pour le FN»:
+				</titre>
+			</li>
+			<li>
+				<titre>4. Quand on l’emmerde à l’Assemblée:
+				</titre>
+			</li>
+			<li>
+				<titre>5. Lorsqu’on lui demande de répondre à un quiz:
+				</titre>
+				<commentaire>(Du coup, on a peu d’espoir de lui faire répondre aux nôtres…)
+				</commentaire>
+			</li>
+			<li>
+				<titre>6. Lorsqu’on lui parle des attaques racistes à son égard:
+				</titre>
+			</li>
+			<li>
+				<titre>7. Quand on lui demande si elle pleure parfois:
+				</titre>
+			</li>
+			<li>
+				<titre>8. Quand un député accuse le gouvernement de vouloir détruire le mariage:
+				</titre>
+			</li>
+			<li>
+				<titre>9. Quand on essaie de lui citer un poète de la négritude:
+				</titre>
+			</li>
+			<li>
+				<titre>10. Quand elle n’a pas le temps pour vos conneries:
+				</titre>
+			</li>
+			<li>
+				<titre>11. Quand elle n’a pas envie de répondre à vos questions idiotes:
+				</titre>
+			</li>
+			<li>
+				<titre>12. Et quand elle n’en a rien à faire de ce que vous pensez d’elle:
+				</titre>
+			</li>
+			<li>
+				<titre>13. Jeu set et match.
+				</titre>
+			</li>
+			<li>
+				<titre>*Mic drop*
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

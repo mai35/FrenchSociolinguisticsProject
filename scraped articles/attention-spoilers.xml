@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/andreborges/attention-spoilers-->
+	<header>
+		<titre>27 spoilers que tout le monde devrait connaître depuis le temps		</titre>
+		<st>
+				
+				
+				Attention : ne lisez surtout pas cette article si vous avez passé les cinquante dernières années loin de toute forme de civilisation.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Andre Borges		</nom>
+		<association>BuzzFeed Contributor		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Rachel est sortie de l’avion.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Bruce Wayne se cache sous le masque de Batman.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Dark Vador est le père de Luke.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Simba devient roi.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Dumbledore meurt.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Jim et Pam finissent ensemble.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Kevin Spacey est Keyser Söze.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Liam Neeson vous trouvera et vous tuera.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Tyler Durden n’existe pas.
+				</titre>
+			</li>
+			<li>
+				<titre>10. La Belle au bois dormant se réveille.
+				</titre>
+			</li>
+			<li>
+				<titre>11. Le Titanic coule.
+				</titre>
+			</li>
+			<li>
+				<titre>12. Et il n’y a pas assez de place sur la planche pour Jack.
+				</titre>
+				<commentaire>:(
+				</commentaire>
+			</li>
+			<li>
+				<titre>13. Jaime Lannister couche avec sa sœur.
+				</titre>
+			</li>
+			<li>
+				<titre>14. Arnold Schwarzenegger reviendra.
+				</titre>
+			</li>
+			<li>
+				<titre>15. Neo est l’élu.
+				</titre>
+			</li>
+			<li>
+				<titre>16. Le loup est déguisé en grand-mère.
+				</titre>
+			</li>
+			<li>
+				<titre>17. Clark Gable s’en fout.
+				</titre>
+			</li>
+			<li>
+				<titre>18. Buffy Summers est une tueuse de vampires.
+				</titre>
+			</li>
+			<li>
+				<titre>19. Dorothy n’était pas dans le Kansas.
+				</titre>
+			</li>
+			<li>
+				<titre>20. Bruce Willis était mort depuis le début.
+				</titre>
+			</li>
+			<li>
+				<titre>21. Jon Snow ne sait rien.
+				</titre>
+			</li>
+			<li>
+				<titre>22. Harry Potter est un sorcier.
+				</titre>
+			</li>
+			<li>
+				<titre>23. Il y avait des putain de serpents dans ce putain d’avion.
+				</titre>
+			</li>
+			<li>
+				<titre>24. L’argent était caché dans le stand de bananes.
+				</titre>
+			</li>
+			<li>
+				<titre>25. Hannibal aime bien manger des êtres humains.
+				</titre>
+			</li>
+			<li>
+				<titre>26. Ted Mosby rencontre la mère de ses enfants.
+				</titre>
+			</li>
+			<li>
+				<titre>27. Et tout le monde meurt.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

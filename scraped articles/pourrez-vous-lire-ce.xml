@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/expresident/pourrez-vous-lire-ce-post-sans-etre-emu-et-heureux-a-la-fois-->
+	<header>
+		<titre>Pourrez-vous lire ce post sans pleurire ?		</titre>
+		<st>
+				
+				
+				On vous met au défi de lire ça en entier sans avoir une seule fois les larmes aux yeux et le sourire aux joues au même moment.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Jack Shepherd		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Prêts ?
+				</titre>
+			</li>
+			<li>
+				<titre>2. On commence.
+				</titre>
+			</li>
+			<li>
+				<titre>8. On commence en douceur avec cette courte vidéo d’un petit-fils qui rend une petite visite surprise à son grand-père.
+				</titre>
+				<commentaire>Rien de bien compliqué ici, c’est un simple exercice pour vous échauffer les zygomatiques avant la suite.
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. Bien joué ! Pour vous récompenser, voici le GIF d’un vétéran de la Deuxième Guerre mondiale qui profite d’une course devant chez lui.
+				</titre>
+			</li>
+			<li>
+				<titre>10. En voici un autre : un homme auparavant sans domicile fixe, à qui l’on avait prêté de l’argent pour trouver un logement, rend la pareille à un inconnu.
+				</titre>
+			</li>
+			<li>
+				<titre>12. NOUS INTERROMPONS CE PROGRAMME POUR VOUS MONTRER UN INCROYABLE SAUVETAGE DE CHIEN :
+				</titre>
+			</li>
+			<li>
+				<titre>14. Veuillez accepter nos excuses pour cette interruption. Comme preuve de nos profonds regrets, voici une vidéo sympathique d’un père qui reçoit une chiot en guise de surprise.
+				</titre>
+			</li>
+			<li>
+				<titre>15. Voici un enfant comblé par son joueur de hockey préféré.
+				</titre>
+			</li>
+			<li>
+				<titre>16. Et voici un jeune homme qui serre la main de tous ses compagnons de voyage à la sortie du train.
+				</titre>
+			</li>
+			<li>
+				<titre>20. Voici des retrouvailles entre père et fille :
+				</titre>
+			</li>
+			<li>
+				<titre>21. Et encore.
+				</titre>
+			</li>
+			<li>
+				<titre>22. Et des retrouvailles entre père et chien :
+				</titre>
+			</li>
+			<li>
+				<titre>23. Et encore.
+				</titre>
+			</li>
+			<li>
+				<titre>24. Deux frères !
+				</titre>
+			</li>
+			<li>
+				<titre>25. Et voici la photo d’une fille qui, en allant voir des animaux au refuge près de chez elle, a retrouvé le chat qu’elle avait perdu il y a plus d’un an.
+				</titre>
+			</li>
+			<li>
+				<titre>26. (Les voici chez eux après coup.)
+				</titre>
+			</li>
+			<li>
+				<titre>27. 7. Enfin, voici le moment où la survivante d’une tornade a été réunie avec son chat à la télé.
+				</titre>
+			</li>
+			<li>
+				<titre>30. On démarre avec le perroquet jaco Alex, qui, après avoir passé de longues années avec sa personne, Irene Pepperberg, lui a dit ses derniers mots : « Sois sage. Je t’aime. »
+				</titre>
+			</li>
+			<li>
+				<titre>31. Puis il y a l’histoire d’une mère, d’un fils, et d’un jeu vidéo qui les a rapprochés.
+				</titre>
+			</li>
+			<li>
+				<titre>32. La courte histoire de l’amour entre un chien et son maître.
+				</titre>
+				<commentaire>Prenez une balle de tennis pour votre chien. Vous pourriez avoir envie de la remettre dans la boîte après pour qu’un autre chien puisse en profiter. Rappelez-vous, vivez chaque moment comme votre chien : avec un amour, une loyauté et un bonheur inconditionnels.
+				</commentaire>
+			</li>
+			<li>
+				<titre>33. La longue relation entre un patrouilleur autoroutier et un homme en détresse.
+				</titre>
+				<commentaire>Un patrouilleur autoroutier a convaincu un homme de ne pas sauter.
+L’agent Kevin Briggs parle pendant une heure avant Kevin Berthia jusqu’à ce que ce dernier accepte finalement de repasser de l’autre côté du pont.
+Huit ans plus tard, Kevin Berthia (maintenant marié et père de deux enfants) présente à Kevin Briggs une récompense qui lui est donnée par l’American Foundation for Suicide.
+				</commentaire>
+			</li>
+			<li>
+				<titre>34. Et l’histoire d’une course qui a fini exactement comme elle le devait.
+				</titre>
+				<commentaire>L’athlète basque Ivan Fernandez Anaya participait à une course à Burlada, en Navarre. Il était deuxième, bien derrière le leader de la course, Abel Mutai –médaillé de bronze en 3000m steeple aux JO de Londres. Alors qu’ils arrivaient à la dernière ligne droite, il a vu le coureur kenyan –qui allait clairement gagner la course– s’arrêter sans s’en rendre compte une dizaine de mètres avant la ligne d’arrivée, croyant l’avoir déjà franchie.
+				</commentaire>
+			</li>
+			<li>
+				<titre>35. Bon, on y est presque ! Soufflons un peu en regardant ces deux pères recevoir une énorme surprise, avant de nous lancer dans la dernière ligne droite.
+				</titre>
+			</li>
+			<li>
+				<titre>37. NOUS INTERROMPONS CE PROGRAMME POUR VOUS DIFFUSER UN SAUVETAGE :
+				</titre>
+			</li>
+			<li>
+				<titre>41. Voici un père surpris avec des billets pour le grand match :
+				</titre>
+			</li>
+			<li>
+				<titre>42. Voici un grand-père qui ne laisse pas son âge l’arrêter :
+				</titre>
+			</li>
+			<li>
+				<titre>43. Et un moment entre Kermit et une nouvelle amie :
+				</titre>
+			</li>
+			<li>
+				<titre>44. Et voici un moment entre Kermit et un vieil ami :
+				</titre>
+			</li>
+			<li>
+				<titre>45. Et voici l’histoire d’un homme et d’une princesse :
+				</titre>
+				<commentaire>Voilà un homme qui doit aimer aller au travail et ne s’en inquiète pas la nuit. Quand il est entré dans le royaume magique, un des vigiles a dit à la petite fille, « Excusez-moi princesse, est-ce que je pourrais avoir votre autographe? ». Je pouvais voir que son carnet était rempli de gribouillis d’enfants, et que le garde avait clairement posé la question à beaucoup de petites princesses. La petite fille n’en revenait pas.
+				</commentaire>
+			</li>
+			<li>
+				<titre>46. Et l’histoire d’un vieil homme et d’un chien :
+				</titre>
+			</li>
+			<li>
+				<titre>47. Voici le message adressé par un garçon de 14 ans à sa mère, qui luttait contre le cancer :
+				</titre>
+			</li>
+			<li>
+				<titre>48. Voici le message d’une ville entière adressé à une fille qui luttait aussi contre la maladie…
+				</titre>
+				<commentaire>On a prédit moins de deux semaines à vivre pour cette petite fille de 8 ans. Une de ses dernières volontés était de voir des chanteurs de Noël. Voilà le nombre de gens qui se sont présentés.
+				</commentaire>
+			</li>
+			<li>
+				<titre>49. Et voici le message de quelqu’un qui l’a vaincue.
+				</titre>
+				<commentaire>Maman a appelé aujourd’hui pour nous dire que le cancer est parti et je pense que le monde entier devrait le savoir :)
+				</commentaire>
+			</li>
+			<li>
+				<titre>50. Voici le visage d’un chien qui vient de passer un bon moment avec son meilleur ami.
+				</titre>
+				<commentaire>Après cinq mois sans voir mon chien, j’ai skypé avec lui hier soir. Ma mère m’a envoyé ça après la fin de notre conversation.
+				</commentaire>
+			</li>
+			<li>
+				<titre>51. Et voici le visage d’une femme surprise par le sien.
+				</titre>
+			</li>
+			<li>
+				<titre>52. Ça y est ! Vous avez réussi ! Félicitations !!!
+				</titre>
+				<commentaire>Fêtons cela comme les passagers de cet avion, lorsqu’un contrôleur du trafic aérien demande sa copine en mariage.
+				</commentaire>
+			</li>
+			<li>
+				<titre>53. Comment ça s’est passé ? Vous avez perdu ? Si c’est le cas, faites passer ce test à un ami et voyez sa réaction.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

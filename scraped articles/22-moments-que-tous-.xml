@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/javiermoreno/22-moments-que-tous-ceux-qui-detestent-se-lever-connaissent-->
+	<header>
+		<titre>22 moments que tous ceux qui détestent se réveiller connaissent bien		</titre>
+		<st>
+				
+				
+				Ce qui est sympa dans le fait de se réveiller, c’est qu’on peut se rendormir.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Javier Moreno		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Chaque nuit, vous calculez EXACTEMENT à quelle heure vous pouvez vous réveiller au plus tard pour avoir le temps de faire ce que vous avez à faire au matin.
+				</titre>
+				<commentaire>« Si je vais me coucher maintenant, je peux me réveiller à 7h15, être prêt à 7h30 et aller au boulot vers 8h00. »
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Vous prenez la précaution de programmer plusieurs réveils à 10 minutes d’intervalles pour être sûr de vous réveiller…
+				</titre>
+			</li>
+			<li>
+				<titre>3. … et le sommeil entre chacune de ces alarmes vous remplit de bonheur.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Vous ignorez presque toujours les deux premières sonneries, parce qu’elles ne sont qu’un échauffement avant le moment où vous allez VRAIMENT devoir vous lever.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Entre chaque sonnerie, vous faites des rêves terribles dans lesquels vous vous voyez en train de vous préparer.
+				</titre>
+				<commentaire>Puis vous vous réveillez et devez vous préparer pour de vrai.
+				</commentaire>
+			</li>
+			<li>
+				<titre>6. Mais la dernière sonnerie vous fait toujours paniquer parce que vous savez qu’il faut vraiment vous lever.
+				</titre>
+				<commentaire>Quel bruit horrible.
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. Vous vous sentez coupable de vous lever tard alors que vous avez prévu des événements importants.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Alors vous en arrivez aux dernières extrémités : vous programmez des réveils sur différents appareils, ou demandez à quelqu’un de jouer les réveils pour vous forcer à vous lever.
+				</titre>
+				<commentaire>Il faut tout un village pour vous réveiller.
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. Vous partagez avec le soleil une haine réciproque.
+				</titre>
+				<commentaire>Le réveil de la nature.
+				</commentaire>
+			</li>
+			<li>
+				<titre>10. Et bizarrement, les rayons de soleil le matin semblent toujours se diriger DIRECTEMENT vers vos yeux, peu importe comment vous dormez.
+				</titre>
+				<commentaire>Même si vous changez de position ou bougez les rideaux, la lumière arrivera toujours à vous trouver !
+				</commentaire>
+			</li>
+			<li>
+				<titre>11. Vous ne supportez pas les enfoirés qui décident de tondre leurs pelouses ou de jeter leurs bouteilles de verre pile le jour où vous pouvez faire la grasse mat’.
+				</titre>
+			</li>
+			<li>
+				<titre>12. Vous avez la capacité surhumaine de contrôler votre vessie, car vous devez vous retenir de faire pipi le plus longtemps possible.
+				</titre>
+				<commentaire>Avouez-le, vous avez déjà songé à investir dans un pot de chambre.
+				</commentaire>
+			</li>
+			<li>
+				<titre>13. Vous ne rechignez absolument pas à vous priver de douche ou de petit-déjeuner afin d’utiliser ces précieuses minutes pour dormir.
+				</titre>
+				<commentaire>Chaque seconde compte.
+				</commentaire>
+			</li>
+			<li>
+				<titre>14. Avant même d’envisager de sortir du lit, vous passez les 15 premières minutes (au moins) de votre journée à consulter votre Twitter et votre Instagram.
+				</titre>
+				<commentaire>Puis vous passez les 15 minutes suivantes à lire vos e-mails, et bien sûr à aller sur Facebook.
+				</commentaire>
+			</li>
+			<li>
+				<titre>15. Chaque matin, vous débattez avec vous-même pour savoir si vous pouvez ne pas aller à l’école ou au travail et vous rendormir.
+				</titre>
+			</li>
+			<li>
+				<titre>16. Puis vous vous lancez dans des calculs minutieux pour savoir le nombre de congés maladies qu’il vous reste, ou si vous pouvez vous permettre de rater un jour de classe.
+				</titre>
+				<commentaire>Jamais un esprit n’a fonctionné avec autant d’ardeur à une heure si matinale.
+				</commentaire>
+			</li>
+			<li>
+				<titre>17. Vous détestez le fait d’avoir beaucoup, mais alors beaucoup trop de trucs à faire et devoir sortir du lit.
+				</titre>
+			</li>
+			<li>
+				<titre>18. Parfois, vous restez allongé un peu plus longtemps et réfléchissez à la tenue que vous allez porter.
+				</titre>
+				<commentaire>Tous les moyens sont bons pour éviter de se lever.
+				</commentaire>
+			</li>
+			<li>
+				<titre>19. Puis vous vous faites violence et sortez du lit en mode zombie…
+				</titre>
+			</li>
+			<li>
+				<titre>20. … en vous promettant de faire une sieste un peu plus tard.
+				</titre>
+				<commentaire>Sieste qui neuf fois sur dix n’arrive jamais.
+				</commentaire>
+			</li>
+			<li>
+				<titre>21. Quand la journée touche à sa fin et que vous rentrez chez vous, vous vous jurez de ne plus jamais quitter votre lit.
+				</titre>
+				<commentaire>C’est lui votre âme sœur.
+				</commentaire>
+			</li>
+			<li>
+				<titre>22. Mais au fond, vous savez que le feuilleton du lever et du début de journée se répétera encore et toujours.
+				</titre>
+			</li>
+			<li>
+				<titre>C’est tellement dur de se réveiller.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

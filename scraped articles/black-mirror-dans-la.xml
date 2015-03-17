@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/summeranne/black-mirror-dans-la-vraie-vie-->
+	<header>
+		<titre>Et si «Black Mirror» existait dans la vraie vie?		</titre>
+		<st>
+				
+				
+				Notre série Vine Black Mirror IRL explore la manière terrifiante dont la technologie transforme notre quotidien. Du like accidentel aux écouteurs mal branchés.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Summer Anne Burton		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Black Mirror est une série britannique, diffusée sur France 4 chez nous, qui rencontre un succès fou ces dernières années. C’est une satire addictive et terrifiante sur la façon dont la technologie s’immisce dans nos vie.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Et si Black Mirror traitait des horreurs que nous impose la technologie au quotidien?
+				</titre>
+			</li>
+			<li>
+				<titre>3. Quand vous faites glisser une photo à gauche accidentellement:
+				</titre>
+			</li>
+			<li>
+				<titre>4. Quand vous likez une vieille photo de quelqu’un sans le faire exprès:
+				</titre>
+			</li>
+			<li>
+				<titre>5. Quand ces quelques secondes vous semblent durer une éternité:
+				</titre>
+			</li>
+			<li>
+				<titre>6. Quand vous vous perdez dans le labyrinthe que vous avez vous-même créé:
+				</titre>
+			</li>
+			<li>
+				<titre>7. Quand l’impossible vous terrifie:
+				</titre>
+			</li>
+			<li>
+				<titre>8. Quand la technologie vous pousse à révéler votre nature la plus profonde:
+				</titre>
+			</li>
+			<li>
+				<titre>9. Pour trouver de nouveaux épisodes de Black Mirror IRL suivez-nous sur Vine !
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>
