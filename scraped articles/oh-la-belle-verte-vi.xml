@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/mbvd/oh-la-belle-verte-violette?responses=-->
+	<header>
+		<titre>18 images des magnifiques aurores boréales qui ont illuminé le ciel mardi		</titre>
+		<st>
+				
+				
+				Une puissante tempête géomagnétique a provoqué de sublimes aurores boréales, allant des États-Unis à la Finlande.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Michelle Broder Van Dyke		</nom>
+		<association>BuzzFeed News Reporter		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Phénomène rare, des aurores boréales —aussi connues sous l’expression «lumières du nord» — ont illuminé le ciel à plusieurs points de l’hémisphère nord ce mardi, à la suite d’une énorme tempête solaire.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Les sublimes lumières générées par la tempête ont été capturées par des photographes à travers le Nord des États-Unis, au Canada et en Europe. Voici quelques unes des plus belles images:
+				</titre>
+			</li>
+			<li>
+				<titre>5. Massachusetts, États-Unis
+				</titre>
+			</li>
+			<li>
+				<titre>6. Minnesota, États-Unis
+				</titre>
+			</li>
+			<li>
+				<titre>7. Wisconsin, États-Unis
+				</titre>
+			</li>
+			<li>
+				<titre>9. Ontario, Canada
+				</titre>
+			</li>
+			<li>
+				<titre>10. Stockholm, Suède
+				</titre>
+			</li>
+			<li>
+				<titre>12. New York, États-Unis
+				</titre>
+			</li>
+			<li>
+				<titre>14. Irlande
+				</titre>
+			</li>
+			<li>
+				<titre>15. Islande
+				</titre>
+			</li>
+			<li>
+				<titre>16. Michigan, États-Unis
+				</titre>
+			</li>
+			<li>
+				<titre>18. New Hampshire, États-Unis
+				</titre>
+			</li>
+			<li>
+				<titre>19. Vermont, États-Unis
+				</titre>
+			</li>
+			<li>
+				<titre>20. Finlande
+				</titre>
+			</li>
+			<li>
+				<titre>22. Suivez-nous aussi sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

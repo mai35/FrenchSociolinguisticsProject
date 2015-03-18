@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/anaisbordages/marjane-satrapi-a-peur-des-serial-killers-->
+	<header>
+		<titre>On a causé chats, romantisme et serial killers avec Marjane Satrapi		</titre>
+		<st>
+				
+				
+				La réalisatrice de Persepolis revient ce mercredi avec The Voices. Elle nous parle de chats, de femmes au cinéma et de serial killers.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Anais Bordages		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>En pleine promotion de son nouveau film, The Voices, Marjane Satrapi nous a récemment reçus au Café des Chats à Paris.
+				</titre>
+				<commentaire>The Voices, comédie noire gore et déjantée, suit Jerry (Ryan Reynolds), un homme enthousiaste et un peu simplet, qui pense que son chat et son chien lui parlent et le poussent à commettre d’horribles meurtres.
+				</commentaire>
+			</li>
+			<li>
+				<titre>Entourés d’amis félins, nous avons discuté avec la réalisatrice iranienne de romantisme, de cinéma, et aussi de sa grande passion pour les tueurs en série.
+				</titre>
+			</li>
+			<li>
+				<titre>Bonne joueuse et fan de BuzzFeed, Marjane Satrapi a également accepté de répondre à notre questionnaire-rafale :
+				</titre>
+			</li>
+			<li>
+				<titre>Quel est votre serial killer préféré ?
+				</titre>
+				<commentaire> BuzzFeed France
+				</commentaire>
+			</li>
+			<li>
+				<titre>Quel est le truc qui vous rend complètement folle ?
+				</titre>
+				<commentaire> BuzzFeed France
+				</commentaire>
+			</li>
+			<li>
+				<titre>Si vous deviez entendre la voix de quelqu’un dans votre tête tous les jours, ce serait la voix de qui ?
+				</titre>
+				<commentaire> BuzzFeed France
+				</commentaire>
+			</li>
+			<li>
+				<titre>Regarder quelqu’un dormir : romantique ou flippant ?
+				</titre>
+				<commentaire> BuzzFeed France
+				</commentaire>
+			</li>
+			<li>
+				<titre>Partager un plat au restaurant ?
+				</titre>
+				<commentaire> BuzzFeed France
+				</commentaire>
+			</li>
+			<li>
+				<titre>Trouver l’adresse de la personne qui vous plaît pour lui faire une surprise ?
+				</titre>
+				<commentaire> BuzzFeed France
+				</commentaire>
+			</li>
+			<li>
+				<titre>Faire une demande en mariage en public ?
+				</titre>
+				<commentaire> BuzzFeed France
+				</commentaire>
+			</li>
+			<li>
+				<titre>Enfin, la question que tout le monde se pose : vous êtes plutôt chien ou chat ?
+				</titre>
+				<commentaire> BuzzFeed France
+				</commentaire>
+			</li>
+			<li>
+				<titre>Voici la bande-annonce de The Voices, en salles le 11 mars :
+				</titre>
+				<commentaire> youtube.com
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

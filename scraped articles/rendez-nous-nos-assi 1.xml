@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/bimadewunmi/rendez-nous-nos-assiettes-->
+	<header>
+		<titre>Les 13 pires choses utilisées par des restaurants à la place d’assiettes		</titre>
+		<st>
+				
+				
+				On veut des assiettes. Pas de l’ardoise ou des tuiles. Des assiettes. Via @WeWantPlates.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Bim Adewunmi		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>Pourquoi les restaurants se sont-ils mis à nous faire ça ? Qu’est-il arrivé aux assiettes ? On les aimait tellement.
+				</titre>
+				<commentaire>REGARDEZ UN PEU CETTE CONNERIE :
+				</commentaire>
+			</li>
+			<li>
+				<titre>1. Les pantoufles à pain, en Suisse.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Cette planche en bois avec des frites sur un mini-chariot de supermarché.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Ce fish & chips servi dans une palette de jardinier, avec des pois cassés dans un pot de fleurs et de la sauce tartare dans un arrosoir.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Ce beurre posé sur un MORCEAU DE CARRELAGE.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Cette…chose.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Ce plat de purée-saucisses servi dans… un verre à vin.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Cet affront aux vrais jardiniers du monde entier.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Cette table de pique-nique qui mériterait de se recevoir la pluie.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Cette douceur régionale : du pain dans un béret
+				</titre>
+			</li>
+			<li>
+				<titre>10. Des croquettes de pomme de terre dans une espèce de chaussure en silicone ?
+				</titre>
+			</li>
+			<li>
+				<titre>11. Cette poêle à frire crépitante posée directement sur la table.
+				</titre>
+			</li>
+			<li>
+				<titre>12. Ce manque de respect flagrant envers les règles d’hygiène et de sécurité.
+				</titre>
+			</li>
+			<li>
+				<titre>13. Cette salade servie sur une assiette, certes, mais surtout, sous un verre à vin.
+				</titre>
+			</li>
+			<li>
+				<titre>Quelle est la pire chose sur/dans laquelle on vous a servi de la nourriture ?
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

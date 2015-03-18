@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/ariannarebolini/30-celebrites-qui-sont-surement-de-la-meme-famille-->
+	<header>
+		<titre>30 célébrités qui sont sûrement de la même famille		</titre>
+		<st>
+				
+				
+				Les générations changent, les visages restent les mêmes.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Arianna Rebolini		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Ansel Elgort et Marlon Brando
+				</titre>
+			</li>
+			<li>
+				<titre>2. Ian Somerhalder et Rob Lowe
+				</titre>
+			</li>
+			<li>
+				<titre>3. Aml Ameen et Will Smith
+				</titre>
+			</li>
+			<li>
+				<titre>4. Jennifer Lawrence et Helen Mirren
+				</titre>
+			</li>
+			<li>
+				<titre>5. Harry Styles et Mick Jagger
+				</titre>
+			</li>
+			<li>
+				<titre>6. Robbie Amell et Tom Cruise
+				</titre>
+			</li>
+			<li>
+				<titre>7. Halle Barry et Dorothy Dandridge
+				</titre>
+			</li>
+			<li>
+				<titre>8. Miles Teller et Elvis Presley
+				</titre>
+			</li>
+			<li>
+				<titre>9. Patrick Wilson et Paul Newman
+				</titre>
+			</li>
+			<li>
+				<titre>10. Margot Robbie et Grace Kelly
+				</titre>
+			</li>
+			<li>
+				<titre>11. Zac Efron et Glenn Ford
+				</titre>
+			</li>
+			<li>
+				<titre>12. Beyoncé et Nichelle Nichols
+				</titre>
+			</li>
+			<li>
+				<titre>13. Gabriel Mann et James Spader
+				</titre>
+			</li>
+			<li>
+				<titre>14. Natalie Dormer et Diana Rigg
+				</titre>
+			</li>
+			<li>
+				<titre>15. Charlie Hunnam et Brad Pitt
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

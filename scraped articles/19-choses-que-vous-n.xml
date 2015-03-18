@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/vickinotaro/19-choses-que-vous-ne-comprendrez-que-si-vous-sort-18q9i-->
+	<header>
+		<titre>19 choses que tous ceux qui sortent avec un collègue comprendront		</titre>
+		<st>
+				
+				
+				Les romances au bureau sont aussi difficiles que géniales.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Vicki Notaro		</nom>
+		<association>BuzzFeed Contributor		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Lorsque vous voulez plaire à quelqu’un au travail, votre préparation du matin est prolongée d’au moins 30 minutes.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Vous voulez toujours avoir l’air drôle et spirituel quand vous parlez au téléphone.
+				</titre>
+				<commentaire>Qui n’apprécie pas une bonne blague au téléphone?
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Et vous êtes tout de suite plus agréable avec tous vos collègues.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Vous allez à la machine à café du bureau 17 fois par jour pour que votre cible puisse vous admirer.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Mais vous allez beaucoup moins souvent aux toilettes.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Les e-mails internes prennent une nouvelle dimension.
+				</titre>
+				<commentaire>Votre cœur fait un bond à chaque pop-up.
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. Mais vous supprimez plein d’emails par pure paranoïa.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Il vous arrive de sauter le déjeuner pour ne pas revenir avec un truc coincé entre les dents.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Vous flirtez avec les limites de la décence avec votre tenue vestimentaire.
+				</titre>
+				<commentaire>Hé, c’est presque l’été.
+				</commentaire>
+			</li>
+			<li>
+				<titre>10. Quand votre cible vous saoule, vous flirtez avec quelqu’un d’autre pour l’emmerder.
+				</titre>
+			</li>
+			<li>
+				<titre>11. Vous organisez des activités au bureau pour passer du temps avec elle ou lui.
+				</titre>
+			</li>
+			<li>
+				<titre>12. Lorsque vous parvenez enfin à conclure, vous faites attention à ce que personne ne s’aperçoive de rien.
+				</titre>
+				<commentaire>Mais vous l’avez dit à votre meilleur ami au boulot et à tous les gens qui étaient autour.
+				</commentaire>
+			</li>
+			<li>
+				<titre>13. Vous faites semblant de vous ignorer pour que personne ne se doute de rien.
+				</titre>
+				<commentaire>Comment tu t’appelles déjà?
+				</commentaire>
+			</li>
+			<li>
+				<titre>14. Vous faites attention à ne rien laisser paraître sur les réseaux sociaux, au cas où vous seriez découverts.
+				</titre>
+				<commentaire>*Censuré*
+				</commentaire>
+			</li>
+			<li>
+				<titre>15. Si vous avez eu une dispute la nuit précédente, vous faites comme si de rien n’était au bureau.
+				</titre>
+			</li>
+			<li>
+				<titre>16. Une moitié de vous-même hait le secret, l’autre trouve ça très excitant.
+				</titre>
+			</li>
+			<li>
+				<titre>17. Mais quand vos collègues finissent par s’en apercevoir, ils s’en fichent.
+				</titre>
+			</li>
+			<li>
+				<titre>18. Et bientôt, une douce routine s’installe au bureau.
+				</titre>
+			</li>
+			<li>
+				<titre>19. À moins que votre partenaire ne développe un intérêt pour un(e) autre collègue…
+				</titre>
+				<commentaire>La loose.
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

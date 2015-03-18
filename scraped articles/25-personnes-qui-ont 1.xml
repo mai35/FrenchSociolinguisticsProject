@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/lukebailey/25-personnes-qui-ont-completement-echoue-->
+	<header>
+		<titre>25 personnes qui ont complètement échoué		</titre>
+		<st>
+				
+				
+				L’échec est l’élément moteur de toute l’humanité.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Luke Bailey		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Celui qui a organisé cette séance photo.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Cet amatrice de vin.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Ce chien, qui fait une grosse erreur en voulant s’amuser avec sa copine la tortue.
+				</titre>
+			</li>
+			<li>
+				<titre>4. L’auteur de cette nécrologie.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Taylor Swift, à chaque fois qu’elle essaie de se servir de la technologie.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Ce mec.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Tous les clients qui ne savent pas se servir de paniers de course.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Ce mec qui voulait juste nourrir une ou deux biches.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Cette femme heureuse.
+				</titre>
+			</li>
+			<li>
+				<titre>10. Celui qui a créé ces gâteaux d’anniversaire.
+				</titre>
+			</li>
+			<li>
+				<titre>11. Cette adolescente.
+				</titre>
+			</li>
+			<li>
+				<titre>12. Les gens qui se sont fait ces tatouages.
+				</titre>
+			</li>
+			<li>
+				<titre>13. Ellie Goulding.
+				</titre>
+			</li>
+			<li>
+				<titre>14. Cette femme, qui voulait simplement une assiette de fromage pour finir son repas.
+				</titre>
+			</li>
+			<li>
+				<titre>15. Ce gamer.
+				</titre>
+			</li>
+			<li>
+				<titre>16. Celui à qui appartient ce frigo. Et la machine à glaçons bien évidemment.
+				</titre>
+			</li>
+			<li>
+				<titre>17. Cette incroyable candidate de télé-réalité des années 2000.
+				</titre>
+			</li>
+			<li>
+				<titre>18. Ces employés de Walmart.
+				</titre>
+			</li>
+			<li>
+				<titre>19. Cette fille, qui « a essayé d’avoir les mêmes lèvres que Kylie Jenner », et qui n’a pas réussi.
+				</titre>
+			</li>
+			<li>
+				<titre>20. Cet urbaniste.
+				</titre>
+			</li>
+			<li>
+				<titre>21. CECI.
+				</titre>
+			</li>
+			<li>
+				<titre>22. Ce chauffeur de bus qui a trouvé une solution sans faille à un problème technique.
+				</titre>
+			</li>
+			<li>
+				<titre>23. Ce chien en détresse.
+				</titre>
+			</li>
+			<li>
+				<titre>24. La personne qui a fixé le prix de cette délicieuse barre de spunow.
+				</titre>
+			</li>
+			<li>
+				<titre>25. Et enfin, ce grand romantique.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

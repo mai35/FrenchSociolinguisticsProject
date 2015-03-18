@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/marietelling/le-pdg-de-google-coupe-la-parole-a-une-femme-lors-dun-panel-->
+	<header>
+		<titre>Le président exécutif de Google coupe la parole à une femme lors d’un panel… sur le sexisme		</titre>
+		<st>
+				
+				
+				Et c’est la femme en charge du programme de diversité de Google qui le lui a fait remarquer!
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Marie Telling		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Lundi, au festival tech et musique de SXSW, à Austin (Texas), s’est tenu un panel entre Eric Schmidt, ancien PDG et actuel président exécutif de Google, Megan Smith, la responsable de la technologie au sein du gouvernement américain, et l’écrivain Walter Isaacson.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Le thème du débat: l’innovation et la diversité dans le monde de la technologie. Vous trouvez cela ironique que trois blancs parlent de diversité? Vous n’êtes pas seul. Mais l’ironie ne s’arrête pas là.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Lors de la discussion, Eric Schmidt aurait, à de nombreuses reprises, coupé la parole à Megan Smith.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Si bien, que quelqu’un dans l’audience a fini par le lui faire remarquer.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Et cette personne n’était autre que Judith Williams, en charge des talents et de la diversité à Google.
+				</titre>
+			</li>
+			<li>
+				<titre>7. La prestation d’Eric Schmidt n’est que l’exemple le plus récent du «manterrupting», la tendance qu’ont les hommes à interrompre les femmes lors de réunions ou de panels. Un phénomène récemment décrit par Time Magazine:
+				</titre>
+			</li>
+			<li>
+				<titre>8. La France n’échappe pas à ce problème, comme le note Les Nouvelles News:
+				</titre>
+				<commentaire>Le site rappelle qu’un sondage du Conseil supérieur de l’égalité professionnelle entre les femmes et les hommes (CSEP) sur le sexisme en entreprise a montré que près de 6 femmes sur 10 se sont déjà senties exclues d’une réunion, ou marginalisées quand elles y participaient. Et «trois sur dix rapportent avoir vu leur opinion “récupérée par un homme et dès lors chaudement applaudie”», note Les Nouvelles News.
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. Suivez-nous sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>
