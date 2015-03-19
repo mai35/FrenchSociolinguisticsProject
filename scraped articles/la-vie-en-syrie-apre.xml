@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/shyamanthaasokan/la-vie-en-syrie-apres-quatre-ans-de-guerre-->
+	<header>
+		<titre>Voici à quoi ressemble la vie en Syrie après quatre ans de guerre		</titre>
+		<st>
+				
+				
+				Alors que la guerre civile qui déchire le pays entre dans sa cinquième année, plus de la moitié des habitants ont fui leur maison et l’espérance de vie a chuté de 20 ans. BuzzFeed News a discuté avec trois Syriens de la vie quotidienne dans leur pays.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Shyamantha Asokan		</nom>
+		<association>BuzzFeed News Reporter		</association>
+	</auteur>
+	<corps>
+		<ol>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>
