@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/jamiejones/17-acteurs-qui-prouvent-que-la-barbe-ne-va-pas-a-tout-le-mon-->
+	<header>
+		<titre>17 acteurs qui prouvent que la barbe ne va pas à tout le monde		</titre>
+		<st>
+				
+				
+				Certains hommes sont plus beaux rasés de près.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Jamie Jones		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Benedict Cumberbatch
+				</titre>
+			</li>
+			<li>
+				<titre>2. Brad Pitt
+				</titre>
+			</li>
+			<li>
+				<titre>3. Chris Evans
+				</titre>
+			</li>
+			<li>
+				<titre>4. Chiwetel Ejiofor
+				</titre>
+			</li>
+			<li>
+				<titre>5. Robert Pattinson
+				</titre>
+			</li>
+			<li>
+				<titre>6. Tom Hiddleston
+				</titre>
+			</li>
+			<li>
+				<titre>7. Bradley Cooper
+				</titre>
+			</li>
+			<li>
+				<titre>8. Ashton Kutcher
+				</titre>
+			</li>
+			<li>
+				<titre>9. Dylan O’Brien
+				</titre>
+			</li>
+			<li>
+				<titre>10. Jude Law
+				</titre>
+			</li>
+			<li>
+				<titre>11. Aziz Ansari
+				</titre>
+			</li>
+			<li>
+				<titre>12. Neil Patrick Harris
+				</titre>
+			</li>
+			<li>
+				<titre>13. Chris Pratt
+				</titre>
+			</li>
+			<li>
+				<titre>14. Jared Leto
+				</titre>
+			</li>
+			<li>
+				<titre>15. Chris Pine
+				</titre>
+			</li>
+			<li>
+				<titre>16. Denzel Washington
+				</titre>
+			</li>
+			<li>
+				<titre>17. Daniel Radcliffe
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>
