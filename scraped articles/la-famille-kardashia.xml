@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/elliewoodward/la-famille-kardashian-a-bien-change-->
+	<header>
+		<titre>La famille Kardashian hier et aujourd’hui		</titre>
+		<st>
+				
+				
+				La dixième saison de L’Incroyable Famille Kardashian vient de débuter aux Etats-Unis. Mais à quel point la famille a-t-elle changé depuis 2007?
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Ellie Woodward		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. L’Incroyable Famille Kardashian a été diffusée pour la première fois aux Etats-Unis en 2007, et en France en 2010.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Le premier épisode de la saison 10 était diffusé ce dimanche 15 mars aux Etats-Unis, et la plupart des membres de la famille se sont tournés vers Instagram pour partager ce moment important.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Comment la famille s’est-elle transformée entre 2007 et aujourd’hui?
+				</titre>
+			</li>
+			<li>
+				<titre>4. Kylie Jenner
+				</titre>
+			</li>
+			<li>
+				<titre>5. Khloe Kardashian.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Kourtney Kardashian.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Rob Kardashian.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Scott Disick.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Kris Jenner.
+				</titre>
+			</li>
+			<li>
+				<titre>10. Kendall Jenner.
+				</titre>
+			</li>
+			<li>
+				<titre>11. Bruce Jenner.
+				</titre>
+			</li>
+			<li>
+				<titre>12. Kim Kardashian.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>
