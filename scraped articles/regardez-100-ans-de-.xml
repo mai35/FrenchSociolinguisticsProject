@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/maycie/regardez-100-ans-de-coiffures-noires-en-moins-dun-->
+	<header>
+		<titre>Regardez 100 ans de coiffures sur une chevelure afro en moins d’une minute		</titre>
+		<st>
+				
+				
+				Durant le dernier siècle, une chose n’a jamais changé : les femmes ont toujours été belles.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Maycie Thornton		</nom>
+		<association>BuzzFeed, Video Curator		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Vous vous rappelez peut-être de cette vidéo d’un mannequin traversant 100 ans de coiffures et de tendances maquillage en seulement une minute. Maintenant, les producteurs ont recréé la vidéo avec une mannequin Afro-Américaine.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Voici comment les femmes se coiffaient dans les années 1910.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Les années 1920 étaient l’époque des coupes courtes et des pinces à cheveux, à la Joséphine Baker.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Tandis que dans les années 1930, les cheveux ont retrouvé plus de volume.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Et évidemment, dans les années 1940, on retrouve les gardénias classiques à la Billie Holiday.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Les années 1950 misaient bien plus sur la réserve.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Dans les années 1960, on trouvait surtout des coiffures volumineux et des yeux de chat.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Tandis que les femmes des années 1970 utilisaient leur coupe afro en guise de commentaire social sur la fierté raciale, durant le mouvement « black is beautiful ».
+				</titre>
+			</li>
+			<li>
+				<titre>9. Les lèvres colorées et les cheveux volumineux des années 1980 font tellement penser à Vanessa du « Cosby Show ».
+				</titre>
+			</li>
+			<li>
+				<titre>10. Les années 1990 étaient l’époque des bijoux fantaisie et des tresses, comme dans « Poetic Justice ».
+				</titre>
+			</li>
+			<li>
+				<titre>11. Les années 2000 ont vu une augmentation des belles coiffures naturelles.
+				</titre>
+			</li>
+			<li>
+				<titre>12. Et dans les années 2010… toujours aussi belles.
+				</titre>
+			</li>
+			<li>
+				<titre>13. Cut Video a aussi créé un tutoriel des parties I et II de leurs 100 ans de beauté, que vous pouvez regarder ici.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

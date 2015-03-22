@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/alisoncaporimo/comment-ne-plus-manger-comme-un-touriste-dans-ces-11-pays?responses=-->
+	<header>
+		<titre>Comment ne plus manger comme un touriste dans ces 11 pays		</titre>
+		<st>
+				
+				
+				Tout le monde sait que ce qu’il y a de mieux dans les voyages, c’est la nourriture. Notre recette pour manger comme un Thaïlandais, un Russe, un Américain, un Italien…
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Alison Caporimo		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. N’utilisez pas de baguettes en Thaïlande — à moins que vous ne preniez de la soupe…
+				</titre>
+				<commentaire>Jodi Ettenberg, auteure du Food Traveler’s Handbook et blogueuse sur Legal Nomads, explique à BuzzFeed Life: «Les voyageurs pensent fréquemment que les Thaïs utilisent des baguettes pour tout. Si vous voyez des baguette à un stand de rue, cela veut simplement dire qu’on y sert de la soupe. Pour les plats de nouilles et la plupart des mets à base de riz, on utilise une fourchette ou une cuillère. Et pour les plat venant de l’Isan (des plats du nord de la Thaïlande tels que le riz gluant et la salade de papaye som tam), on se sert de ses mains.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Et ne quittez pas la Thaïlande sans avoir goûté au Nam Tok Moo.
+				</titre>
+				<commentaire>D’après Jodi Ettenberg, «le Nam Tok Moo est une merveilleuse salade tiède composée de tranches de porc, de poudre de riz grillée, de nuoc-mâm, de piment, d’oignons et plus encore. C’est absolument délicieux accompagné de riz gluant dont vous vous servirez pour saucer les dernières gouttes.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Achetez un bento dans une gare, au Japon.
+				</titre>
+				<commentaire>D’après Jodi Ettenberg, «on peut trouver des bentos déments au moment d’entrer dans le train —on les vend souvent littéralement sur le quai. Les hommes d’affaires qui sillonnent le pays sortaient leur bento et grignotent le contenu alors que le shinkansen, le TGV japonais, va à toute vitesse.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>4. Mettez les coudes sur la table en Russie.
+				</titre>
+				<commentaire>Si l’on en croit Jodi Ettenberg, «en Russie, mettre les mains sous la table est perçu comme suspect. Il faut toujours poser les poignets sur le bord de la table (pas sur les genoux) quand on mange.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>5. Prenez un cornetto et un cappuccino en Italie pour le petit-déjeuner…
+				</titre>
+				<commentaire>«Les Italiens sont persuadés que boire du lait après un repas n’est pas bon pour la digestion, aussi le matin est-il le seul moment de la journée où ils prennent un cappuccino et seulement s’ils peuvent s’asseoir et se détendre», déclare Sarah Walton, co-fondatrice de Better Way to Italy, à BuzzFeed Life. «S’ils sont pressés, les Italiens opteront plutôt pour un expresso». Quant au cornetto, à mi-chemin entre la brioche et le croissant, certains le mangent nature, d’autre le tartinent de confiture, de crème ou de Nutella.
+				</commentaire>
+			</li>
+			<li>
+				<titre>6. Et ne demandez pas d’huile pour y tremper votre pain au cours du dîner…
+				</titre>
+				<commentaire>D’après Sarah Walton, «on ne sert pas de pain avec de l’huile et du vinaigre balsamique (à moins que le restaurant ne s’adresse à des touristes). En outre, on ne mange pas de pain avec les pâtes. On s’en sert pour “fare la scarpetta” ou “faire une petite chaussure”, pour saucer l’assiette.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. Et ne vous attendez pas à voir arriver tous les plats d’un coup.
+				</titre>
+				<commentaire>«Les pâtes sont servies avant la viande et les légumes, il se peut donc que vous ayez votre repas avant les autres s’ils n’ont commandé que des plats de viande», précise Sarah Walton. «Un autre tuyau de pro: on n’ajoute jamais de fromage à un plat de pâtes contenant du poisson.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. Ne plantez jamais vos baguettes verticalement dans un bol lors d’un repas en Asie.
+				</titre>
+				<commentaire>Tout particulièrement quand vous mangez du riz. D’après Jodi Ettenberg, «c’est comme cela que les gens commémorent les morts, en plantant de l’encens directement dans un bol. Même chose pour ce qui est de passer des aliments avec des baguettes».
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. Servez vous uniquement de votre main droite en Inde.
+				</titre>
+				<commentaire>«En Inde —cela vaut aussi dans de nombreux pays au Moyen-Orient— il n’est pas convenable de se servir de la main gauche pour manger, particulièrement pour les plats impliquant l’utilisation de pain pour saucer sa nourriture», indique Jodi Ettenberg. «Dans ces pays, la main gauche est souvent associée aux besoins naturels».
+				</commentaire>
+			</li>
+			<li>
+				<titre>10. Commandez un bun rieu au Vietnam.
+				</titre>
+				<commentaire>«C’est un bouillon au crabe et à la tomate avec des boulettes de porc et de crabe, de la pâte de crabe à la vapeur, du tofu, des nouilles et bien plus encore», précise Jodi Ettenberg.
+				</commentaire>
+			</li>
+			<li>
+				<titre>11. Mangez du menemen en Turquie lors d’un brunch, le week-end…
+				</titre>
+				<commentaire>D’après Chelsey Pippin, rédactrice pour BuzzFeed UK lifestyle, qui a travaillé comme jeune fille au pair en Turquie et y a enseigné l’anglais, «c’est un plat épicé qui contient des œufs cuits au four, des tomates et des légumes —c’est un plat de fête que l’on mange plutôt le week-end. Et on prend toujours du thé cay turc au petit-déjeuner —il n’est pas trop d’usage de boire du café le matin».
+				</commentaire>
+			</li>
+			<li>
+				<titre>12. Et il faut vraiment boire du salep turc.
+				</titre>
+				<commentaire>«Le salep est fabriqué à partir d’orchidées et, comme la Turquie n’exporte quasiment pas ses orchidées, on ne peut littéralement le boire que dans ce pays», ajoute Chelsey Pippin. «C’est très sucré, épais et ressemble à une sorte de chocolat chaud plus trouble.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>13. Ne quittez pas le sud des Etats-Unis sans être allé dans un «meat-and-three»
+				</titre>
+				<commentaire>Comme son nom l’indique, le «meat-and-three» est un type de restaurant où on mange une viande avec trois accompagnements (du délicieux chou braisé, du gombo frit…). Indispensable si vous êtes en vadrouille dans le Mississippi, l’Alabama ou le Tennessee notamment.
+				</commentaire>
+			</li>
+			<li>
+				<titre>14. Et commandez un cioppino si vous êtes à San Francisco
+				</titre>
+				<commentaire>Ce ragoût de poisson italo-américain est généralement composé de crabe, de coquilles saint-jacque, de crevettes, moules et palourdes, et de poisson local. Il est servi avec du pain à l’ail qu’on peut utiliser pour saucer la soupe.
+				</commentaire>
+			</li>
+			<li>
+				<titre>15. Allez dîner au Brésil dans un quilo…
+				</titre>
+				<commentaire>«Les quilos sont des restaurants de buffets populaires dans lesquels l’assiette se paie au poids», nous indique Clarissa Passos, brésilienne et rédactrice à BuzzFeed.
+				</commentaire>
+			</li>
+			<li>
+				<titre>16. Et, si vous avez une petite faim, prenez un pastel de feira.
+				</titre>
+				<commentaire>D’après Clarissa Passos, «le pastel de feira est un beignet fourré au fromage, à la viande, ou à de nombreuses autres saveurs. On peut l’acheter dans la plupart des marchés de rue».
+				</commentaire>
+			</li>
+			<li>
+				<titre>17. Empifrez-vous de fairy bread en Australie.
+				</titre>
+				<commentaire>Le pain des fées est un mélange magique: pain blanc, beaucoup de beurre et des vermicelles. Les enfants en raffolent et la plupart des adultes ne s’en lassent jamais.
+				</commentaire>
+			</li>
+			<li>
+				<titre>Vous avez des conseils pour manger comme les habitants d’autres pays? Partagez-les dans les commentaires, sur Twitter ou Facebook!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>
