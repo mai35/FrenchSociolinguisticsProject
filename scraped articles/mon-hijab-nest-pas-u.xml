@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/johanabhuiyan/mon-hijab-nest-pas-une-casquette-comme-les-autres?responses=-->
+	<header>
+		<titre>Mon hijab n’est pas une casquette comme les autres		</titre>
+		<st>
+				
+				
+				Le voile ne peut pas être à la fois la raison pour laquelle certains nous haïssent et être écarté avec désinvolture quand c’est plus pratique.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Johana Bhuiyan		</nom>
+		<association>BuzzFeed News Reporter		</association>
+	</auteur>
+	<corps>
+		<ol>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

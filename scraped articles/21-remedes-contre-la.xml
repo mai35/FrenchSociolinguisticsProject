@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/jamiejones/21-remedes-contre-la-gueule-de-bois-venus-du-monde-entier-->
+	<header>
+		<titre>21 remèdes contre la gueule de bois venus du monde entier		</titre>
+		<st>
+				
+				
+				Avant toute chose : boire un grand verre d’eau.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Jamie Jones		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Royaume-Uni: un petit-déjeuner anglais complet
+				</titre>
+				<commentaire>Un incontournable britannique, le traditionnel full English breakfast se compose de bacon, saucisses, œufs, boudin noir, pain grillé ou toast, et de beaucoup de haricots. Beaucoup de gens affirment que la graisse contenue dans ce plat aide à absorber l’alcool.
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Pérou: le leche de tigre
+				</titre>
+				<commentaire>Aussi appelé le lait de tigre, son nom provient de la couleur et des supposées propriétés énergisantes de ce cocktail — qui contient du jus de citron vert, de la coriandre, de l’ail, de l’oignon, du piment, du sel, du poivre, et pour finir, du poisson. Attention : on dit qu’il aurait un effet aphrodisiaque.
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Allemagne: le katerfrühstück
+				</titre>
+				<commentaire>La plupart du temps composé de hareng mariné (rollmops), de cornichons marinés ou d’un autre aliment au goût amer, c’est souvent le premier repas de la journée qui suit une soirée bien arrosée en Allemagne, car on dit qu’il permettrait de restaurer les niveaux d’électrolytes.
+				</commentaire>
+			</li>
+			<li>
+				<titre>4. Pologne: le jus de cornichons
+				</titre>
+				<commentaire>Ce remède anti-gueule de bois, populaire en Pologne et dans les pays voisins, n’est rien d’autre que du jus de cornichons. Contenant du vinaigre, de l’eau et du sodium, le jus de cornichons est un excellent moyen de réhydrater son corps après une nuit de folie.
+				</commentaire>
+			</li>
+			<li>
+				<titre>5. Mexique: le menudo
+				</titre>
+				<commentaire>Une soupe d’abats mexicaine composée de tripes de bœuf qui baignent dans un bouillon à base de piment rouge. On dit qu’elle stimule les sens et apaise le mal de tête.
+				</commentaire>
+			</li>
+			<li>
+				<titre>6. Italie: l’espresso
+				</titre>
+				<commentaire>Le remède anti-gueule de bois de nombreux italiens est de boire plusieurs tasses d’espresso fait maison et bien fort. La caféine dilate les vaisseaux sanguins, ce qui aide à se débarrasser plus vite des maux de tête.
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. Canada: la poutine
+				</titre>
+				<commentaire>Un plat populaire au Canada, et qui le devient aussi progressivement dans d’autres pays, la poutine se compose de frites, recouvertes de sauce au jus de viande et de fromage. Un autre plat national bien gras qui, dit-on, aiderait à absorber l’alcool.
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. Équateur: la tisane d’origan
+				</titre>
+				<commentaire>À base de feuilles d’origan, cette tisane est principalement consommée en Équateur pour aide à remettre l’estomac en place.
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. Japon: l’umeboshi
+				</titre>
+				<commentaire>L’umeboshi est considéré comme un « remède universel » au Japon, où l’on dit que les prunes amères marinées aident à la digestion, au bon fonctionnement du foie et à prévenir la nausée.. Pas mal du tout pour un si petit fruit.
+				</commentaire>
+			</li>
+			<li>
+				<titre>10. Mongolie: le jus de tomate aux yeux de mouton marinés
+				</titre>
+				<commentaire>Surnommée le Mongolian Mary, cette boisson est un très ancien cocktail mongol. Il a été prouvé que le jus de tomate aide le foie à éliminer l’alcool de l’organisme, mais la raison pour laquelle il faudrait y rajouter des yeux de mouton reste un mystère. Pour ceux qui n’ont pas froid aux yeux.
+				</commentaire>
+			</li>
+			<li>
+				<titre>11. Croatie: le burek
+				</titre>
+				<commentaire>Le burek, un remède anti-gueule de bois originaire de Croatie, est composé de pâte feuilletée et d’une combinaison de fromage et/ou de viande. L’abondance de matière grasse et de glucides permettrait d’absorber l’alcool.
+				</commentaire>
+			</li>
+			<li>
+				<titre>12. Corée du Sud: l’haejangguk
+				</titre>
+				<commentaire>Haejangguk signifie «soupe pour chasser la gueule de bois» et fait référence à toutes sortes de soupes consommées comme remède anti gueule de bois dans la cuisine coréenne. Composé généralement de chou chinois séché, de sang de bœuf congelé, et de légumes dans un bouillon de bœuf copieux, le plat existe depuis le 14ème siècle.
+				</commentaire>
+			</li>
+			<li>
+				<titre>13. États-Unis: le prairie oyster
+				</titre>
+				<commentaire>Ce cocktail de lendemain de soirée doit son nom à la texture du jaune d’œuf entier se trouvant au fond du verre qui ressemble à une huître («oyster» en anglais). En plus de constituer un remède contre la gueule de bois, il permettrait aussi d’arrêter une crise de hoquet.
+				</commentaire>
+			</li>
+			<li>
+				<titre>14. Indonésie: le kaya toast
+				</titre>
+				<commentaire>Ce plat national indonésien consommé au petit-déjeuner est préparé avec du kaya (de la confiture de noix de coco), une garniture de sucre, du lait de coco et des œufs.
+				</commentaire>
+			</li>
+			<li>
+				<titre>15. Chine: le congee
+				</titre>
+				<commentaire>Plat très populaire en Chine, cette bouillie de riz est depuis longtemps le plat de choix pour ceux qui ne se sentent pas dans leur assiette, y compris ceux souffrant de gueule de bois.
+				</commentaire>
+			</li>
+			<li>
+				<titre>16. Danemark: la reparationsbajer
+				</titre>
+				<commentaire>«Soigner le mal par le mal»: c’est la philosophie qui se cache derrière ce remède anti-gueule de bois traditionnel danois. Reparationsbajer signifie en gros «la bière de réparation».
+				</commentaire>
+			</li>
+			<li>
+				<titre>17. République Tchèque: l’utopenci
+				</titre>
+				<commentaire>Ce petit-déjeuner tchèque se compose de cornichons et de saucisses appelées utopenci.
+				</commentaire>
+			</li>
+			<li>
+				<titre>18. Thaïlande: le pad kee mao
+				</titre>
+				<commentaire>Portant le surnom très approprié de «nouilles ivres», ce plat épicé est normalement composé de larges nouilles de riz, de sauce soja, de sauce au poisson, d’ail, de viande, de fruits de mer, de germes de haricots et de divers assaisonnements.
+				</commentaire>
+			</li>
+			<li>
+				<titre>19. Bangladesh: l’eau de noix de coco
+				</titre>
+				<commentaire>L’idée ici est très simple : ça hydrate. L’eau de coco est aussi riche en potassium et contient de nombreux ingrédients utiles comme des antioxydants, de l’acide ascorbique et du magnésium.
+				</commentaire>
+			</li>
+			<li>
+				<titre>20. Norvège: le lutefisk
+				</titre>
+				<commentaire>Le remède contre la gueule de bois préféré des Norvégiens, le lutefisk, se compose de poisson séché et de soude. On pense que sa consistance et son taux élevé en huile de poisson en font le repas idéal pour absorber tous les restes d’alcool contenus dans votre organisme.
+				</commentaire>
+			</li>
+			<li>
+				<titre>21. Afrique du Sud: une omelette d’œuf d’autruche
+				</titre>
+				<commentaire>Le remède traditionnel contre la gueule de bois en Afrique du Sud consiste à casser un œuf d’autruche et à se faire une très grande omelette.
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

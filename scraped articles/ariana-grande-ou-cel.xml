@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/michaelblackmon/ariana-grande-ou-celine-dion?responses=-->
+	<header>
+		<titre>Cette vidéo d’Ariana Grande qui imite Céline Dion va vous faire halluciner		</titre>
+		<st>
+				
+				
+				Qui l’eût cru? Nos stars ont du talent.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Michael Blackmon		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. La chanteuse queue-de-chevalesque Ariana Grande était l’invitée du Tonight Show, l’émission de Jimmy Fallon, vendredi dernier.
+				</titre>
+				<commentaire>C’était la première fois qu’elle y était en tant qu’invitée et pas seulement en tant que chanteuse.
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Pour la déstresser, Jimmy Fallon a mis Ariana au défi d’imiter Céline Dion.
+				</titre>
+				<commentaire>Et comme vous pouvez le voir, le présentateur a du mal à garder son sérieux tellement son imitation est PARFAITE.
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Le fou rire commence à partir d’1 minute:
+				</titre>
+			</li>
+			<li>
+				<titre>4. Bien joué, Ariana!
+				</titre>
+				<commentaire>Céline serait sans doute très fière.
+				</commentaire>
+			</li>
+			<li>
+				<titre>5. Suivez-nous sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

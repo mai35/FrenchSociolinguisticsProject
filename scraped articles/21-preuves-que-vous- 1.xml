@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/jamiejones/21-preuves-que-vous-etes-accro-au-the-->
+	<header>
+		<titre>21 preuves que vous êtes accro au thé		</titre>
+		<st>
+				
+				
+				Le thé, c’est du sérieux.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Jamie Jones		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Il vous est presque impossible de commencer votre journée sans votre tasse de thé.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Vous avez essayé d’autres boissons, mais aucune ne vous fait vous sentir aussi bien que le thé.
+				</titre>
+				<commentaire>Sérieusement, c’est de l’amour liquide.
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Et puis, vous n’êtes qu’un zombie tant que vous n’avez pas eu votre première dose.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Et tout le monde sait qu’il vaut mieux ne pas croiser votre chemin avant que vous ayez bu votre première tasse de thé.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Ou cinq.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Vous croyez fermement que le thé peut régler tous les problèmes.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Alors vous demandez tout le temps aux personnes qui vous entourent si elles en veulent.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Et «non» n’est jamais une réponse acceptable.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Parce que le thé, c’est sérieux.
+				</titre>
+			</li>
+			<li>
+				<titre>10. Vous avez même un mug que vous protégez par tous les moyens.
+				</titre>
+			</li>
+			<li>
+				<titre>11. Vous buvez tellement de thé qu’il vous arrive de vous retrouver à court de sachets.
+				</titre>
+			</li>
+			<li>
+				<titre>12. Et c’est juste la pire chose qui puisse vous arriver.
+				</titre>
+			</li>
+			<li>
+				<titre>13. Vous surestimez peut-être légèrement la valeur du thé.
+				</titre>
+			</li>
+			<li>
+				<titre>14. Vous ne comprenez pas le succès de Starbucks.
+				</titre>
+			</li>
+			<li>
+				<titre>15. Vous buvez votre thé même quand il est encore trop chaud.
+				</titre>
+			</li>
+			<li>
+				<titre>16. Mais vous avez une super technique pour le refroidir.
+				</titre>
+			</li>
+			<li>
+				<titre>17. Rien que penser à une tasse de thé froide vous rend triste.
+				</titre>
+			</li>
+			<li>
+				<titre>18. Parce qu’il n’y a rien de pire qu’une tasse de thé gâchée.
+				</titre>
+			</li>
+			<li>
+				<titre>19. Vous rendez même visite à des gens juste parce que leur thé est délicieux.
+				</titre>
+			</li>
+			<li>
+				<titre>20. Vous savez exactement comment vous aimez le votre.
+				</titre>
+			</li>
+			<li>
+				<titre>21. Et vous avez une opinion très ferme sur la façon dont il faut le préparer.
+				</titre>
+			</li>
+			<li>
+				<titre>Après tout, il n’y a rien de mieux qu’une bonne tasse de thé.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

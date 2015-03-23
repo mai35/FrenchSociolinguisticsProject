@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/kimberleydadds/19-moments-ou-les-stars-de-harry-potter-ont-fa?responses=-->
+	<header>
+		<titre>19 fois où les stars de Harry Potter ont fait des choses de moldus		</titre>
+		<st>
+				
+				
+				Les voir faire des trucs normaux entre amis est très étrange.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Kimberley Dadds		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Quand Ron Weasley et Drago Malefoy ont fait la fête à Las Vegas.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Et se sont avoués leurs sentiments avec ce t-shirt.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Quand Malefoy s’est tapé l’incruste à une réunion de famille chez les Weasley.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Comme si c’était un jour ~normal~.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Quand Harry Potter s’est laissé pousser les cheveux et que Ron a essayé de ne pas éclater de rire.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Quand Neville Londubat et Hermione Granger sont allés ensemble au bal de promo.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Et quand Neville et Cédric Diggory se sont fait un câlin.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Quand Neville a porté un kilt avec Ginny Weasley et Drago.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Puis Drago et Neville ont joué au golf ensemble. Comme les moldus qu’ils sont.
+				</titre>
+			</li>
+			<li>
+				<titre>10. Quand Lee Jordan et Fred Weasley ont passé une journée avec les minions.
+				</titre>
+			</li>
+			<li>
+				<titre>11. Et quand Drago est allé à un concert avec Filius Flitwick.
+				</titre>
+			</li>
+			<li>
+				<titre>12. Quand Drago a fait semblant de se battre avec Neville.
+				</titre>
+			</li>
+			<li>
+				<titre>13. Avant de se laisser hypnotiser par sa beauté et de lui faire un câlin à la place.
+				</titre>
+			</li>
+			<li>
+				<titre>14. Quand Lee Jordan est allé à un match de basket avec Fred et George comme n’importe quel être humain NORMAL.
+				</titre>
+			</li>
+			<li>
+				<titre>15. Quand Drago et Filius ont fait les fous ensemble comme deux amis moldus ordinaires.
+				</titre>
+			</li>
+			<li>
+				<titre>16. Et quand Drago, Ron et Cédric se sont fait une soirée entre potes en Californie.
+				</titre>
+			</li>
+			<li>
+				<titre>17. Quand Drago s’est fait prendre en stop par Ron à moto.
+				</titre>
+			</li>
+			<li>
+				<titre>18. Puis Ginny s’est jointe à eux pour un petit road trip.
+				</titre>
+			</li>
+			<li>
+				<titre>19. Et quand Hermione et JK Rowling se sont retrouvées ensemble au même événement, comme de vieilles amies se réunissant le temps d’un dîner.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

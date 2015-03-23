@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/lukebailey/les-stars-de-how-i-met-your-mother-au-debut-et-a-la-fin-de-l-->
+	<header>
+		<titre>Les stars de How I Met Your Mother au début et à la fin de la série		</titre>
+		<st>
+				
+				
+				Ils ont tous vieilli avec classe.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Luke Bailey		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Ted Mosby (Josh Radnor).
+				</titre>
+			</li>
+			<li>
+				<titre>2. Robin Scherbatsky (Cobie Smulders).
+				</titre>
+			</li>
+			<li>
+				<titre>3. Barney Stinson (Neil Patrick Harris)
+				</titre>
+			</li>
+			<li>
+				<titre>4. Marshall Eriksen (Jason Segel).
+				</titre>
+			</li>
+			<li>
+				<titre>5. Lily Aldrin (Alyson Hannigan)
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>
