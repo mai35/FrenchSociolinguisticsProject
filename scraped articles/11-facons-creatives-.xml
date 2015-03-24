@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/nicolenguyen/11-facons-creatives-dutiliser-la-nouvelle-application-dinsta?responses=-->
+	<header>
+		<titre>11 façons créatives d’utiliser la nouvelle application d’Instagram Layout		</titre>
+		<st>
+				
+				
+				Layout permet de faire des montages photo. Ou… des trucs bizarres.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Nicole Nguyen		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>Instagram vient de présenter une nouvelle application, du nom de Layout. Elle sert à faire des montages et elle vient juste de sortir sur iPhone.
+				</titre>
+			</li>
+			<li>
+				<titre>Soyons honnêtes, les montages sont souvent nuls, mais on peut utiliser Layout de façon créative.
+				</titre>
+			</li>
+			<li>
+				<titre>1. Les montages n’ont pas de bordures, donc on peut créer des photos de ce genre:
+				</titre>
+				<commentaire>Et jouer sur l’idée de reflet.
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Ou de ce genre:
+				</titre>
+				<commentaire>Bonus: vous pouvez prétendre partager votre petit-déj avec quelqu’un même quand vous êtes seul(e).
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Renverser les photos avec de grands espaces et beaucoup de ciel est particulièrement cool.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Vous pouvez créer un effet kaléidoscope.
+				</titre>
+				<commentaire>Et retrouver votre âme d’enfant par la même occasion.
+				</commentaire>
+			</li>
+			<li>
+				<titre>5. Vous pouvez même faire des selfies-kaléidoscopes.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Pour un résultat encore plus sympa, portez un haut à motifs.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Les montages sont un bon moyen d’illustrer un voyage.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Et de montrer toutes les choses incroyables que vous avez mangées.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Chaque collage pourrait être sa propre série de photos.
+				</titre>
+			</li>
+			<li>
+				<titre>Mais la meilleure façon d’explorer tout le potentiel de cette application est…
+				</titre>
+			</li>
+			<li>
+				<titre>10. La symétrie faciale!
+				</titre>
+				<commentaire>Grâce à Layout, nous avons enfin remarqué la ressemblance entre notre chef de rubrique Jess et Wayne de Wayne’s World.
+				</commentaire>
+			</li>
+			<li>
+				<titre>11. Et si la symétrie faciale vous fatigue, il vous reste toujours les montages flippants!
+				</titre>
+			</li>
+			<li>
+				<titre>Suivez-nous aussi sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

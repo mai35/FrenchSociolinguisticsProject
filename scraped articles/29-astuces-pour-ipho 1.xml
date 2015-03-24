@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/juliegerstein/29-astuces-pour-iphone-qui-vont-sublimer-vos-photos-->
+	<header>
+		<titre>29 astuces pour prendre de meilleures photos sur iPhone		</titre>
+		<st>
+				
+				
+				Posez donc ce selfie-stick et apprenez à prendre les meilleures photos de votre vie.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Julie Gerstein		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Utilisez le mode Rafale pour prendre rapidement une rafale de trois photos ou plus simultanément. Ensuite, choisissez celle que vous préférez!
+				</titre>
+				<commentaire>Le mode rafale permet de prendre dix photos à la seconde, et votre téléphone vous indiquera même laquelle est la meilleure. Et si vous vous en sentez l’envie, vous pouvez transformer cette rafale en GIF!
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Prenez toujours vos photos horizontalement.
+				</titre>
+				<commentaire>Même si ça peut sembler bizarre, au final, absolument tout (votre ordinateur, votre télé ou vos yeux) est horizontal. Vous pouvez aussi utiliser le mode carré pour régler le problème.
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Ça vous est déjà arrivé de commencer à faire une vidéo et de vous rendre compte que vous vouliez en plus prendre une photo? Bah, c’est possible!
+				</titre>
+				<commentaire>Appuyez simplement sur le bouton blanc et vous pourrez prendre un cliché en plein milieu d’une vidéo.
+				</commentaire>
+			</li>
+			<li>
+				<titre>4. N’oubliez pas que vous pouvez utiliser les boutons du volume de votre téléphone et les boutons du volume de vos écouteurs pour prendre des photos.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Vous pouvez à tout moment arranger vos photos dans le menu de votre appareil photo.
+				</titre>
+				<commentaire>Allez-y, prenez autant de photos que vous voulez. Vous pourrez toujours modifier ces images depuis l’appareil photo, si vous n’avez pas envie de passer par une application.
+				</commentaire>
+			</li>
+			<li>
+				<titre>6. Choisissez votre mise au point.
+				</titre>
+				<commentaire>Votre iPhone pourrait vouloir faire le point sur ce qui se trouve droit devant vous, mais vous pouvez choisir la zone de mise au point que vous souhaitez en appuyant simplement sur la partie du cadre sur laquelle vous voulez vous concentrer. Appuyez et attendez une seconde, votre téléphone ajustera automatiquement l’éclairage.
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. Et vous pouvez modifier la lumière et les couleurs de votre photo, ou la recadrer et en changer l’orientation grâce à l’outil photo de votre téléphone.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Utilisez l’icône cœur pour identifier vos photos préférées et les garder dans un dossier séparé qui vous permettra de les retrouver facilement.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Les filtres peuvent aider à supprimer les bruits de fond gênants ou les objets sans importance.
+				</titre>
+			</li>
+			<li>
+				<titre>10. Votre selfie-stick est trop lourd ? Essayez cette télécommande bluetooth sans fil pour appareil photo.
+				</titre>
+			</li>
+			<li>
+				<titre>11. Ou utilisez simplement le retardateur de votre téléphone.
+				</titre>
+				<commentaire>Vous pouvez le programmer sur trois ou dix secondes et vous placer, ainsi que vos amis (ou, soyons honnête, votre chat) dans le cadre.
+				</commentaire>
+			</li>
+			<li>
+				<titre>12. Activez le HDR.
+				</titre>
+				<commentaire>HDR signifie High Dynamic Range, ou imagerie à grande gamme dynamique. Comment ça marche? Quand vous prenez une photo, vous en prenez en réalité trois: une photo surexposée, une photo sous-exposée, et une photo à mi-chemin des deux premières. Ensuite, le HDR va doucement fusionner les trois, en enlevant les tons hauts et bas. Le résultat? Une photo avec plus de profondeur de champ et de couleurs par rapport à la photo standard que vous auriez prise.
+				</commentaire>
+			</li>
+			<li>
+				<titre>13. Oubliez la photo en mode statique. Passez au niveau supérieur et faites un time lapse.
+				</titre>
+				<commentaire>Le mode accéléré (time lapse) va vous permettre de prendre, vous l’aurez deviné, des photos en accéléré avec votre téléphone. Le secret? Pour un résultat un minimum correct, vous devrez filmer au moins 30 secondes d’images.
+				</commentaire>
+			</li>
+			<li>
+				<titre>14. Essayez SNAP!
+				</titre>
+			</li>
+			<li>
+				<titre>15. Utilisez le Verrouillage AE/AF.
+				</titre>
+				<commentaire>Le sigle AE/AF signifie «auto-exposure and auto-focus» (exposition automatique et mise au point automatique). Parfois, alors que vous avez réuni tous les éléments nécessaires pour prendre la photo parfaite, votre téléphone perd sa mise au point et vous n’avez qu’une envie: mourir. Le Verrouillage AE/AF va vous éviter de telles pensées suicidaires. Laissez simplement votre doigt appuyé sur le point central de la photo pendant trois secondes, et voilà! Votre point d’exposition ne bougera plus! Et tout le monde s’en sortira sain et sauf.
+				</commentaire>
+			</li>
+			<li>
+				<titre>16. Photos trop sombres ou trop claires? Modifiez manuellement l’exposition avec la petite icône soleil.
+				</titre>
+				<commentaire>Si vous prenez en photo quelque chose déjà trop sombre ou trop clair, vous pouvez modifier manuellement l’exposition en appuyant sur l’écran, puis en utilisant votre doigt pour pousser l’icône soleil vers le haut ou vers le bas. Cela éclairera ou assombrira l’exposition, et le tour sera joué.
+				</commentaire>
+			</li>
+			<li>
+				<titre>17. En ce qui concerne les applis, Afterlight est une référence chez les amateurs de photos. Elle vous permet d’ajuster l’exposition, la clarté, les ombres, le contraste, les couleurs et la température de vos photos.
+				</titre>
+			</li>
+			<li>
+				<titre>18. PHHHOTO transforme instantanément vos photos en super GIF que vous pourrez partager sur n’importe plateforme sociale. Trop facile.
+				</titre>
+			</li>
+			<li>
+				<titre>19. VSCO, tout simplement parce tout est plus beau avec VSCO.
+				</titre>
+			</li>
+			<li>
+				<titre>20. Problème d’éclairage trop intense? Utilisez l’appli Facetune pour vous aider à faire disparaître les imperfections. C’est juste magique.
+				</titre>
+			</li>
+			<li>
+				<titre>21. Litely vous permet d’ajouter de super filtres.
+				</titre>
+			</li>
+			<li>
+				<titre>22. Darkroom importe automatiquement vos photos vers son système et vous permet de modifier (ou supprimer des modifications) vos photos à l’infini. Et en plus, vous pouvez créer vos propres filtres!
+				</titre>
+			</li>
+			<li>
+				<titre>23. Be Funky peut tout faire. Elle comporte de nombreux outils de modification de photos, une incroyable machine à collage, des tonnes de polices et des caches transparents pour que vous puissiez prendre les meilleures photos à des kilomètres à la ronde.
+				</titre>
+			</li>
+			<li>
+				<titre>24. Suivez la règle de trois.
+				</titre>
+				<commentaire>Ne vous mettez pas en plein milieu de la photo. Placez-vous plutôt à droite ou à gauche du cadre. Cela aura pour résultat une photo bien plus intéressante.
+				</commentaire>
+			</li>
+			<li>
+				<titre>Vous pouvez utiliser le mode grille dans les paramètres de votre iPhone pour vous aider à mieux cadrer votre photo.
+				</titre>
+			</li>
+			<li>
+				<titre>25. Celle-ci requiert un ami: «Si vous êtes à une soirée un peu sombre, utilisez le flash du portable de votre ami, et placez-le au dessus de vos têtes (pas en dessous comme dans Blair Witch) avant de prendre un selfie», préconisent les sœurs Beckerman.
+				</titre>
+			</li>
+			<li>
+				<titre>26. Si possible, utilisez toujours la lumière naturelle.
+				</titre>
+				<commentaire>«La lumière naturelle et celle en studio sont les meilleures pour prendre une photo», explique le photographe Patrick Janelle. Et faites attention quand vous utilisez le flash de ne pas affaiblir votre sujet.
+				</commentaire>
+			</li>
+			<li>
+				<titre>27. Faites attention à vos lignes de force.
+				</titre>
+				<commentaire>Les lignes de force, c’est quoi? Ce sont les lignes contenues dans une image qui font circuler l’œil. Elles aident le spectateur à savoir où regarder et comment appréhender la photo. Elles sont donc très importantes.
+				</commentaire>
+			</li>
+			<li>
+				<titre>28. Définissez votre mise au point puis définissez la façon dont vous voulez la mettre dans le cadre.
+				</titre>
+				<commentaire>Sur qui ou quoi faites-vous votre mise au point? «Définissez le personnage central», conseille la photographe Molly Torian. Ensuite, il vous faudra «réfléchir aux façons intéressantes dont les plans de ce lieu pourront être utilisés.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>29. Gardez vos coudes collés à votre corps pour un meilleur équilibre et une meilleure stabilité.
+				</titre>
+				<commentaire>«N’éloignez pas trop vos bras de votre corps» recommande la photographe Katja Sherlock. «Cela va stabiliser vos clichés et réduire les tremblements pendant que vous prendrez des photos avec votre iPhone.» Et aussi, N’OUBLIEZ PAS DE RESPIRER. Cela aidera à vous calmer et à réduire vos mouvements pendant la prise de photos.
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/marietelling/29-des-mots-les-plus-beaux-de-la-langue-francaise-->
+	<header>
+		<titre>29 des mots les plus beaux de la langue française		</titre>
+		<st>
+				
+				
+				Écoutez le fracas époustouflant de la langue de Molière.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Marie Telling		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. À l’occasion de la semaine de la langue française et de la francophonie, nous avons demandé à nos lecteurs quel était leur mot français préféré. Voici les résultats.
+				</titre>
+			</li>
+			<li>
+				<titre>30. Pour participer à un post comme celui-ci, suivez-nous sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

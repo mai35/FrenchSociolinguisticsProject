@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/bullo/30-raisons-de-ne-jamais-aller-en-bretagne?responses=-->
+	<header>
+		<titre>30 raisons de ne jamais aller en Bretagne		</titre>
+		<st>
+				
+				
+				L’horreur.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Pierre Michonneau		</nom>
+		<association>BuzzFeed Contributor		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Certains prétendent que la Bretagne est une belle région.
+				</titre>
+				<commentaire>Plougasnou.
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Mais ils ont de toute évidence des rondelles de saucisson devant les yeux.
+				</titre>
+				<commentaire>Presqu’île de Crozon.
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Franchement, qui voudrait passer ne serait-ce qu’une heure ici?
+				</titre>
+				<commentaire>Île Sterec.
+				</commentaire>
+			</li>
+			<li>
+				<titre>4. Les plages sont tout simplement immondes.
+				</titre>
+				<commentaire>Carantec.
+				</commentaire>
+			</li>
+			<li>
+				<titre>5. Ils pourraient au moins désherber un peu.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Je n’ose même pas vous parler de la couleur de l’eau.
+				</titre>
+				<commentaire>Fort National de Saint-Malo.
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. Le littoral est littéralement défiguré par l’urbanisation.
+				</titre>
+				<commentaire>Plougasnou.
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. Impossible de trouver un endroit tranquille où se poser.
+				</titre>
+				<commentaire>Carantec.
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. Et il ne fait jamais beau.
+				</titre>
+				<commentaire>Erdeven.
+				</commentaire>
+			</li>
+			<li>
+				<titre>10. La côte est constamment balayée par les embruns.
+				</titre>
+				<commentaire>Carantec.
+				</commentaire>
+			</li>
+			<li>
+				<titre>11. Quelle déprime.
+				</titre>
+				<commentaire>Pointe de Pen-Hir, presqu’île de Crozon.
+				</commentaire>
+			</li>
+			<li>
+				<titre>12. Même les oiseaux s’emmerdent.
+				</titre>
+			</li>
+			<li>
+				<titre>13. Cette vue me donne envie de sauter.
+				</titre>
+				<commentaire>Cap Fréhel.
+				</commentaire>
+			</li>
+			<li>
+				<titre>14. Voilà un coucher de soleil qui ne fait pas rêver.
+				</titre>
+				<commentaire>Saint-Malo.
+				</commentaire>
+			</li>
+			<li>
+				<titre>15. Habiter là? Plutôt mourir.
+				</titre>
+				<commentaire>Carantec.
+				</commentaire>
+			</li>
+			<li>
+				<titre>16. Dans cette région, les villages n’ont absolument aucun charme.
+				</titre>
+				<commentaire>Rochefort-en-Terre.
+				</commentaire>
+			</li>
+			<li>
+				<titre>17. L’architecture est d’une banalité consternante.
+				</titre>
+				<commentaire>Dinan.
+				</commentaire>
+			</li>
+			<li>
+				<titre>18. C’est censé faire rêver?
+				</titre>
+				<commentaire>Dinan.
+				</commentaire>
+			</li>
+			<li>
+				<titre>19. Boarf.
+				</titre>
+				<commentaire>Locronan.
+				</commentaire>
+			</li>
+			<li>
+				<titre>20. Cette «crêperie» n’a absolument rien de chaleureux.
+				</titre>
+				<commentaire>Locronan.
+				</commentaire>
+			</li>
+			<li>
+				<titre>21. Beurk.
+				</titre>
+			</li>
+			<li>
+				<titre>22. Niveau patrimoine historique, c’est le néant.
+				</titre>
+				<commentaire>Château de Josselin.
+				</commentaire>
+			</li>
+			<li>
+				<titre>23. Et puis ce n’est pas comme si les Bretons avaient des traditions.
+				</titre>
+				<commentaire>Festival de Cornouaille à Quimper.
+				</commentaire>
+			</li>
+			<li>
+				<titre>24. Brocéliande? Ça reste une forêt.
+				</titre>
+				<commentaire>Forêt de Paimpont.
+				</commentaire>
+			</li>
+			<li>
+				<titre>25. Tout ce vert me donne la nausée.
+				</titre>
+				<commentaire>Forêt de Huelgoat.
+				</commentaire>
+			</li>
+			<li>
+				<titre>26. Le Faouët? Quel nom ridicule.
+				</titre>
+				<commentaire>Chapelle Sainte-Barbe du Faouët.
+				</commentaire>
+			</li>
+			<li>
+				<titre>27. Des cailloux alignés. Super…
+				</titre>
+				<commentaire>Alignements de Carnac.
+				</commentaire>
+			</li>
+			<li>
+				<titre>28. J’ai vu mieux.
+				</titre>
+				<commentaire>Les Monts d’Arrée.
+				</commentaire>
+			</li>
+			<li>
+				<titre>29. Pas une seule vue qui vaille le détour.
+				</titre>
+				<commentaire>Poste de garde de Meneham.
+				</commentaire>
+			</li>
+			<li>
+				<titre>30. Non, vraiment, ça ne vaut pas le coup.
+				</titre>
+				<commentaire>Kerlouan.
+				</commentaire>
+			</li>
+			<li>
+				<titre>Suivez-nous sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>
