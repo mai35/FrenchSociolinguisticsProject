@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/carolynkylstra/10-choses-a-savoir-sur-la-decision-dangelina-jolie-->
+	<header>
+		<titre>10 choses à savoir sur la décision d’Angelina Jolie de subir une ablation des ovaires		</titre>
+		<st>
+				
+				
+				Angelina Jolie, qui porte le gène BRCA1, a annoncé sa décision dans une tribune du New York Times. BuzzFeed Life s’est entretenu avec une spécialiste du cancer de l’ovaire pour en savoir plus.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Carolyn Kylstra		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>Angelina Jolie s’est exprimée dans le New York Times sur sa décision de subir une ablation des ovaires et des trompes de Fallope pour prévenir le risque de cancer de l’ovaire.
+				</titre>
+				<commentaire>L’actrice de 39 ans est porteuse du gène BRCA1, ce qui l’expose à un risque beaucoup plus élevé de cancer du sein et de l’ovaire que le reste de la population. Il y a deux ans, elle s’était déjà exprimée sur sa décision de subir une double mastectomie préventive. Elle avait alors subi une ablation des deux seins.
+				</commentaire>
+			</li>
+			<li>
+				<titre>Voici quelques éléments de compréhension sur les gènes BRCA, le cancer et l’opération préventive.
+				</titre>
+				<commentaire>BuzzFeed Life a interrogé Karen Lu pour avoir quelques éclaircissements. Elle est professeur d’oncologie gynécologique, codirectrice du Programme de génétique clinique sur le cancer et directrice de la clinique du Centre Anderson pour le cancer de l’université du Texas.
+				</commentaire>
+			</li>
+			<li>
+				<titre>1. Les gènes BRCA1 et BRCA2 sont des gènes qui peuvent considérablement augmenter vos chances de développer un cancer du sein ou de l’ovaire.
+				</titre>
+				<commentaire>Environ 12 % des femmes développeront un cancer du sein dans leur vie, selon l’Institut national du cancer. Mais pour les femmes porteuses du gène BRCA1, ce chiffre s’élève jusqu’à 55 à 65% à l’âge de 70 ans ; pour le gène BRCA2, le risque est d’environ 45%.
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Les gènes BRCA sont très rares.
+				</titre>
+				<commentaire>Dans la population générale, on estime qu’environ 0,2 à 0,3% des femmes sont porteuses de ce gène (entre 1 sur 300 et 1 sur 500). Pour les femmes d’origine juive ashkénaze, ce pourcentage monte à environ 2,1 % (environ 1 sur 47).
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Du fait de la rareté de ces gènes, les médecins recommandent aux gens de se faire tester s’ils ont des antécédents familiaux.
+				</titre>
+				<commentaire>«L’histoire familiale est vraiment la pierre angulaire des tests génétiques», explique Karen Lu. Voici les conditions qui pourraient faire de vous un bon candidat pour les tests des gènes BRCA1 ou BRCA2, selon l’Institut national américain du cancer:
+				</commentaire>
+			</li>
+			<li>
+				<titre>4. Il n’y a pas de moyen efficace de dépister le cancer de l’ovaire.
+				</titre>
+				<commentaire>Les mammographies peuvent aider les patients et les médecins à dépister le cancer du sein à un stade précoce de développement, quand il est plus facile à soigner. Mais il n’existe pas de test équivalent pour le cancer de l’ovaire. «Au moment où quelqu’un présente les symptômes, la maladie est généralement très avancée», explique Karen Lu. «C’est un cancer mortel, et nous n’avons aucun moyen de dépistage efficace.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>5. Comme il n’y a pas de moyen efficace de dépister le cancer de l’ovaire, si vous êtes porteur des gènes BRCA1 ou BRCA2, il est recommandé de subir une ablation des ovaires et des trompes de Fallope.
+				</titre>
+				<commentaire>C’est ce qu’Angelina Jolie a décidé de faire. «Du point de vue d’un médecin, la recommandation de retirer les ovaires et les trompes de Fallope est assez facile», dit Karen Lu. Pourquoi? Parce qu’il n’y a aucun moyen de dépister le cancer de l’ovaire. Le risque de décès pour ce cancer est incroyablement élevé chez les porteurs du gène BRCA. Et il a été démontré que le retrait préventif des ovaires et des trompes de Fallope pouvait sauver la vie des porteurs de ce gène.
+				</commentaire>
+			</li>
+			<li>
+				<titre>6. Un double mastectomie préventive peut également réduire le risque de cancer, mais c’est une décision moins facile à prendre.
+				</titre>
+				<commentaire>«D’un point de vue médical, la recommandation d’une ablation des ovaires et des trompes de Fallope – une opération préventive contre le cancer de l’ovaire (si vous portez les BRCA1 ou BRCA2) – est plus simple que celle d’une mastectomie bilatérale prophylactique (pour les porteuses du gène BRCA)», explique Karen Lu. «La raison en est qu’il n’y a pas de dépistage efficace du cancer de l’ovaire, alors qu’il en existe un pour le cancer du sein.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. Si vous portez le gène BRCA1, les médecins recommandent une opération préventive pour enlever les ovaires et les trompes de Fallope entre 35 ans et 40 ans. Si vous portez le gène BRCA2, l’opération est recommandée après 40 ans.
+				</titre>
+				<commentaire>Angelina Jolie a 39 ans et porte le gène BRCA1. Elle a aussi des antécédents familiaux de cancer de l’ovaire, sa mère ayant été diagnostiquée à 49 ans. Karen Lu explique une autre règle importante: l’opération préventive doit intervenir 10 ans avant l’âge auquel le membre de votre famille a été diagnostiqué.
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. L’ablation des ovaires et des trompes de Fallope signifie que vous devenez ménopausée et ne pouvez plus tomber enceinte.
+				</titre>
+				<commentaire>Le choix de la ménopause «précoce» peut être une décision extrêmement complexe à prendre. Pour les femmes qui n’ont pas encore eu d’enfant (ou qui veulent encore en avoir), la décision peut encore être plus lourde.
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. L’ablation des ovaires et des trompes de Fallope se justifie uniquement si vous avez les gènes BRCA1 ou BRCA2.
+				</titre>
+				<commentaire>«La chose la plus importante est que vous sachiez quel est votre risque de cancer de l’ovaire, ensuite vous saurez ce que vous devez faire à ce sujet», dit Karen Lu. «Je ne veux pas que les gens, juste parce qu’ils ont des antécédents familiaux, disent je veux qu’on me retire mes ovaires (après avoir lu l’histoire d’Angelina Jolie).» 
+				</commentaire>
+			</li>
+			<li>
+				<titre>10. Prendre la pilule contraceptive peut diminuer votre risque de cancer de l’ovaire.
+				</titre>
+				<commentaire>Admettons que vous avez des antécédents familiaux de cancer de l’ovaire, mais que vous n’êtes pas porteuse des gènes BRCA1 ou BRCA2. La pilule contraceptive est une mesure préventive envisageable. Une synthèse de 45 études publiées dans The Lancet a révélé que plus longtemps une femme a pris la pilule contraceptive, moins elle avait de chances de développer un cancer de l’ovaire.
+				</commentaire>
+			</li>
+			<li>
+				<titre>Pour plus d’informations sur les gènes BRCA, le cancer du sein et le cancer de l’ovaire, consultez ces fiches d’information:
+				</titre>
+				<commentaire>Les informations de cet article sont loin d’être exhaustives. Donc, approfondissez votre lecture et interrogez votre médecin si vous avez des questions.
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>
