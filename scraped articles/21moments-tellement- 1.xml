@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/daves4/21moments-tellement-genants-quils-en-deviennent-douloureux-->
+	<header>
+		<titre>21 moments tellement gênants qu’ils en deviennent douloureux		</titre>
+		<st>
+				
+				
+				Aïe.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Dave Stopera		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. La poignée de main infinie:
+				</titre>
+			</li>
+			<li>
+				<titre>2. Le fist bump le plus solitaire de l’histoire:
+				</titre>
+			</li>
+			<li>
+				<titre>3. Le pire moyen de débuter votre cérémonie de mariage:
+				</titre>
+			</li>
+			<li>
+				<titre>4. Le premier ministre de Nouvelle Zélande qui essaie de se servir d’un marteau:
+				</titre>
+			</li>
+			<li>
+				<titre>5. Sergent Maingrasse au rapport:
+				</titre>
+			</li>
+			<li>
+				<titre>6. Cette pauvre colombe:
+				</titre>
+			</li>
+			<li>
+				<titre>7. Cet enfant qui s’assure de sa future abstinence:
+				</titre>
+			</li>
+			<li>
+				<titre>8. Cette trahison de chaise:
+				</titre>
+			</li>
+			<li>
+				<titre>9. Cet homme qui rêve de devenir chevalier:
+				</titre>
+			</li>
+			<li>
+				<titre>10. Le fist bump de l’ENFER :
+				</titre>
+			</li>
+			<li>
+				<titre>11. Le high five qui finit mal:
+				</titre>
+			</li>
+			<li>
+				<titre>12. Ce gamin qui pense que sa carrière dans le catch va bientôt démarrer:
+				</titre>
+			</li>
+			<li>
+				<titre>13. La bonne vieille triple poignée de main:
+				</titre>
+			</li>
+			<li>
+				<titre>14. Cette fille qui hésite à lever les bras:
+				</titre>
+			</li>
+			<li>
+				<titre>15. Et ce mec à droite:
+				</titre>
+			</li>
+			<li>
+				<titre>16. La mort du sac de ce danseur:
+				</titre>
+			</li>
+			<li>
+				<titre>17. Le tope-là foiré le plus enthousiaste de l’histoire:
+				</titre>
+			</li>
+			<li>
+				<titre>18. Ce qui se passe quand vous essayez d’impressionner quelqu’un et que ça se passe mal:
+				</titre>
+			</li>
+			<li>
+				<titre>19. Ce cauchemar:
+				</titre>
+			</li>
+			<li>
+				<titre>20. Cette main dans la figure des plus traditionnelles:
+				</titre>
+			</li>
+			<li>
+				<titre>21. Et tout ce que fait John Travolta:
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

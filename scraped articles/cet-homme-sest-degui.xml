@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/ryanhatesthis/cet-homme-sest-deguise-en-princesse-pour-accompagner-sa-niec-->
+	<header>
+		<titre>Cet homme s’est déguisé en princesse pour accompagner sa nièce au cinéma		</titre>
+		<st>
+				
+				
+				On vous présente Jesse Nagy, la princesse musclée et barbue dont vous avez toujours rêvé.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Ryan Broderick		</nom>
+		<association>BuzzFeed News Reporter		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>Il y a quelques jours, cette photo de Jesse Nagy, un acteur du Michigan, en sortie au cinéma avec sa nièce Izzy, est apparue sur Reddit.
+				</titre>
+				<commentaire> Facebook: Jesse-F-Nagy
+				</commentaire>
+			</li>
+			<li>
+				<titre>Jesse Nagy a raconté à ABC News que les costumes faisaient partie de la «journée princesse» qu’il passait avec sa nièce de 4 ans, Izzy. Elle ne se sentait pas très à l’aise à l’idée de porter sa robe en dehors de la maison.
+				</titre>
+				<commentaire> Facebook: Jesse-F-Nagy
+				</commentaire>
+			</li>
+			<li>
+				<titre>«Elle m’a dit: “Toi aussi, tu pourrais être une princesse”», a raconté Jesse à la presse. «On a fait un compromis et je lui ai dit: “Okay, on peut tous les deux être des princesses”, mais elle devait porter la couronne.»
+				</titre>
+				<commentaire> Facebook: Jesse-F-Nagy
+				</commentaire>
+			</li>
+			<li>
+				<titre>La sortie de Jesse et d’Izzy, pour aller voir Cendrillon, a été très remarquée sur Internet. Le post sur Reddit a été vu plus d’un million de fois. La photo a même déjà été photoshopée.
+				</titre>
+				<commentaire> i.imgur.com / Via reddit.com
+				</commentaire>
+			</li>
+			<li>
+				<titre>Internet a eu un sacré coup de cœur pour Jesse.
+				</titre>
+				<commentaire> Facebook: Jesse-F-Nagy
+				</commentaire>
+			</li>
+			<li>
+				<titre>Certaines personnes l’ont même comparé au légendaire Oncle Jesse de La Fête à la maison.
+				</titre>
+				<commentaire> Facebook: Jesse-F-Nagy
+				</commentaire>
+			</li>
+			<li>
+				<titre>Vive les hommes en robes de princesses!
+				</titre>
+			</li>
+			<li>
+				<titre>Suivez-nous aussi sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

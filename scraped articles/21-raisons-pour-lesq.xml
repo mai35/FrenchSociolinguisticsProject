@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/bradesposito/21-raisons-pour-lesquelles-vous-devriez-vivre-seul?responses=-->
+	<header>
+		<titre>21 raisons pour lesquelles vous devriez vraiment vivre seul(e)		</titre>
+		<st>
+				
+				
+				Essayez, c’est libérateur.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Brad Esposito		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Vous pouvez être nu chez vous.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Tout devient votre responsabilité.
+				</titre>
+				<commentaire>Vous ne devez compter sur personne à part vous-même.
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Vous pouvez mettre la musique aussi fort que vous voulez.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Ce qui est propre reste propre.
+				</titre>
+				<commentaire>Mais attention, ce qui est sale reste aussi sale !
+				</commentaire>
+			</li>
+			<li>
+				<titre>5. Vous pouvez laisser la porte des toilettes ouverte.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Pareil pour la douche.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Vous pouvez cuisiner ce que vous voulez.
+				</titre>
+				<commentaire>Pas d’allergies autres que les vôtres. Pas d’odeurs que vous appréciez mais que d’autres n’aiment pas.
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. Vous avez plus de temps pour vous.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Vous pouvez *tout* décorer comme vous le voulez.
+				</titre>
+			</li>
+			<li>
+				<titre>10. Ce n’est pas bizarre quand vous ramenez un rencard à la maison.
+				</titre>
+			</li>
+			<li>
+				<titre>11. Vous pouvez changer les choses de place.
+				</titre>
+				<commentaire>Cette chambre est maintenant un bureau, et ce bureau est maintenant une chambre. Je peux le faire parce que je suis chez moi.
+				</commentaire>
+			</li>
+			<li>
+				<titre>12. Personne ne mange votre nourriture.
+				</titre>
+			</li>
+			<li>
+				<titre>13. Ou n’utilise votre shampoing.
+				</titre>
+			</li>
+			<li>
+				<titre>14. Vous pouvez vous parler à voix haute chez vous sans avoir l’air d’un fou.
+				</titre>
+			</li>
+			<li>
+				<titre>15. Vous pouvez faire la fête quand vous voulez.
+				</titre>
+			</li>
+			<li>
+				<titre>16. Pendant la plus grande partie de votre journée, vous n’êtes obligé de parler à personne.
+				</titre>
+			</li>
+			<li>
+				<titre>17. Personne n’est là pour vous juger.
+				</titre>
+			</li>
+			<li>
+				<titre>18. Vous n’avez pas à gérer un colocataire malpoli.
+				</titre>
+			</li>
+			<li>
+				<titre>19. Ou un coloc’ sympa, qui se pointe bourré à 2h du matin en criant à l’aide.
+				</titre>
+			</li>
+			<li>
+				<titre>20. Vous ne devez jamais attendre pour quoi que ce soit.
+				</titre>
+			</li>
+			<li>
+				<titre>21. Et vous n’avez pas à partager vos toilettes.
+				</titre>
+				<commentaire>Et ça, c’est très très important.
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

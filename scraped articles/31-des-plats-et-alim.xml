@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/michaelblackmon/31-des-plats-et-aliments-les-plus-etranges-aux-usa-->
+	<header>
+		<titre>31 des plats et aliments les plus étranges aux États-Unis		</titre>
+		<st>
+				
+				
+				Sérieusement, certains de ces plats ont l’air dégoûtants!
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Michael Blackmon		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>Nous avons récemment demandé aux membres de la communauté BuzzFeed de nous dire quels étaient, selon eux, les plats les plus étranges aux USA. Voici les plus curieux:
+				</titre>
+			</li>
+			<li>
+				<titre>1. Olive Loaf (pain d’olives)
+				</titre>
+				<commentaire>«Le pain d’olives ne devrait même pas exister.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Jell-O Salad (salade de gélatine)
+				</titre>
+				<commentaire>«La Jell-O salad. Ce truc est tellement crade!»
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Les Koolickles
+				</titre>
+				<commentaire>«Les Koolickles, qui sont en fait des cornichons saumurés dans différents parfums de poudre à Kool-Aid. On les trouve surtout dans la région du delta du Mississippi. Faites une recherche Google, ça existe vraiment!»
+				</commentaire>
+			</li>
+			<li>
+				<titre>4. Chicken and Waffles (poulet et gaufres)
+				</titre>
+				<commentaire>«Du poulet et des gaufres sur la même assiette ? Je me demande qui peut avoir l’idée de mélanger ces deux trucs ensemble?!»
+				</commentaire>
+			</li>
+			<li>
+				<titre>5. Scrapple (bouillie de porc)
+				</titre>
+				<commentaire>«Le scrapple, mais c’est délicieux!»
+				</commentaire>
+			</li>
+			<li>
+				<titre>6. Grits (maïs moulu)
+				</titre>
+				<commentaire>«Le grits. Et, je suis du Sud. Beaucoup de gens y rajoutent plein de beurre et/ou de sel… Ça fait juste un mélange gluants.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. Deep-Fried Butter (beurre frit)
+				</titre>
+				<commentaire>«Le deep-fried butter. On ne peut pas faire plus américain que ça.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. Chitterlings (intestins de porc)
+				</titre>
+				<commentaire>«Le chitterlings a une odeur terrible, mais c’est assez bon. Si vous pouvez passer outre le fait que vous mangez des intestins de porc, alors ça ira »
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. Kraft Singles (tranches de fromage industriel)
+				</titre>
+				<commentaire>«Manger du Kraft Singles, c’est comme de manger du vinyle. Il n’ont même pas légalement le droit d’appeler ça du fromage.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>10. Ambrosia Salad
+				</titre>
+				<commentaire>«L’ambrosia salad c’est: de la gélatine, avec de la crème fouettée et des morceaux de guimauve. Étrange.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>11. Sloppy Joes (une sorte de hamburger à la bolognaise)
+				</titre>
+				<commentaire>«Les Sloppy Joes sont totalement dégueulasses.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>12. Les Pop-Tarts
+				</titre>
+				<commentaire>«Je suis sûre qu’on va me détester, mais les Pop-Tarts sont sur ma liste de la pire nourriture américaine. »
+				</commentaire>
+			</li>
+			<li>
+				<titre>13. Chicken-Fried Steak (l’équivalent américain du schnitzel ou du veau à la milanaise)
+				</titre>
+				<commentaire>«Le chicken-fried steak. Ça n’est pas du poulet, ni un steak, mais c’est frit. Et répugnant.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>14. Un gratin de Tater Tots
+				</titre>
+				<commentaire>«Les plats à base de crème. Comme cette recette de gratin de Tater Tots pour laquelle il faut : 
+				</commentaire>
+			</li>
+			<li>
+				<titre>15. Red-Eye Gravy, alias la sauce du pauvre
+				</titre>
+				<commentaire>«Le red-eye gravy. C’est un mélange de jus de jambon salé et de café, parfois même de Coca. Beurk. Je crois que, il y a longtemps, quelqu’un a renversé sa boisson dans une casserole pleine de jus de cuisson, et s’est dit que ça ferait de la sauce.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>16. Le gumbo
+				</titre>
+				<commentaire>«Je viens de Louisiane et je pense que le gumbo est complètement étrange. C’est juste plein d’aliments mélangés ensemble. Il y des écrevisses, des crevettes, du maïs, et tout ce que l’on veut mettre dedans. Je n’aime vraiment pas ça, donc je n’en mange pas.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>17. Fry Sauce
+				</titre>
+				<commentaire>«La fry sauce est assez bizarre, je crois que c’est un mélange de ketchup et de mayonnaise! Je crois qu’on ne la trouve que dans certaines parties des USA. C’est bon, j’adore ça!»
+				</commentaire>
+			</li>
+			<li>
+				<titre>18. Les Twinkies (génoise fourrée à la crème)
+				</titre>
+				<commentaire>«Les Twinkies! Qui peut bien aimer ce carton fourré de crème?!»
+				</commentaire>
+			</li>
+			<li>
+				<titre>19. Sweet Potato and Marshmallow (Patate douce et guimauve)
+				</titre>
+				<commentaire>«La patate douce avec de la guimauve. C’est quoi ton problème, l’Amérique?»
+				</commentaire>
+			</li>
+			<li>
+				<titre>20. Burgoo
+				</titre>
+				<commentaire>«Dans le burgoo traditionnel on retrouve de la viande d’écureuil et d’opossum. BEURK.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>21. Le gratin d’haricots verts
+				</titre>
+				<commentaire>«Green bean casserole, Tater Tot casserole. En gros, tous les plats qui comprennent des ingrédients que l’on ne peut identifier à la vue ou qui ont l’air d’avoir déjà été mangés.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>22. Les Peeps (bonbons à base de marshmallow)
+				</titre>
+				<commentaire>«J’adore les Peeps, mais ils ne devraient pas avoir goût de chewing gum – non, non, non!»
+				</commentaire>
+			</li>
+			<li>
+				<titre>23. Le donut burger
+				</titre>
+				<commentaire>«Les mélanges: des marshmallows au bacon. Un burger dans du donut. Je pense que ces combinaisons de nourriture sont révoltantes. La nourriture américaine a mauvaise réputation et voilà pourquoi. Cependant, je confirme qu’il y a de véritables plats traditionnels, faits maison, et sains, dans tous les états des USA. Toute la nourriture n’est pas pleine de sucre ou frite.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>24. La mayonnaise (américaine bien-sûr)
+				</titre>
+				<commentaire>«La mayonnaise, c’est du jaune d’œuf et du vinaigre mélangés. C’est bien trop épais, ça sent les œufs pourris, et ça doit être la seule chose plus blanche qu’Iggy Azalea. 0/10, je n’en mangerais pas.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>25. Les sandwiches au beurre de cacahuète et à la banane
+				</titre>
+				<commentaire>«LES SANDWICHS AU BEURRE DE CACAHUÈTE ET À LA BANANE. Pourquoi voudriez-vous mettre de la banane sur du pain?! C’est trop bizarre!»
+				</commentaire>
+			</li>
+			<li>
+				<titre>26. Rocky Mountain Oysters («Huîtres des Rocheuses», qui sont en fait des testicules de taureau, de porc ou de mouton, panées et frites)
+				</titre>
+				<commentaire>«Les huîtres des Rocheuses: si vous ne pouvez pas dire le vrai nom de quelque chose (des testicules), peut-être que vous ne devriez pas le manger.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>27. Le Cincinnati Chili
+				</titre>
+				<commentaire>«Le chili de Cincinnati – des spaghettis avec du chili et du fromage. Ça ne pourrait pas être plus dégueulasse.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>28. Les gésiers de poulet
+				</titre>
+				<commentaire>«La nourriture du sud peut être déconcertante pour beaucoup, même aux USA, mais pas dans le sud: le cornbread (pain de maïs), le boudin, les gésiers de poulet, les écrevisses, les haricots de Lima, les beignets de tomates vertes, le gumbo (frit, bouilli, ou saumuré), les cacahuètes dans du Coca.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>29. Pickled Pigs Feet (Pieds de porc saumurés)
+				</titre>
+				<commentaire>«Je crois que c’est juste dans le sud, mais les pieds de porcs saumurés et les œufs saumurés. Quand j’étais petite, les gens les vendaient dans leur camion de glace. Ma mère en mangeait tout le temps. Quand elle croquait dedans, du jus coulait du pied de cochon, ça salissait tout. L’odeur aussi est déstabilisante.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>30. Meatloaf (Pain de viande)
+				</titre>
+				<commentaire>«C’est du pain fait avec de la viande. Vous imaginez?!»
+				</commentaire>
+			</li>
+			<li>
+				<titre>31. Le KFC Double Down Sandwich (poulet frit, bacon, fromage et sauce secrète)
+				</titre>
+				<commentaire>«Le putain de Double Down de KFC. C’est vraiment trop.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>Suivez-nous sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>
