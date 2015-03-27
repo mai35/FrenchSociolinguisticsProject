@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/alisoncaporimo/18-choses-folles-qui-etaient-acceptables-dans-les-annees-60-->
+	<header>
+		<titre>18 choses horribles qui étaient parfaitement acceptables dans les années 1960		</titre>
+		<st>
+				
+				
+				Parce que si vous n’êtes pas mort en vous repassant les cheveux avec un fer à repasser, rien ne vous arrêtera .
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Alison Caporimo		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>Si vous lisez ceci et que vous êtes né avant 1970, vous avez déjà gagné…
+				</titre>
+				<commentaire>Pourquoi ? Parce que vous vous êtes livré à de folles expériences insouciantes dans votre jeunesse et le fait que vous ne portiez plus en permanence un de ces pantalons fantaisistes veut dire que vous avez à peu près évolué ! 
+				</commentaire>
+			</li>
+			<li>
+				<titre>1. Le soin des cheveux était très différent.
+				</titre>
+			</li>
+			<li>
+				<titre>2. La technologie des sièges de voitures était une vaste fumisterie.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Tout le monde avait des idées très intéressantes à propos du jus d’orange.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Fumer à bord d’un avion était complètement normal.
+				</titre>
+				<commentaire>Parce qu’être assis dans un tube de fumée encapsulé pendant des heures n’est pas dangereux DU TOUT.
+				</commentaire>
+			</li>
+			<li>
+				<titre>5. La glace était le vrai petit-déjeuner des champions.
+				</titre>
+				<commentaire>Pourquoi pas ?
+				</commentaire>
+			</li>
+			<li>
+				<titre>6. Se toucher le visage avec un objet de ce genre était parfaitement raisonnable.
+				</titre>
+				<commentaire>(Oui, ceci est un rasoir.)
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. Les publicités regorgeaient de conseils utiles pour étouffer correctement son bébé.
+				</titre>
+				<commentaire>Le fait que les bébés des années 1970 aient pu réchapper à ces semaines formatrices = un miracle.
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. La salade pouvait prendre des formes rigolotes.
+				</titre>
+				<commentaire>« La gélatine de salade disponible en saveur LÉGUME ».
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. Il y avait des jouets avec de la poudre de canon pour amuser toute la famille !
+				</titre>
+				<commentaire>Le set de chimie Gilbert contenait des produits chimiques tels le permanganate de potassium, hautement inflammable, et le nitrate d’ammonium (utilisé dans les bombes artisanales). Le fait que n’importe quel intello de l’époque ait survécu jusqu’à l’âge adulte est impressionnant.
+				</commentaire>
+			</li>
+			<li>
+				<titre>10. Mais pas tout à fait aussi amusant que de jouer avec du métal chaud et du plastique fondu
+				</titre>
+				<commentaire>Les Petites Bestioles enseignaient d’importantes leçons de vie comme « essayer de ne pas se brûler au dixième degré » et « il existe des choses très toxiques ».
+				</commentaire>
+			</li>
+			<li>
+				<titre>11. Le plomb était vraiment partout, tout le temps.
+				</titre>
+				<commentaire>L’édition de Juillet 1904 du mensuel Sherwin-Williams rapporte que le plomb était « hautement toxique, pour les ouvriers comme pour les habitants d’une maison peinte avec des couleurs de plomb ». Mais qui se soucie des ouvriers et de vos locataires ?
+				</commentaire>
+			</li>
+			<li>
+				<titre>12. Cette coupe de cheveux à elle seule aurait pu rendre n’importe qui alcoolique.
+				</titre>
+			</li>
+			<li>
+				<titre>13. Tout le monde s’accordait à dire que les casques étaient débiles et inutiles.
+				</titre>
+			</li>
+			<li>
+				<titre>14. L’amiante ! Si mignon !
+				</titre>
+				<commentaire>Qui ne rêve pas d’une substance blanche cancérigène pour décorer son sapin ?
+				</commentaire>
+			</li>
+			<li>
+				<titre>15. L’exercice consistait à se tenir debout pendant qu’une machine secouait vos fesses pour vous.
+				</titre>
+				<commentaire>À quoi bon se fatiguer quand on peut juste se faire vibrer ?
+				</commentaire>
+			</li>
+			<li>
+				<titre>16. Boire et conduire ? Pas de problème !
+				</titre>
+			</li>
+			<li>
+				<titre>17. Les skateboards étaient bien moins évolués.
+				</titre>
+				<commentaire>Littéralement un morceau de contreplaqué avec des roues vissées dessus.
+				</commentaire>
+			</li>
+			<li>
+				<titre>18. Et en général, frapper les gens ne posait aucun problème.
+				</titre>
+				<commentaire>Ceux qui pouvaient frapper les enfants : les parents, les nonnes, les prêtres, les rabbins, les enseignants, les épiciers, les gens en costume, les gens attendus quelque part, les gens qui ont des pelouses, les vieux, et puis pratiquement tout le reste, aussi.
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

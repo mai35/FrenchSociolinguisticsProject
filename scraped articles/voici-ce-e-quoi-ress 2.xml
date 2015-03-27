@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/kimberleydadds/voici-ce-e-quoi-ressemblent-les-enfants-du-film-->
+	<header>
+		<titre>Voici à quoi ressemblent les enfants du film «Hook ou la revanche du capitaine Crochet» aujourd’hui		</titre>
+		<st>
+				
+				
+				Même les Enfants perdus doivent parfois grandir.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Kimberley Dadds		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Rufio (Dante Basco)
+				</titre>
+			</li>
+			<li>
+				<titre>2. Ace (Jasen Fisher)
+				</titre>
+			</li>
+			<li>
+				<titre>3. Don’t Ask (James Madio)
+				</titre>
+			</li>
+			<li>
+				<titre>4. Pockets (Isaiah Robinson)
+				</titre>
+			</li>
+			<li>
+				<titre>5. Thud Butt (Rushan Hammond)
+				</titre>
+			</li>
+			<li>
+				<titre>6. Too Small (Thomas Tulak)
+				</titre>
+			</li>
+			<li>
+				<titre>7. Maggie (Amber Scott)
+				</titre>
+			</li>
+			<li>
+				<titre>8. Jack (Charlie Korsmo)
+				</titre>
+			</li>
+			<li>
+				<titre>9. Et en prime : la jeune Wendy (Gwyneth Paltrow), mais nous savons tous à quoi elle ressemble aujourd’hui, n’est-ce pas ?
+				</titre>
+			</li>
+			<li>
+				<titre>11. Reste à trouver des photos des Enfants perdus restants… À moins qu’ils ne soient encore perdus?
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

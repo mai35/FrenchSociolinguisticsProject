@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/tomschembri/choses-qui-ressemblent-a-une-vulve-->
+	<header>
+		<titre>20 choses qui ressemblent à une vulve		</titre>
+		<st>
+				
+				
+				Regardez autour de vous, elles sont partout. PARTOUT.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Tom Benjamin		</nom>
+		<association>BuzzFeed Contributor		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Cette miche de pain.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Ce steak.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Ce poulpe.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Cette orange.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Ce sac à main.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Le cou de ce monsieur.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Cette patate douce.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Cet arbre.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Cet autre arbre.
+				</titre>
+				<commentaire>Qui est carrément en pleine action lui.
+				</commentaire>
+			</li>
+			<li>
+				<titre>10. Cet avocat.
+				</titre>
+			</li>
+			<li>
+				<titre>11. Ce filet de poulet.
+				</titre>
+			</li>
+			<li>
+				<titre>12. Cette fleur.
+				</titre>
+			</li>
+			<li>
+				<titre>13. Cette poche de survêtement.
+				</titre>
+			</li>
+			<li>
+				<titre>14. Cette pâte à lasagne.
+				</titre>
+			</li>
+			<li>
+				<titre>15. Ce glacier.
+				</titre>
+			</li>
+			<li>
+				<titre>16. Cette baguette.
+				</titre>
+			</li>
+			<li>
+				<titre>17. Ce melon.
+				</titre>
+			</li>
+			<li>
+				<titre>18. Ce mini golf.
+				</titre>
+			</li>
+			<li>
+				<titre>19. Ce surfeur.
+				</titre>
+			</li>
+			<li>
+				<titre>20. Et ce canapé.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

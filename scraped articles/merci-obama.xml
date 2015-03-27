@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/scottybryan/merci-obama-->
+	<header>
+		<titre>Barack Obama lit des tweets qui l’insultent à la télé		</titre>
+		<st>
+				
+				
+				Jimmy Kimmel adore faire lire des tweets méchants aux célébrités pour son émission. Cette fois-ci, le président américain lui-même s’est prêté au jeu.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Scott Bryan		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Difficile de faire mieux que Barack Obama
+				</titre>
+				<commentaire>Le président américain était dans Jimmy Kimmel Live! jeudi soir et il a participé à la tradition du talk show, qui fait régulièrement lire à des célébrités des tweets horribles qu’on écrit sur elles.
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. Suivez-nous aussi sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/laurenpaul/23-raisons-pour-lesquelles-les-bebes-sont-les-pires-colocs?responses=-->
+	<header>
+		<titre>23 raisons pour lesquelles les bébés sont les pires colocataires du monde		</titre>
+		<st>
+				
+				
+				Y a-t-il au moins leur nom sur le bail?
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Lauren Paul		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Ils ne paient pas le loyer.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Leurs affaires traînent partout.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Ils sont super difficiles sur la nourriture.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Sans oublier qu’ils sont très bordéliques.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Sérieusement, ils sont super mal élevés.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Ils dorment à des heures improbables.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Et vous réveillent ensuite lorsqu’ils se lèvent.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Ils sont très tactiles.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Ils gazouillent à longueur de journée.
+				</titre>
+			</li>
+			<li>
+				<titre>10. Mais ne se soucient pas du tout de ce que vous avez à dire.
+				</titre>
+				<commentaire>On jurerait qu’ils ne peuvent même pas vous comprendre.
+				</commentaire>
+			</li>
+			<li>
+				<titre>11. Ils sont extrêmement exigeants.
+				</titre>
+				<commentaire>Avec eux, tout doit être fait dans la seconde.
+				</commentaire>
+			</li>
+			<li>
+				<titre>12. Et il faut que tout soit fait à leur manière.
+				</titre>
+			</li>
+			<li>
+				<titre>13. Ils font tout le temps des caprices.
+				</titre>
+			</li>
+			<li>
+				<titre>14. Ils ont des sautes d’humeur complètement imprévisibles.
+				</titre>
+			</li>
+			<li>
+				<titre>15. Ils décrochent en plein milieu des conversations.
+				</titre>
+			</li>
+			<li>
+				<titre>16. Ils ne suivent pas les règles de savoir-vivre dans la salle de bain.
+				</titre>
+				<commentaire>Étant donné qu’ils n’attendent même pas d’entrer dans la salle de bain. Beurk.
+				</commentaire>
+			</li>
+			<li>
+				<titre>17. Ils ne nettoient jamais derrière les animaux.
+				</titre>
+			</li>
+			<li>
+				<titre>18. Ils ne font jamais la lessive.
+				</titre>
+				<commentaire>Comment on fait si nos sous-vêtements ne sont pas jetables, hein?
+				</commentaire>
+			</li>
+			<li>
+				<titre>19. On ne peut pas leur faire confiance pendant les courses.
+				</titre>
+			</li>
+			<li>
+				<titre>20. Ils vous refilent toutes leurs maladies.
+				</titre>
+				<commentaire>Tu as un truc qui sort du nez, juste là…
+				</commentaire>
+			</li>
+			<li>
+				<titre>21. À chaque fois que vous sortez, vous finissez toujours par vous occuper d’eux.
+				</titre>
+			</li>
+			<li>
+				<titre>22. Ils ruinent tous vos vêtements préférés.
+				</titre>
+			</li>
+			<li>
+				<titre>23. Bref, ils sont insupportables.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

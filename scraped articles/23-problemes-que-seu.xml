@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/jarrylee/23-problemes-que-seuls-les-passionnes-de-lecture-comprendron-->
+	<header>
+		<titre>23 problèmes que seuls gros lecteurs comprendront		</titre>
+		<st>
+				
+				
+				«Je peux te rappeler? Je lis, là.»
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Jarry Lee		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Choisir votre nouveau livre de chevet.
+				</titre>
+				<commentaire>Tellement d’options!
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Attendre avec impatience l’adaptation au ciné d’un de vos livres préférés, pour finalement vous rendre compte qu’ils n’ont rien compris au livre.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Entendre quelqu’un dire que le film était meilleur que le livre.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Attendre une éternité avant la sortie du prochain livre de votre saga préférée.
+				</titre>
+				<commentaire>Coucou George R. R. Martin. On t’attend.
+				</commentaire>
+			</li>
+			<li>
+				<titre>5. Ne plus avoir assez de place pour ranger vos livres.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Être interrompu(e) en pleine lecture.
+				</titre>
+				<commentaire>Un livre à la main = un signe «ne pas déranger».
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. Prêter un livre à un ami et le récupérer tout abîmé.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Ou pire encore, ne pas le récupérer du tout.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Devoir répondre à la fameuse question: «Quel est ton livre préféré?» Comme si vous pouviez n’en choisir qu’un…
+				</titre>
+			</li>
+			<li>
+				<titre>10. Les gens qui disent que vous lisez trop.
+				</titre>
+				<commentaire>PEUT-ÊTRE QUE TU PARLES TROP.
+				</commentaire>
+			</li>
+			<li>
+				<titre>11. Découvrir que quelqu’un que vous appréciez «ne lit pas».
+				</titre>
+			</li>
+			<li>
+				<titre>12. Faire tomber votre marque-pages et ne plus savoir où vous en êtes.
+				</titre>
+			</li>
+			<li>
+				<titre>13. Choisir les livres à emporter avec vous en vacances.
+				</titre>
+			</li>
+			<li>
+				<titre>14. Acheter trop de livres en vacances et ne plus avoir assez de place pour tous les ramener.
+				</titre>
+			</li>
+			<li>
+				<titre>15. Déménager.
+				</titre>
+			</li>
+			<li>
+				<titre>16. Oublier de manger ou de dormir parce que vous êtes trop occupé(e) à lire.
+				</titre>
+			</li>
+			<li>
+				<titre>17. Citer le passage d’un livre que personne ne semble connaître.
+				</titre>
+			</li>
+			<li>
+				<titre>18. Ne plus avoir de sous après avoir tout dépensé pour acheter des livres.
+				</titre>
+			</li>
+			<li>
+				<titre>19. Les gens qui vous spoilent la fin du livre que vous êtes en train de lire.
+				</titre>
+			</li>
+			<li>
+				<titre>20. Ou la fin de la série parce qu’ils sont des monstres sans pitié.
+				</titre>
+			</li>
+			<li>
+				<titre>21. Faire face à la mort de votre personnage préféré.
+				</titre>
+				<commentaire>Ou personnages. COUCOU ENCORE UNE FOIS GEORGE R. R. MARTIN.
+				</commentaire>
+			</li>
+			<li>
+				<titre>22. Pleurer en lisant en public et devoir affronter le regard des autres.
+				</titre>
+			</li>
+			<li>
+				<titre>23. Terminer un livre et réaliser que vous vivez dans le monde réel et non pas dans l’univers du livre.
+				</titre>
+			</li>
+			<li>
+				<titre>Mais ce n’est pas grave parce que vous pouvez toujours relire le livre depuis le début!
+				</titre>
+			</li>
+			<li>
+				<titre>24. Suivez-nous aussi sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

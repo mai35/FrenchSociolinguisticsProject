@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/scottybryan/cette-photo-sublime-de-leclipse-est-un-fake-->
+	<header>
+		<titre>Cette image sublime de l’éclipse est en fait un fake		</titre>
+		<st>
+				
+				
+				C’est une image de synthèse – et elle circule en ligne depuis des années.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Scott Bryan		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>Une fausse photo de l’éclipse solaire d’aujourd’hui, décrite comme prise depuis la station spatiale internationale, a été partagée de façon massive sur les réseaux sociaux, générant des milliers de retweets.
+				</titre>
+			</li>
+			<li>
+				<titre>Elle a même été partagée par certains médias comme le Daily Record.
+				</titre>
+			</li>
+			<li>
+				<titre>Malheureusement, cette image n’a pas été prise aujourd’hui – et elle n’est même pas réelle.
+				</titre>
+				<commentaire>Comme Gizmodo nous le disait en 2012, c’est en fait une image de synthèse postée au départ sur DeviantArt par l’utilisateur A4size-ska, en 2009.
+				</commentaire>
+			</li>
+			<li>
+				<titre>Mais c’est vrai qu’elle est très jolie.
+				</titre>
+			</li>
+			<li>
+				<titre>Suivez-nous sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/ceciledehesdin/mieux-que-leclipse-de-demain-ce-direct-de-france-2-pendant-l-->
+	<header>
+		<titre>Mieux que l’éclipse du 20 mars, ce direct de France 2 pendant l’éclipse totale de 1999		</titre>
+		<st>
+				
+				
+				«Je sais pas quoi vous dire».
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Cecile Dehesdin		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>Vendredi 20 mars, c’est jour d’éclipse solaire pour l’Europe, une partie de l’Afrique du Nord et de l’Asie.
+				</titre>
+				<commentaire>Pendant une éclipse partielle à Bastia, le 3 octobre 2005.  Eric Gaillard / Via Reuters
+				</commentaire>
+			</li>
+			<li>
+				<titre>On a la chance de pouvoir en profiter en France, mais ce n’est pas –pour nous– une éclipse totale:
+				</titre>
+			</li>
+			<li>
+				<titre>La dernière éclipse solaire totale remonte au 11 août 1999.
+				</titre>
+				<commentaire>C’était aussi la dernière éclipse totale du XXè siècle.  Heinz-peter Bader / Via Reuters
+				</commentaire>
+			</li>
+			<li>
+				<titre>France 2 avait alors envoyé à Fécamp, d’où on voyait très bien l’éclipse, son journaliste Laurent Broomhead (qui avait revêtu son plus beau veston motif soleils pour l’occasion):
+				</titre>
+				<commentaire> France2/ Ina / Via ina.fr
+				</commentaire>
+			</li>
+			<li>
+				<titre>Il avait interviewé un jeune astronome amateur:
+				</titre>
+				<commentaire>On note que personne ne se préoccupe trop de sa vue. NE FAITES PAS COMME EUX.  France 2/ina / Via ina.fr
+				</commentaire>
+			</li>
+			<li>
+				<titre>«Mets bien tes lunettes!»
+				</titre>
+				<commentaire>Il était temps. Ecoutez Laurent Broomhead, ou sinon protégez-vous.  France 2 / INA / Via ina.fr
+				</commentaire>
+			</li>
+			<li>
+				<titre>Le journaliste parle presque sans interruption pendant 5 minutes, en lâchant au bout d’1m40 un «Je sais pas quoi vous dire».
+				</titre>
+				<commentaire>«Non mais ne dites rien ne dites rien on regarde, on regarde. C’est en direct, c’est le phénomène que nous attendions.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>Pour (re)vivre la nuit qui tombe sur Fécamp en plein jour, voici la vidéo de l’Ina:
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

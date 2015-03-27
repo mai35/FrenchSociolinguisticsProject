@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/lukebailey/emoji-caca-->
+	<header>
+		<titre>Cette révélation au sujet de l’emoji caca va vous perturber		</titre>
+		<st>
+				
+				
+				Vous ne verrez plus jamais votre cornet de glace à l’italienne comme avant.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Luke Bailey		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Tout le monde connaît l’emoji le plus important de tous : celui représentant une pile de caca souriante.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Cet emoji est là pour nous dans les moment où nous en avons le plus besoin.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Et il peut s’adapter à toutes les situations.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Mais cela fait un certain temps que les parents ont dû mal à saisir les subtilités de l’emoji caca.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Et si les mères avaient raison? Peter Miller, un utilisateur de Twitter, a remarqué la ressemblance frappante entre l’emoji cornet de glace et l’emoji caca.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Rien ne sera plus jamais comme avant.
+				</titre>
+			</li>
+			<li>
+				<titre>8. L’emoji caca est partout!
+				</titre>
+			</li>
+			<li>
+				<titre>9. Quand nos mères en savent plus sur la technologie que nous, c’est que le monde court à sa perte.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

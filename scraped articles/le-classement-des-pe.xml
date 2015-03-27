@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/juliapugachevsky/le-classement-des-peres-de-disney-->
+	<header>
+		<titre>Le classement définitif des pères dans les films Disney		</titre>
+		<st>
+				
+				
+				Basé sur la façon dont ils traitent leurs filles.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Julia Pugachevsky		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>9. Le roi d’Arendelle dans La Reine des neiges
+				</titre>
+				<commentaire>Le roi n’a que de bonnes intentions - sa fille possède un mystérieux pouvoir qu’elle ne sait pas contrôler et qui a failli coûter la vie à son autre fille, et il veut juste les protéger toutes les deux du mieux qu’il le peut. Mais il panique et pousse Elsa à s’isoler, en l’encourageant à cacher ses émotions et les garder pour elle-même, la plongeant dans une très grande solitude. Et bien sûr il le cache à Anna, la poussant à croire pendant toutes ces années que la distance entre elle et sa grande sœur vennait de quelque chose qu’elle avait fait. C’est un miracle que tout finisse bien pour ces deux jeunes femmes à la fin.
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. Le roi Triton dans La Petite sirène
+				</titre>
+				<commentaire>Ariel a mauvaise réputation parce qu’elle est prête à abandonner sa famille pour un mec qu’elle n’a jamais vu. Mais, honnêtement, vous aussi vous partiriez si la réaction de votre père à votre crise d’ado était de se mettre dans une RAGE TERRIFIANTE ET DESTRUCTRICE. C’est sûr, il rend ses jambes à Ariel (et, Dieu merci, sa liberté au passage), mais il faut un film entier et des aventures presque mortelles pour tous les personnages principaux pour en arriver là.
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. Le sultan dans Aladdin
+				</titre>
+				<commentaire>EUH, par où commencer ? Oui, il a l’air tout doux tout mignon, mais apparemment il n’est pas très proche du peuple d’Agrabah, puisque Jasmine doit se déguiser juste pour faire un tour et finit par être complètement isolée. Il est aussi obsédé par l’idée d’arranger un mariage pour Jasmine (et peu importe avec qui apparemment), ah oui, et il est assez stupide pour s’être laissé manipuler pendant toutes ces années par Jafar. LA TÊTE DE JASMINE SUR CETTE PHOTO RÉSUME TOUT.
+				</commentaire>
+			</li>
+			<li>
+				<titre>6. Le Chef Powhatan dans Pocahontas
+				</titre>
+				<commentaire>Le Chef Powhatan est un type bien. Malgré la mort de sa femme, il ne surprotège pas Pocahontas et a globalement une relation plutôt saine avec sa fille. Bon ok, il ne lui choisit pas les meilleurs candidats (elle n’allait vraiment pas avec Kocoum) et il manque de tuer son petit-ami, mais il sait écouter sa fille et en tirer les enseignements nécessaires, surtout quand elle est genre « vous êtes tous des crétins et la guerre c’est nul ». Un type fiable.
+				</commentaire>
+			</li>
+			<li>
+				<titre>5. Le roi Fergus dans Rebelle
+				</titre>
+				<commentaire>Fergus a perdu sa JAMBE en protégeant Mérida d’un ours. C’est un père génial, qui apprend le tir à l’arc à sa fille et sans la traiter différemment parce qu’elle est une fille. Le seul problème est que sa mère fini toujours par avoir le mauvais rôle alors qu’elle n’essaie que de poser des limites à Mérida (alors que Fergus est le papa cool). Elinor est la seule à pousser ouvertement Mérida au mariage, même si elle le fait en somme pour le bien des pères et pour unir deux royaumes. Élever un enfant se fait à deux, monsieur.
+				</commentaire>
+			</li>
+			<li>
+				<titre>4. Maurice dans La Belle et la bête
+				</titre>
+				<commentaire>Ah, Maurice. Si délicieusement excentrique et brillant. Il fait confiance à Belle et il ne lui a jamais parlé avec condescendance ou comme si elle était stupide, ce qui est probablement la raison pour laquelle elle aussi est excentrique et brillante. Ensemble, ils vivent loin des gens de la ville et en définitive sont deux personnes fortes mais sensibles, qui ne ressentent pas le besoin de s’intégrer. Le seul défaut de Maurice est qu’il n’est pas très autonome et se met dans des situations impossibles, laissant la soin à Belle de trouver une solution, mais heureusement tout se termine bien pour tout le monde !
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Professeur Archimedes Q. Porter dans Tarzan
+				</titre>
+				<commentaire>Jane et son père forment une équipe. Il la traite comme son égale, ce qui leur permet de vivre une vie passionnante faite de voyages et d’importantes découvertes anthropologiques. Et quand elle décide de rester vivre sur la côte africaine avec un homme qui a été élevé par des gorilles, non seulement il l’accepte sans souci, mais il n’hésite pas une seconde à tout laisser tomber pour vivre près de sa fille.
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. James dans La Princesse et la grenouille
+				</titre>
+				<commentaire>Dès son plus jeune âge, James a inculqué une extraordinaire éthique de travail à Tiana et l’a aidée à trouver ce qu’elle voulait faire de sa vie. Alors que lui-même n’a pas accompli tout ce qu’il voulait faire, il n’était jamais amer et a appris à Tiana à rêver autant qu’à persévérer. Malheureusement, il n’a pas vécu assez longtemps pour voir sa fille devenir la jeune femme extraordinaire qu’elle est devenue.
+				</commentaire>
+			</li>
+			<li>
+				<titre>1. Fa Zhou dans Mulan
+				</titre>
+				<commentaire>Fa Zhou est le meilleur. Son amour est sans pareil. Il aime Mulan quoi qu’elle fasse, qu’elle manque le rendez-vous avec la marieuse (« la fleur qui s’épanouit dans l’adversité est la plus rare et la plus belle de toutes ») ou qu’elle risque sa vie pour sauver la sienne et finisse par sauver la Chine toute entière (« le plus grand de tous les honneurs est de t’avoir pour fille. ») Essayez donc de regarder la fin du film sans verser une petite larme.
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/krystieyandoli/22-questions-que-les-femmes-veulent-poser-aux-hommes-->
+	<header>
+		<titre>22 questions que les femmes ont pour les hommes		</titre>
+		<st>
+				
+				
+				Obtenues auprès de vraies femmes.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Krystie Lee Yandoli		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. «Quand vous dormez chez un pote, vous parlez de quoi?»
+				</titre>
+			</li>
+			<li>
+				<titre>2. «Pourquoi vous restez si longtemps aux toilettes quand vous faites caca?»
+				</titre>
+			</li>
+			<li>
+				<titre>3. «Est-ce que vous frissonnez quand vous faites pipi le matin? Ça arrive vraiment?»
+				</titre>
+			</li>
+			<li>
+				<titre>4. «C’est quoi cette habitude de dessiner des pénis partout?»
+				</titre>
+			</li>
+			<li>
+				<titre>5. «Est-ce que toutes vos ex sont vraiment toutes “folles”?»
+				</titre>
+			</li>
+			<li>
+				<titre>6. «Pourquoi vous mettez votre pénis dans des objets bizarres?»
+				</titre>
+			</li>
+			<li>
+				<titre>7. «Et est-ce que c’est vraiment agréable?»
+				</titre>
+			</li>
+			<li>
+				<titre>8. «Est-ce qu’on vous a déjà sifflé dans la rue?»
+				</titre>
+			</li>
+			<li>
+				<titre>9. «Les branlettes en groupe, ça existe vraiment? Genre, vos potes et vous, vous vous masturbez en cercle de façon tout à fait platonique?»
+				</titre>
+			</li>
+			<li>
+				<titre>10. «Est-ce que les mecs hétéros n’ont pas un petit côté bi?»
+				</titre>
+			</li>
+			<li>
+				<titre>11. «Avez-vous déjà goûté votre propre sperme, juste pour voir?»
+				</titre>
+			</li>
+			<li>
+				<titre>12. «Vous pensez vraiment que les gens vous regarderont bizarrement à la caisse si vous achetez des tampons?»
+				</titre>
+			</li>
+			<li>
+				<titre>13. «Est-ce que vous dites parfois “je t’aime” à votre meilleur ami?»
+				</titre>
+			</li>
+			<li>
+				<titre>14. «À quelle fréquence avez-vous des érections accidentelles? Toutes les semaines? Tous les mois?»
+				</titre>
+			</li>
+			<li>
+				<titre>15. «Pourquoi êtes-vous si obsédés par la taille du pénis de vos potes?»
+				</titre>
+			</li>
+			<li>
+				<titre>16. «Et c’est quoi cette habitude de se donner une claque sur les fesses entre potes?»
+				</titre>
+			</li>
+			<li>
+				<titre>17. «Qu’est-ce que vous avez contre les tables de nuit? Ou les décorations murales, tant qu’on y est?»
+				</titre>
+			</li>
+			<li>
+				<titre>18. «Le syndrome des couilles bleues, ça existe vraiment?»
+				</titre>
+			</li>
+			<li>
+				<titre>19. «Est-ce qu’il vous arrive d’être gêné par votre pénis quand vous marchez?»
+				</titre>
+			</li>
+			<li>
+				<titre>20. «Est-ce qu’il arrive que vos couilles se collent à une partie de votre corps?»
+				</titre>
+			</li>
+			<li>
+				<titre>21. «Le pénis cassé, c’est un mythe?»
+				</titre>
+			</li>
+			<li>
+				<titre>22. «Et pour finir, on ressent quoi quand on a une érection?»
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

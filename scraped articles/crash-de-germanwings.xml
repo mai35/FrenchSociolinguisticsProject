@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/rossalynwarren/crash-de-germanwings-qui-est-le-copilote-qui-a-volontairemen-->
+	<header>
+		<titre>Crash de Germanwings: qui est le copilote qui a volontairement déclenché la descente?		</titre>
+		<st>
+				
+				
+				Andreas Lubitz, 28 ans, a déclenché la descente de l’avion après que son commandant de bord est sorti du cockpit, le menant vers un crash qui a tué les 150 personnes à bord.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Rossalyn Warren		</nom>
+		<association>BuzzFeed News Reporter		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>Le copilote qui a volontairement activé le système de perte d’altitude de l’A320 est Andreas Lubitz, 28 ans, un Allemand de Montabaur.
+				</titre>
+			</li>
+			<li>
+				<titre>Andreas Lubtiz a été formé à l’école de formation des pilotes de la Lufthansa, à Brême.
+				</titre>
+				<commentaire> lufthansa-flight-training.com
+				</commentaire>
+			</li>
+			<li>
+				<titre>Andreas Lubitz vivait avec ses parents dans cette maison à Montabaur:
+				</titre>
+				<commentaire> Michael Probst / Via Associated Press
+				</commentaire>
+			</li>
+			<li>
+				<titre>Chez les Lubitz, à Montabaur. Selon Gabriele Wieland, la maire de la ville, Andreas Lubitz avait également un appartement à Düsseldorf, où l’A320 était censé atterrir.
+				</titre>
+				<commentaire> Michael Probst / AP
+				</commentaire>
+			</li>
+			<li>
+				<titre>Il travaillait chez Germanwings, filiale low-cost de Lufthansa, depuis Septembre 2013.
+				</titre>
+				<commentaire> Facebook: germanwings
+				</commentaire>
+			</li>
+			<li>
+				<titre>Ce qu’on pense être sa page Facebook a été supprimée après la confirmation de son nom par le procureur de la République de Marseille, Brice Robin, lors d’une conférence de presse ce jeudi.
+				</titre>
+				<commentaire> Facebook.com
+				</commentaire>
+			</li>
+			<li>
+				<titre>Un reporter de N-TV a parlé à Montabaur à des gens qui connaissaient Lubitz. Ils ont décrit un homme «calme» et «qui ne se fait pas vraiment remarquer».
+				</titre>
+				<commentaire>Des connaissances de Lubitz ont dit à l’Associated Press qu’il ne présentait pas de signes de dépression quand ils l’avaient vu l’automne dernier, à l’occasion de son renouvellement de licence de pilotage de planeur.
+«Il était heureux d’avoir ce boulot à Germanwings et se débrouillait bien», a dit l’un des membres du club d’aviation auquel il appartenait. «Il donnait une bonne impression».
+				</commentaire>
+			</li>
+			<li>
+				<titre>Lubitz était un membre du club d’aviation LSC Westerwald. Dans un communiqué publié sur son site, le LSC Westerwald écrit qu’il avait «accompli son rêve» d’être un pilote.
+				</titre>
+				<commentaire>D’après le Wall Street Journal, le communiqué précisait: «Andreas est devenu un membre du club quand il était jeune pour réaliser son rêve, voler.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>En 2013, l’agence gouvernementale américaine en charge de l’aviation civile (FAA) estimait qu’Andreas Lubitz était «à la hauteur et dépassait les critères élevés d’éducation, de connaissances médicales» établis par la FAA.
+				</titre>
+				<commentaire>Selon un article de l’ Aviation Business Gazette, cette certification de la FAA est donnée à certains pilotes afin d’encourager la «réduction des erreurs de pilotages qui mènent à des accidents mortels».
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

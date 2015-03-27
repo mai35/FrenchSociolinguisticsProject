@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/whitneyjefferson/vin-diesel-a-nomme-sa-fille-en-hommage-a-paul-walker-->
+	<header>
+		<titre>Vin Diesel a nommé sa fille en hommage à Paul Walker		</titre>
+		<st>
+				
+				
+				Vin a confirmé ce matin lors du TODAY show que son quatrième enfant s’appelait Pauline.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Whitney Jefferson		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Ce matin, Vin Diesel a confirmé le prénom de son plus jeune enfant à Natalie Morales du TODAY show.
+				</titre>
+			</li>
+			<li>
+				<titre>3. Regardez la vidéo en entier ci-dessous (en anglais):
+				</titre>
+			</li>
+			<li>
+				<titre>4. Et voici une photo de Bébé Pauline qu’il a partagée sur Facebook:
+				</titre>
+			</li>
+			<li>
+				<titre>6. Suivez-nous sur Twitter et Facebook!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

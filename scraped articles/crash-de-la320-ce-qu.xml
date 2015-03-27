@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/marietelling/crash-de-la320-ce-que-lon-sait-sur-les-victimes?responses=-->
+	<header>
+		<titre>Crash de l’A320: ce que l’on sait sur les victimes		</titre>
+		<st>
+				
+				
+				150 personnes étaient à bord de l’avion de la compagnie Germanwings qui s’est écrasé à environ 11h ce matin, dans les Alpes-de-Haute-Provence. Parmi elles, 144 passagers, dont deux bébés, et six membres d’équipage. Selon le ministre de l’Intérieur Bernard Cazeneuve, «la violence du choc laisse peu d’espoir» de retrouver des survivants.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Marie Telling		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Germanwings a confirmé la présence de 67 Allemands parmi les passagers et les autorités espagnoles celle de 45 Espagnols.
+				</titre>
+				<commentaire>Selon François Hollande, il n’y aurait «aucun survivant». Manuel Valls a confirmé devant l’Assemblée qu’il n’y avait pas de survivants: «Un hélicoptère a pu se poser pour constater malheureusement le fait qu’il n’y avait que des victimes».
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Selon le journal allemand Ruhr Nachrichten, 16 lycéens allemands en voyage scolaire en Catalogne et les deux adultes qui les accompagnaient auraient été à bord de l’avion.
+				</titre>
+				<commentaire>La classe originaire du lycée Joseph-König de Haltern am See, une commune située au Nord-Est de Düsseldorf, faisait partie d’un programme d’échange avec le lycée Giola à Llinars del Vallès, un village de Catalogne, selon le site The Local.
+				</commentaire>
+			</li>
+			<li>
+				<titre>4. Sur Instagram, un utilisateur a posté cette photo en affirmant qu’il allait au lycée avec les élèves.
+				</titre>
+				<commentaire>En légende, il écrit: «Un avion s’est écrasé. De nombreuses personnes de mon école étaient dans cet avion, j’en connaissais la moitié. Je suis désolé mais j’ai besoin d’un break maintenant. Demain, je saurais si c’était vraiment cet avion mais comme mon prof était à bord de cet avion, j’imagine que c’est le cas.»
+				</commentaire>
+			</li>
+			<li>
+				<titre>6. Thomas Winkelmann, PDG de Germanwings, a précisé lors d’une conférence de presse qu’il y avait six membres d’équipage à bord de l’avion. Deux dans le cockpit et quatre en cabine.
+				</titre>
+				<commentaire>Il a ajouté au sujet du pilote: «Le pilote avait plus de 10 ans d’expérience avec Germanwings et 6000 heures de vol sur des appareils Airbus»
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. Les autorités françaises ont mis en place un numéro vert pour les proches des victimes. Il s’agit du: 0800 00 97 85.
+				</titre>
+				<commentaire>Des numéros d’urgence existent aussi en Allemagne (00 49 30 50 00 30 00) et en Espagne (0034 91 39 48 900).
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. Attention: certains ont tweeté que que leurs proches étaient dans l’avion. Selon l’Express, ces informations ne sont pas exactes.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Ce post sera mis à jour régulièrement avec de nouvelles informations.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

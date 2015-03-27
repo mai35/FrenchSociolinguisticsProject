@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/tomschembri/ou-est-clement-le-no-life?responses=-->
+	<header>
+		<titre>16 personnes que vous aviez peut-être oubliées		</titre>
+		<st>
+				
+				
+				Clément le «no life», que fais tu aujourd’hui? Mystère.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Tom Benjamin		</nom>
+		<association>BuzzFeed Contributor		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Bill Kaulitz, le chanteur de Tokyo Hotel, et sa coupe de porc-épic.
+				</titre>
+			</li>
+			<li>
+				<titre>2. Et son frère de coiffure, le chanteur du groupe danois The Rasmus.
+				</titre>
+				<commentaire>Ça a failli marcher pour eux. Comme ils étaient #dark, leur chanson s’appelait «dans les ténèbres» et ils se transformaient en corbeau dedans.
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Clément le «no life» et son lancer de sac que le monde lui enviait.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Monsieur «LEAVE BRITNEY ALONE!!!», Chris Crocker.
+				</titre>
+			</li>
+			<li>
+				<titre>5. Billy, le présentateur de l’émission «Iapiap» sur Canal J.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Serge, le mystérieux actionnateur du magnéto de l’émission «Tout le monde en parle» de Thierry Ardisson.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Pepita, l’assistante de Marie-Ange Nardi dans l’émision «Qui est qui?».
+				</titre>
+				<commentaire>Toujours prête pour un défi absurde et une tenue so 90s.
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. Roger, le copain relou de Tia et Tamera dans «Sister Sister», à qui elles demandaient toujours de rentrer chez lui.
+				</titre>
+				<commentaire>«RENTRE CHEZ TOI ROGER!». Le pauvre. Et puis, Roger, c’est pas un nom pour un ado ça. Même dans les années 1990.
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. Salem, le chat parlant de Sabrina, dans «Sabrina, l’apprentie sorcière».
+				</titre>
+			</li>
+			<li>
+				<titre>10. Jessyca, la candidate super distinguée de l’émission de télé-realité «Les colocataires» sur M6.
+				</titre>
+				<commentaire>Pire émission de télé-réalité, après «Nice People» peut-être.
+				</commentaire>
+			</li>
+			<li>
+				<titre>11. Prosper, le candidat français de l’émission de télé-réalité «Nice People» sur TF1.
+				</titre>
+				<commentaire>À l’époque où les chaînes de télévisions pensaient que n’importe quelle émission sur une bande de boulets enfermés dans une maison allait marcher.
+				</commentaire>
+			</li>
+			<li>
+				<titre>12. Les Naast, le pire groupe de bébé rockeurs de tous les temps.
+				</titre>
+				<commentaire>Qui ont, rappelons le, définitivement disparu quand Gustave, le chanteur, a planté une fourchette dans l’oeil d’un fan.
+				</commentaire>
+			</li>
+			<li>
+				<titre>13. John Dodelande, le jeune entrepreneur tête à claque inventeur du «doodisme».
+				</titre>
+				<commentaire>Souvenez-vous, son concept le plus révolutionnaire était une marque de vêtements où les garçons porteraient du rose et les filles du bleu. Incroyable, quel visionnaire.
+				</commentaire>
+			</li>
+			<li>
+				<titre>14. Amandine, la rappeuse du 38.
+				</titre>
+				<commentaire>330.000 francs CFAaaAAAaaaaa.
+				</commentaire>
+			</li>
+			<li>
+				<titre>15. Chico, le brésilien des pubs Universal Mobile.
+				</titre>
+				<commentaire>Va chercher bonheur.
+				</commentaire>
+			</li>
+			<li>
+				<titre>16. Et Cindy Sander, la meilleure candidate de l’histoire de «Nouvelle Star».
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

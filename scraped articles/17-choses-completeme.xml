@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/bradesposito/17-choses-completement-folles-que-lon-peut-croiser-au-japon?responses=-->
+	<header>
+		<titre>17 choses complètement folles que l’on peut croiser au Japon		</titre>
+		<st>
+				
+				
+				Sûrement le seul pays au monde où vous pourrez déguster de la pizza au Kit Kat.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Brad Esposito		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Des pizzas/hamburgers:
+				</titre>
+			</li>
+			<li>
+				<titre>2. Et des pizzas aux Kit Kat:
+				</titre>
+			</li>
+			<li>
+				<titre>3. Les Kit Kat goût sandwich.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Ces coiffures aux cigales:
+				</titre>
+			</li>
+			<li>
+				<titre>5. Des compétitions de pleurs de bébés:
+				</titre>
+			</li>
+			<li>
+				<titre>6. Des origamis de PQ:
+				</titre>
+			</li>
+			<li>
+				<titre>7. De l’eau de régime:
+				</titre>
+			</li>
+			<li>
+				<titre>8. Cette interprétation très personnelle du mot Massachusetts:
+				</titre>
+			</li>
+			<li>
+				<titre>9. Cette phrase à la grammaire douteuse:
+				</titre>
+			</li>
+			<li>
+				<titre>10. Ce moment de poésie:
+				</titre>
+			</li>
+			<li>
+				<titre>11. Des camions comme celui-ci:
+				</titre>
+			</li>
+			<li>
+				<titre>12. Des coiffures de ce genre:
+				</titre>
+			</li>
+			<li>
+				<titre>13. Cette menace de mort via stylo:
+				</titre>
+				<commentaire>«Je t’aime tellement que je pourrais te tuer»
+				</commentaire>
+			</li>
+			<li>
+				<titre>14. Les soirées Coca Cola:
+				</titre>
+			</li>
+			<li>
+				<titre>15. Des sourires comme ça:
+				</titre>
+			</li>
+			<li>
+				<titre>16. Des sculptures comme celle-ci:
+				</titre>
+			</li>
+			<li>
+				<titre>17. Et des coques de portable qui vendent franchement du rêve:
+				</titre>
+			</li>
+			<li>
+				<titre>Suivez-nous aussi sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

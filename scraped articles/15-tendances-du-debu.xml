@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/floperry/15-tendances-du-debut-des-annees-2000-qui-reviennent-bizarre?responses=-->
+	<header>
+		<titre>15 tendances du début des années 2000 qui reviennent bizarrement à la mode		</titre>
+		<st>
+				
+				
+				La mode est un cycle, un cycle où toutes vos fringues horribles reviennent un jour ou l’autre à la mode.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Flo Perry		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Les colliers ras de cou
+				</titre>
+			</li>
+			<li>
+				<titre>2. Les grosses doudounes
+				</titre>
+			</li>
+			<li>
+				<titre>3. Les colliers avec prénoms
+				</titre>
+			</li>
+			<li>
+				<titre>4. Les mini-hauts
+				</titre>
+			</li>
+			<li>
+				<titre>5. Les mules
+				</titre>
+			</li>
+			<li>
+				<titre>6. Les jeans délavés et déchirés
+				</titre>
+			</li>
+			<li>
+				<titre>7. Les cheveux de couleur vive ou pastel.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Les bobs
+				</titre>
+			</li>
+			<li>
+				<titre>9. Les bananes
+				</titre>
+			</li>
+			<li>
+				<titre>10. Le total look en jean
+				</titre>
+			</li>
+			<li>
+				<titre>11. Le motif camouflage
+				</titre>
+			</li>
+			<li>
+				<titre>12. Les cheveux gaufrés
+				</titre>
+			</li>
+			<li>
+				<titre>13. Les costumes blancs
+				</titre>
+			</li>
+			<li>
+				<titre>14. Les cols Bardot
+				</titre>
+			</li>
+			<li>
+				<titre>15. Les corsets
+				</titre>
+				<commentaire>On était proches de l’accident avec Mel B en 2004.
+				</commentaire>
+			</li>
+			<li>
+				<titre>Et bien sûr en 2014:
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+			<li>
+				<titre>Suivez-nous aussi sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

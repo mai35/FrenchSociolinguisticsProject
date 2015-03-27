@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/kimberleydadds/voici-a-quoi-ressemble-samara-du-cercle-->
+	<header>
+		<titre>Voici à quoi ressemble l’effrayante petite fille de «The Ring» aujourd’hui		</titre>
+		<st>
+				
+				
+				Spoiler: elle fait un peu moins peur.
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Kimberley Dadds		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Vous vous souvenez de l’effrayante petite fille de Le Cercle ?
+				</titre>
+			</li>
+			<li>
+				<titre>2. Qui a toujours hanté vos rêves depuis lors ?
+				</titre>
+			</li>
+			<li>
+				<titre>3. Eh bien, elle était jouée par l’actrice Daveigh Chase, qui a maintenant 24 ans et ressemble à ceci.
+				</titre>
+			</li>
+			<li>
+				<titre>4. Plus si effrayante que ça, si ?
+				</titre>
+			</li>
+			<li>
+				<titre>5. Saveigh a incarné Samara Morgan dans le remake américain du film d’horreur en 2002.
+				</titre>
+			</li>
+			<li>
+				<titre>6. Elle a aussi fait une apparition dans Donnie Darko et incarné la voix originale de Lilo Pelekai dans l’animation de Disney Lilo & Stitch.
+				</titre>
+			</li>
+			<li>
+				<titre>7. Elle est aussi apparue dans de nombreuses séries télé, comme Charmed, Urgences, et Les Experts.
+				</titre>
+			</li>
+			<li>
+				<titre>8. Nous espérons donc que son image dans Le Cercle ne hantera plus vos pensées.
+				</titre>
+			</li>
+			<li>
+				<titre>9. Car nous préférons de loin la Daveigh Chase adulte.
+				</titre>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>

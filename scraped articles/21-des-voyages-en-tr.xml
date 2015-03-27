@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/marietelling/21-des-voyages-en-train-les-plus-spectaculaires-au-monde-->
+	<header>
+		<titre>21 des voyages en train les plus spectaculaires au monde		</titre>
+		<st>
+				
+				
+				Oubliez l’avion et la voiture, le train est la meilleure façon de voyager. Suivez le guide BuzzFeed!
+				
+								
+					</st>
+	</header>
+	<auteur>
+		<nom>Marie Telling		</nom>
+		<association>BuzzFeed Staff		</association>
+	</auteur>
+	<corps>
+		<ol>
+			<li>
+				<titre>1. Le Ghan – Australie
+				</titre>
+				<commentaire>Le Ghan est le train qui traverse l’Australie du Sud au Nord, d’Adelaide à Darwin, à travers les paysages spectaculaires de l’outback et en passant par Alice Spring où se trouve l’Urulu. Le train offre différentes options de voyage, de la plus luxueuse à la plus basique, qui coûtent toutes assez cher, mais il propose aussi une formule pour les backpackeurs qui bien que moins confortable, plaira sûrement beaucoup plus aux petits budgets. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>2. Le Transsibérien – Russie
+				</titre>
+				<commentaire>Train mythique, le Transsibérien parcourt la Russie de Moscou jusqu’à Vladivostok, à l’extrémité Est du pays, traversant au passage plusieurs fuseaux horaires. Si vous tenez à votre confort et aimez voyager de façon luxueuse, vous pouvez prendre le Golden Eagle Trans-Siberian Express. Pour ceux qui préfèrent voyager avec ceux qui prennent le train par nécessité plutôt que par plaisir, boire de la vodka avec eux et vivre le voyage comme de nombreux gens du coin le vivent, contentez-vous du Transsibérien traditionnel, qui offre aussi plusieurs gammes de confort sans atteindre le niveau de luxe du Golden Eagle, et qui a le mérite d’être bon marché. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>3. Le Transmongolien – Russie, Mongolie et Chine
+				</titre>
+				<commentaire>Le Transmongolien est une extension du Transsibérien en Mongolie. Le train traverse le désert de Gobi, s’arrête à Oulan-Bator puis poursuit sa route jusqu’à Pékin. La version luxe Golden Eagle existe aussi pour ce trajet. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>4. Le Transmandchourien ou Chemin de Fer de l’Est Chinois – Russie et Chine
+				</titre>
+				<commentaire>Une autre extension du Transsibérien, en Chine cette fois et sans passer par la Mongolie. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>5. Le California Zephyr – États-Unis
+				</titre>
+				<commentaire>Le California Zephyr traverse sept États dans le centre et l’Ouest des États-Unis pour se rendre de Chicago jusqu’à la baie de San Francisco. Les passagers peuvent profiter des paysages spectaculaires de l’Ouest américain, parmi lesquels les montagnes Rocheuses et la Sierra Nevada, le tout dans un environnement confortable. Le train aux États-Unis coûte bien plus cher qu’en France, mais vous pouvez réaliser ce trajet pour moins de 200 dollars (180 euros) en réservant à l’avance et en choisissant la gamme de confort la moins élevée. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>6. Le Durango Train – États-Unis
+				</titre>
+				<commentaire>Ce train à vapeur montagneux parcourt 72 kilomètres dans les montagnes du Colorado, entre Durango et Silverton. Le trajet coûte au minimum 82 dollars (75 euros) pour un adulte, plus si vous choisissez d’être en classe première, deluxe ou présidentielle. Tous les wagons datent de la fin du 19e siècle. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>7. Le Rocky Mountaineer – Canada
+				</titre>
+				<commentaire>Ce train de luxe coûte cher mais traverse les paysages à couper le souffle de l’Ouest Canadien. Le trajet emblématique de la ligne part de Vancouver pour se conclure à Calgary, mais le site de la compagnie offre d’autres formules plus longues avec des arrêts dans des hôtels de la région. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>8. L’Alaska railway – États-Unis
+				</titre>
+				<commentaire>Le trajet Coastal Classic vous fera découvrir les splendeurs de l’Alaska en train. Le voyage entre Anchorage et Seward ne dure que quatre heures et demie et est particulièrement spectaculaire. L’aller-retour coûte 141 dollars (130 euros) pour un adulte. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>9. Le Glacier Express – Suisse
+				</titre>
+				<commentaire>Un magnifique voyage dans les Alpes suisses, de Zermatt à Saint Moritz. Le trajet coûte entre 142 euros pour un adulte en seconde classe et 262 euros pour une place en première. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>10. Le TranzAlpine – Nouvelle Zélande
+				</titre>
+				<commentaire>Ce train traverse les paysages incroyables de l’île sud de la Nouvelle-Zélande, De Christchurch à Greymouth. Comptez environ 140 euros pour un aller. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>11. Le Royal Scotsman et le trajet Galsgow-Mallaig – Écosse
+				</titre>
+				<commentaire>Le Royal Scotsman est train de luxe qui coûte très cher mais offre plusieurs formules pour parcourir la campagne et les lochs écossais. Le train a aussi le mérite de passer par le viaduc de Glenfinnan, qu’emprunte le Poudlard Express dans Harry Potter. Si vous voulez traverser ce pont sans vider l’intégralité de votre compte en banque, vous pouvez aussi prendre le train qui va de Glasgow à Mallaig, et qui traverse quotidiennement ces paysages hors du commun et coûte moins de 30 euros pour un aller. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>12. La ligne Fianarantsoa-Côte Est – Madagascar
+				</titre>
+				<commentaire>Construite en 1926, la ligne traverse des paysages magnifiques et relie Fianarantsoa à Manakara sur la côte Est du pays. L’impression d’être réellement au milieu de la nature. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>13. La Rovos Rail – Afrique du Sud
+				</titre>
+				<commentaire>Rovos Rail est un train de luxe sud-africain dont le trajet emblématique relie Pretoria au Cap. Inutile de préciser que le voyage coûte très cher mais le panorama ne déçoit jamais. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>14. La Tazara Railway – Tanzanie et Zambie
+				</titre>
+				<commentaire>La ligne entre Dar es Salaam, en Tanzanie et Mbeya, en Zambie traverse de nombreux villages dont vous pourrez déguster les spécialités, ainsi que des paysages divers et tous à couper le souffle. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>15. L’Andean Explorer – Pérou
+				</titre>
+				<commentaire>Un voyage qui vous emmène de Cusco jusqu’au lac Titicaca. Le panorama est tout simplement incroyable et le trajet inoubliable. Un aller coûte environ 250 euros par adulte. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>16. Le Tren crucero – Equateur
+				</titre>
+				<commentaire>Ce train de luxe vous emmène de Quito, la capitale du pays, à Guayaquil, sa plus grande ville. Le train s’arrête chaque soir dans une ville où vous séjournez dans un hôtel. Il a aussi la particularité d’emprunter El Nariz del Diablo (le nez du diable), un col particulièrement difficile à manœuvrer. Qui dit train de luxe dit prix exorbitant, mais si vous avez un budget à tenir vous pouvez aussi prendre le train entre Riobamba et Alausí qui passe lui aussi par El Nariz del Diablo et qui vous autorise à vous placer sur le toit du wagon pour admirer le paysage. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>17. Le Mandovi Express – Inde
+				</titre>
+				<commentaire>Le train est l’une des meilleures façons d’explorer l’Inde. De nombreuses lignes méritent à elles-seules le voyage, comme celle du Mandovi Express entre Goa et Bombay, le long de la très belle côte du Sud-Ouest du pays. On laisse généralement les portes du train grandes ouvertes, ce qui à défaut d’être sûr offre au moins des panoramas de rêve sur la région. Une place en seconde coûte un peu plus de 20 euros. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>18. L’Himalayan Queen – Inde
+				</titre>
+				<commentaire>Autre trajet spectaculaire du pays, l’Himalayan Queen, qui va de New Delhi à Kalka, en Himalaya, et traverse 102 tunnels, 87 ponts et 900 tournants. À éviter si vous avez le mal des transports donc. Un aller coûte moins de un euro. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>19. L’Orient Express – Europe
+				</titre>
+				<commentaire>Train mythique, si bien que l’intérêt est tout autant à l’intérieur des wagons que dans les paysages que l’on voit par la fenêtre. Il y a plusieurs trajets au choix, entre Londres et Venise en passant par Paris, entre Paris et Istanbul en passant pas Budapest… Une expérience grand luxe qui coûte très cher mais c’est le prix à payer quand on veut se prendre pour Agatha Christie ou reproduire une pub de parfum Chanel. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>20. La ligne Bergen-Oslo – Norvège
+				</titre>
+				<commentaire>Les trains scandinaves offrent généralement de très beaux panoramas, mais dans le domaine, difficile de battre le trajet Bergen-Olso. Le voyage au milieu des fjords et des paysages montagneux est encore plus spectaculaire sous la neige en plein hiver. Un place adulte coûte environ 80 euros.
+				</commentaire>
+			</li>
+			<li>
+				<titre>21. La ligne ferroviaire Qing-Zang – Chine, Tibet
+				</titre>
+				<commentaire>La ligne inaugurée en 2006 relie Golmud (Qinghai) à Lhassa (Tibet) sur un trajet de plus de 1.140 km. Les paysages sont irréels et ce train est l’une des manières les plus faciles de se rendre au Tibet. Si vous partez de Pékin, en passant par Golmud pour vous rendre à Lhassa, le trajet coûte entre 45 et 150 euros par adulte, selon la classe choisie. 
+				</commentaire>
+			</li>
+			<li>
+				<titre>Vous connaissez d’autres voyages à ne pas rater en train? Partagez-les dans les commentaires, sur Facebook ou Twitter!
+				</titre>
+				<commentaire>View this embed ›
+				</commentaire>
+			</li>
+		</ol>
+	</corps>
+	<conversation>
+		<commentaire>
+		</commentaire>
+	</conversation></article>
