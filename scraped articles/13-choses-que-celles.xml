@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
-<!-- unedited URL for getting comments:http://www.buzzfeed.com/floperry/13-choses-que-celles-qui-ont-de-lacnn-comprendron?responses=-->
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/floperry/13-choses-que-celles-qui-ont-de-lacnn-comprendron-->
 	<header>
 		<titre>13 choses que toutes celles qui ont de l’acné comprendront		</titre>
 		<st>

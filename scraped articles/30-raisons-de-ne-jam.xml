@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
-<!-- unedited URL for getting comments:http://www.buzzfeed.com/bullo/30-raisons-de-ne-jamais-aller-en-bretagne-->
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/bullo/30-raisons-de-ne-jamais-aller-en-bretagne?responses=-->
 	<header>
 		<titre>30 raisons de ne jamais aller en Bretagne		</titre>
 		<st>

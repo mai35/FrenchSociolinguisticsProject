@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
-<!-- unedited URL for getting comments:http://www.buzzfeed.com/andreborges/34-motifs-de-rupture-pour-tout-fan-de-harry-potter?responses=-->
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/andreborges/34-motifs-de-rupture-pour-tout-fan-de-harry-potter-->
 	<header>
 		<titre>34 motifs de rupture pour tout fan de «Harry Potter»		</titre>
 		<st>
@@ -14,7 +14,7 @@
 	</header>
 	<auteur>
 		<nom>Andre Borges		</nom>
-		<association>BuzzFeed Contributor		</association>
+		<association>BuzzFeed India Contributor		</association>
 	</auteur>
 	<corps>
 		<ol>

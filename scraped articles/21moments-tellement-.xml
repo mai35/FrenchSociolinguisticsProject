@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
-<!-- unedited URL for getting comments:http://www.buzzfeed.com/daves4/21moments-tellement-genants-quils-en-deviennent-douloureux?responses=-->
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/daves4/21moments-tellement-genants-quils-en-deviennent-douloureux-->
 	<header>
 		<titre>21 moments tellement gênants qu’ils en deviennent douloureux		</titre>
 		<st>

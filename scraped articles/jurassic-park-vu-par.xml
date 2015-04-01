@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
-<!-- unedited URL for getting comments:http://www.buzzfeed.com/danieldalton/jurassic-park-vu-par-les-dinosaures-->
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/danieldalton/jurassic-park-vu-par-les-dinosaures?responses=-->
 	<header>
 		<titre>«Jurassic Park» raconté du point de vue des dinosaures		</titre>
 		<st>
 				
 				
-				Comment trois braves vélociraptors tentèrent de s’échapper de leur prison construite par l’homme.
+				Comment trois braves vélociraptors tentèrent de s’échapper de leur prison construite par l’Homme.
 				
 								
 					</st>
@@ -25,7 +25,7 @@
 				</commentaire>
 			</li>
 			<li>
-				<titre>2. Ils créèrent tous les dinosaures en version féminine, et décidèrent de les enfermer sur une île où elles seraient exploitées pour du profit.
+				<titre>2. Ils créèrent tous les dinosaures en version féminine, et décidèrent de les enfermer sur une île où elles seraient exploitées pour de l’argent.
 				</titre>
 				<commentaire>Les hommes, quoi.
 				</commentaire>
@@ -53,7 +53,7 @@
 			<li>
 				<titre>7. Mais les raptors n’aiment pas les menaces. Les raptors aiment le meurtre. Ainsi, pour prouver qu’ils se foutaient du règlement, ils s’empressèrent d’assassiner un mec.
 				</titre>
-				<commentaire>Ses cris furent étouffées par le craquement de ses propres os, un son intolérable pour tout homme, et encore plus pour un homme gagnant moins que le salaire minimum.
+				<commentaire>Ses cris furent étouffés par le craquement de ses propres os, un son intolérable pour tout homme, et encore plus pour un homme gagnant moins que le salaire minimum.
 				</commentaire>
 			</li>
 			<li>
@@ -65,13 +65,13 @@
 			<li>
 				<titre>9. Neuf raptors arrivèrent à Jurassic Park. Seulement trois d’entre eux survécurent.
 				</titre>
-				<commentaire>À cause, vous savez, des meurtres.
+				<commentaire>À cause des meurtres.
 				</commentaire>
 			</li>
 			<li>
 				<titre>10. La chef de la bande était Thelma, la plus grande et la pire de la tribu.
 				</titre>
-				<commentaire>Louise, sa BFF, était une femme qui disait oui à tout et faisait les quatre volontés de Thelma.
+				<commentaire>Louise, sa meilleure pote, était une femme qui disait oui à tout et faisait les quatre volontés de Thelma.
 				</commentaire>
 			</li>
 			<li>
@@ -93,7 +93,7 @@
 				</commentaire>
 			</li>
 			<li>
-				<titre>14. «On peut au moins discuter de cette connerie de “Jurassic Park”? C’est plutôt un parc de Crétacées, non?»
+				<titre>14. «On peut au moins discuter de cette connerie de “Jurassic Park”? C’est plutôt un parc de Crétacé Park, non?»
 				</titre>
 				<commentaire>«Janine, arrête un peu.»
 				</commentaire>
@@ -123,10 +123,8 @@
 				</commentaire>
 			</li>
 			<li>
-				<titre>19. Et puis il y avait Ian «Baise Moi» Malcolm, qui était fait entièrement de sexe, et se baladait en parlant salement comme s’il venait de vous prendre par derrière.
+				<titre>19. Et puis il y avait Ian «Baise-Moi» Malcolm, qui était fait entièrement de sexe, et se baladait en parlant salement comme s’il venait de vous prendre par derrière.
 				</titre>
-				<commentaire>Tiens, un gros tas de merde. *rejette sa mèche en arrière*
-				</commentaire>
 			</li>
 			<li>
 				<titre>20. Et enfin, les petits morveux du gardien, qui n’avaient que la peau sur les os. À eux deux, ils formaient à peine un repas.
@@ -201,7 +199,7 @@
 				</commentaire>
 			</li>
 			<li>
-				<titre>32. Les raptors savaient qu’ils pouvaient compter sur elle pour foutre tout en l’air, entièrement par accident.
+				<titre>32. Les raptors savaient qu’ils pouvaient compter sur elle pour foutre le bordel, entièrement par accident.
 				</titre>
 				<commentaire>«Ooh, un truc qui brille! J’adore tout ce qui brille.»
 				</commentaire>
@@ -522,6 +520,12 @@
 				<titre>85. Mais pas un vélociraptor.
 				</titre>
 				<commentaire>«OUIIII!»
+				</commentaire>
+			</li>
+			<li>
+				<titre>86. Suivez-nous sur Facebook et Twitter!
+				</titre>
+				<commentaire>View this embed ›
 				</commentaire>
 			</li>
 		</ol>

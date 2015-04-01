@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
-<!-- unedited URL for getting comments:http://www.buzzfeed.com/morganshanahan/arretez-de-toucher-le-ventre-des-femmes-enceintes?responses=-->
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/morganshanahan/arretez-de-toucher-le-ventre-des-femmes-enceintes-->
 	<header>
 		<titre>Arrêtez de toucher le ventre des femmes enceintes		</titre>
 		<st>

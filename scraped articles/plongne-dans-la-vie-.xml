@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="BuzzFeed_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
-<!-- unedited URL for getting comments:http://www.buzzfeed.com/ellievhall/plongne-dans-la-vie-des-femmes-et-des-veuves-de-l?responses=-->
+<!-- unedited URL for getting comments:http://www.buzzfeed.com/ellievhall/plongne-dans-la-vie-des-femmes-et-des-veuves-de-l-->
 	<header>
 		<titre>Plongée dans la vie des femmes et des veuves de l’État islamique		</titre>
 		<st>
