@@ -22,6 +22,9 @@
     </xsl:template>
     <xsl:template match="//anglicisme"><tr>
         <td>
+            <xsl:apply-templates select="anglicisme"/>
+        </td>
+        <td>
             <xsl:apply-templates select="@bf"/>
         </td>
         <td>
