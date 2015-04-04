@@ -12,11 +12,59 @@
                  /></a></div>
             <!--#include virtual="inc/dropdownmenu.xhtml" -->
             <h2>Methodology</h2>
-            <p class="other"> To help analyse the usage of various anglicisms, Vicki and Will tagged articles from
-                French Buzzfeed. Every anglicism was marked with information concerning its part of
-                speech, character count, and syllable count. This information will be used to detect
-                any possible patterns regarding which English words and suggested replacements are
-                readily accepted into the French language. </p>
+            <p class="other"> To help analyse the usage of various anglicisms, Vicki and Will tagged
+                articles from French Buzzfeed. Every anglicism was marked with information
+                concerning its part of speech, character count, and syllable count. This information
+                will be used to detect any possible patterns regarding which English words and
+                suggested replacements are readily accepted into the French language. </p>
+            <h3>Mark-Up</h3>
+            <p class="other">Using the Python application “Scrapy,” we collected articles from
+                Buzzfeed France (buzzfeed.fr). Will and Vicki (our group’s French majors) went
+                through each of the articles to check for anglicisms and verified the borrowings’
+                etymology using Wiktionary français. Each of the articles was checked twice to
+                ensure consistency.</p>
+            <p class="other">We marked anglicisms using the tag "anglicisme" and subsequently noted
+                each anglicism’s part of speech, syllable count and semantic category. Below is an
+                example of a marked anglicism:</p> 
+            <p id="key">Key: *sc= “Syllable Count” pos= “Part of Speech”
+            nom= “Noun” <br/>adj= “Adjective” verbe= “Verb” abbr= “Abbreviation” <br/>*Syllable count was
+            determined using the Parisian “chute de ‘e’” (link to read more about this) standard.</p>
+                <h3>Etymological Gray Areas</h3>
+            <p class="other">Many of the non-French words we encountered were associated with brand
+                names, products and movie and television titles, which were decidedly tougher to
+                categorize than your standard anglicism, such as “selfie,” for example. Ultimately,
+                we decided that brand and title names should not be counted as anglicisms, as the
+                decision to translate these terms and phrases is one made by corporations, not the
+                general, French-speaking public. Products, by contrast, we decided should be
+                considered anglicisms, as, much like any other neologism, speakers use these terms
+                creatively. </p>
+            <p class="other">Essentially, if the term behaved like a proper noun, we did not count
+                it as an anglicism, whereas if the word could be pluralized, preceded by a
+                determiner, modified by an adjective etc., it was considered a common noun and
+                therefore tagged as an anglicism. Additionally, if the word exhibited any sort of
+                change in part of speech, that change was considered evidence that the word had
+                undergone creative processes, and that term, too, was added to our list.</p>
+            <p class="other">Especially gray terms like “Facebook” were marked differently depending
+                on context. In the article (the Mexico one), for instance, the term “Facebook”
+                appears multiple times, but of these times, the word is never seen alongside a
+                determiner, nor is it pluralized, modified or used creatively. Additionally, in this
+                article, we only ever see the term as a hyperlink, meaning, more likely than not,
+                these tokens of “Facebook” simply exist to give credit to the company “Facebook,
+                Inc.” and are therefore referring to the brand, Facebook, not the product.</p>
+            <p class="other">In other cases, however, the term appears to be very much immersed
+                within the French language. BuzzFeed users discuss “pages Facebook,” for example,
+                where “Facebook” appears to be an adjectival form derived from the original noun
+                borrowing. They also use phrases like “mon facebook,” where “mon” is a determiner
+                meaning my, and even pluralize the term according to the pluralization rules of
+                their language (i.e. “facebooks”). “Facebook” in these contexts, then, seems to
+                behave more like a common noun than a proper one. This behavior suggests that a true
+                adoption of the term has taken place and that these tokens are in fact
+                anglicisms.</p>
+            <p class="other">An additional problem we encountered was the surprisingly large number
+                of English words of Old French origin that are now being borrowed back into the
+                French language. (example) In cases like these, we determined that as long as the
+                language from which the word is being borrowed is English, that term should be
+                considered an anglicism (i.e. emprunté à l’anglais). ​</p>
         </div>
         <br />
         <div id="ccl">
