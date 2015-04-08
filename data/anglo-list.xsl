@@ -16,6 +16,8 @@
     <xsl:template match="//anglicisme">
         <li>
             <xsl:apply-templates/>
+            <xsl:text> ... </xsl:text>
+            <xsl:apply-templates select="@pos"/>
         </li>
     </xsl:template>
 </xsl:stylesheet>
