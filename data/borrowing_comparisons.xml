@@ -17,6 +17,13 @@
         <Creoles>22</Creoles>
     </year>
     <year when="2010">
-        
+        <English></English>
+        <Spanish></Spanish>
+        <German></German>
+        <Russian></Russian>
+        <Italian></Italian>
+        <Finnsih>1</Finnsih>
+        <Polish>1</Polish>
+        <Portuguese>1</Portuguese>
     </year>
 </borrowings>
