@@ -11,17 +11,16 @@
     </analysis>
 
     <analysis name="CC">
-        <one_five>106</one_five>
-        <six_ten>162</six_ten>
-        <ten_plus>42</ten_plus>
+        <cc cat="1-5">106</cc>
+        <cc cat="6-10">162</cc>
+        <cc cat="10+">42</cc>
     </analysis>
 
     <analysis name="SylCount">
-        <one>73</one>
-        <two>147</two>
-        <three>69</three>
-        <four_plus>18</four_plus>
+        <sylc cat="1">73</sylc>
+        <sylc cat="2">147</sylc>
+        <sylc cat="3">69</sylc>
+        <sylc cat="4+">18</sylc>
     </analysis>
 
-    <semanticCategory name="SemCategory"> </semanticCategory>
 </analyses>

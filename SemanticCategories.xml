@@ -1,0 +1,322 @@
+<categories>
+    <category name="Clothing">
+        <word>watch</word>
+        <word>baskets</word>
+        <word>t-shirt</word>
+        <word>shorts</word>
+        <word>mini-short</word>
+        <word>Zipper</word>
+        <word>dézipper</word>
+        <word>look</word>
+    </category>
+    <category name="Description (People)">
+        <word>cool</word>
+        <word>émo</word>
+        <word>fan</word>
+        <word>fangirl</word>
+        <word>hipster</word>
+        <word>sexy</word>
+        <word>badass</word>
+        <word>skinny</word>
+        <word>sportifs</word>
+    </category>
+    <category name="Persona/Identity">
+        <word>troll</word>
+        <word>flirter</word>
+        <word>haters</word>
+        <word>pickpockets</word>
+        <word>no life</word>
+        <word>végétarienne</word>
+        <word>zombie</word>
+        <word>boss</word>
+        <word>alien</word>
+        <word>community manager</word>
+        <word>leader</word>
+        <word>serial killer</word>
+        <word>BFF</word>
+        <word>reporter</word>
+        <word>coaches</word>
+        <word>touriste</word>
+        <word>ex</word>
+        <word>followers</word>
+        <word>hippie</word>
+        <word>geek</word>
+        <word>shérif</word>
+        <word>top</word>
+        <word>bottom</word>
+        <word>djôkeuse</word>
+        <word>barmen</word>
+        <word>surfeur</word>
+        <word>tatoueur</word>
+        <word>gang</word>
+        <word>club</word>
+    </category>
+    <category name="Holiday">
+        <word>Fashion Week</word>
+        <word>Thanksgiving</word>
+        <word>Halloween</word>
+        <word>week-end</word>
+    </category>
+    <category name="Tech-Related">
+        <word>selfie</word>
+        <word>Instagrammable</word>
+        <word>#tbt</word>
+        <word>tag</word>
+        <word>like</word>
+        <word>tweeté</word>
+        <word>avatar</word>
+        <word>textos</word>
+        <word>playlist</word>
+        <word>skypé</word>
+        <word>blogueuse</word>
+        <word>live-tweeté</word>
+        <word>retweetée</word>
+        <word>hashtag</word>
+        <word>spam</word>
+        <word>selfie-stick</word>
+        <word>icône</word>
+        <word>flash</word>
+        <word>post</word>
+        <word>kik</word>
+    </category>
+    <category name="Technology">
+        <word>iPhone</word>
+        <word>site</word>
+        <word>gif</word>
+        <word>email</word>
+        <word>iPad</word>
+        <word>mic</word>
+        <word>UNIX</word>
+        <word>interface</word>
+        <word>cloud</word>
+        <word>Internet</word>
+        <word>bluetooth</word>
+        <word>Gramfeed</word>
+        <word>HDR</word>
+        <word>SNAP</word>
+        <word>AE</word>
+        <word>AF</word>
+        <word>Afterlight</word>
+        <word>VSCO</word>
+        <word>Facetune</word>
+        <word>Be Funky</word>
+    </category>
+    <category name="Company">
+        <word>Facebook</word>
+        <word>Instagram</word>
+        <word>Thinkstock</word>
+        <word>BuzzFeed</word>
+        <word>Disney</word>
+        <word>Tumblr</word>
+        <word>MoodPanda</word>
+        <word>Netflix</word>
+        <word>Wikipedia</word>
+        <word>Disney Channel</word>
+        <word>Apple</word>
+        <word>YouTube</word>
+        <word>Google</word>
+        <word>Windows XP</word>
+        <word>Photoshop</word>
+        <word>Ask.fm</word>
+        <word>Reddit</word>
+        <word>Amazon</word>
+        <word>Airbus</word>
+        <word>McDo</word>
+        <word>red-eye</word>
+    </category>
+    <category name="Exclamations and Abbreviations">
+        <word>yess</word>
+        <word>OMG</word>
+        <word>lol</word>
+        <word>wow</word>
+        <word>yes</word>
+        <word>BYOB</word>
+        <word>OK</word>
+        <word>peace</word>
+        <word>okay</word>
+        <word>Niiice</word>
+        <word>RIP</word>
+        <word>bullshit</word>
+        <word>Say what</word>
+        <word>K.O</word>
+    </category>
+    <category name="Media">
+        <word>fans</word>
+        <word>spin-off</word>
+        <word>film</word>
+        <word>mash-up</word>
+        <word>logo</word>
+        <word>script</word>
+        <word>superstar</word>
+        <word>blockbuster</word>
+        <word>fanfare</word>
+        <word>clip</word>
+        <word>star</word>
+        <word>buzz</word>
+        <word>video</word>
+        <word>casting</word>
+        <word>sitcom</word>
+        <word>mix-tape</word>
+        <word>magazine</word>
+        <word>flashbacks</word>
+        <word>playback</word>
+        <word>Oscar</word>
+        <word>interviewé</word>
+        <word>médias</word>
+        <word>marketing</word>
+        <word>ticket</word>
+        <word>studio</word>
+        <word>pop-art</word>
+        <!-- <word>rock & roll</word> -->
+        <word>spoilers</word>
+        <word>newsletter</word>
+        <word>Looney Tunes</word>
+        <word>time lapse</word>
+        <word>Darkroom</word>
+        <word>2D</word>
+        <word>tounes</word>
+    </category>
+    <category name="Food">
+        <word>freedom fries</word>
+        <word>toast</word>
+        <word>pancakes</word>
+        <word>marshmallows</word>
+        <word>cranberry</word>
+        <word>BBQ</word>
+        <word>sandwiches</word>
+        <word>bacon</word>
+        <word>hot dogs</word>
+        <word>shots</word>
+        <word>big mac</word>
+        <word>nuggets</word>
+        <word>steak</word>
+        <word>burger</word>
+        <word>toaster</word>
+        <word>filet-o-fish</word>
+        <word>coffee</word>
+        <word>gluten-free</word>
+        <word>brunch</word>
+        <word>cocktail</word>
+        <word>Special K</word>
+        <word>Mentos</word>
+        <word>Coca Light</word>
+        <word>fish</word>
+        <word>chips</word>
+        <word>cake</word>
+        <word>soda</word>
+        <word>drink</word>
+        <word>fairy bread</word>
+        <word>breakfast</word>
+        <word>bagel</word>
+        <word>chewing-gum</word>
+        <word>Jell-O</word>
+        <word>Kool-Aid</word>
+        <word>grits</word>
+        <word>deep-fried</word> 
+        <word>butter</word>
+        <word>chitterlings</word>
+        <word>Kraft Singles</word>
+        <word>sloppy joes</word>
+        <word>chicken-fried</word>
+        <word>Tater Tots</word>
+        <word>gravy</word>
+        <word>gumbo</word>
+        <word>ketchup</word>
+        <word>Twinkies</word>
+        <word>green beans</word>
+        <word>Peeps</word>
+        <word>donut</word>
+        <word>cornbread</word>
+        <word>bol</word>
+        <word>scrapple</word>
+        <word>fry</word>
+        <word>burgoo</word>
+    </category>
+    <category name="Event">
+        <word>meeting</word>
+        <word>debfriefing</word>
+        <word>festival</word>
+        <word>roadtrip</word>
+        <word>deadline</word>
+        <word>panel</word>
+    </category>
+    <sport-game>
+        <word>poker</word>
+        <word>jogging</word>
+        <word>hockey</word>
+        <word>tennis</word>
+        <word>golf</word>
+        <word>Quidditch</word>
+        <word>sport</word>
+        <word>set</word>
+        <word>match</word>
+        <word>fitness</word>
+        <word>foot</word>
+    </sport-game>
+    <category name="Action">
+        <word>fist-fucking</word>
+        <word>shampoing</word>
+        <word>Mic drop</word>
+        <word>shopping</word>
+        <word>manterrupting</word>
+        <word>crash</word>
+        <word>shooting</word>
+        <word>teasing</word>
+        <word>Double Down</word>
+        <word>drive</word>
+        <word>drop</word>
+        <word>tatoué</word>
+        <word>relooking</word>
+    </category>
+    <category name="Place">
+        <word>shop</word>
+        <word>food truck</word>
+        <word>coffee shop</word>
+        <word>yacht</word>
+        <word>cockpit</word>
+        <word>cafétéria</word>
+        <word>jungle</word>
+        <word>bar</word>
+        <word>parking</word>
+        <word>city farm</word>
+        <word>stand</word>
+    </category>
+    <category name="Money">
+        <word>dollar</word>
+        <word>budget</word>
+    </category>
+    <category name="Description (Non-Person)">
+        <word>bad</word>
+        <word>normal</word>
+        <word>fun</word>
+        <word>must</word>
+        <word>fake</word>
+        <word>for real</word>
+        <word>frozen</word>
+        <word>kioute</word>
+        <word>stressé</word>
+    </category>
+    <category name="Animal">
+        <word>dinosaur</word>
+    </category>
+    <category name="Medicine">
+        <word>advil</word>
+        <word>vitamine</word>
+        <word>overdose</word>
+        <word>acné</word>
+        <word>Roaccutane</word>
+        <word>Accutane</word>
+    </category>
+    <category name="Miscellaneous">
+        <word>tracts</word>
+        <word>quiz</word>
+        <word>Bop</word>
+        <word>superglu</word>
+        <word>test</word>
+        <word>power</word>
+        <word>stocker</word>
+        <word>Post-it</word>
+    </category>
+</categories>
+
+
