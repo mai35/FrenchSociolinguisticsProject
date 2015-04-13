@@ -6,16 +6,13 @@
         <word>t-shirt</word>
         <word>shorts</word>
         <word>mini-short</word>
-        <word>Zipper</word>
+        <word>zipper</word>
         <word>dézipper</word>
         <word>look</word>
     </clothing>
     <personalDesc>
         <word>cool</word>
         <word>émo</word>
-        <word>fan</word>
-        <word>fangirl</word>
-        <word>hipster</word>
         <word>sexy</word>
         <word>badass</word>
         <word>skinny</word>
@@ -25,6 +22,9 @@
         <word>troll</word>
         <word>flirter</word>
         <word>haters</word>
+        <word>fan</word>
+        <word>fangirl</word>
+        <word>hipster</word>
         <word>pickpockets</word>
         <word>no life</word>
         <word>végétarienne</word>
@@ -135,11 +135,11 @@
         <word>OK</word>
         <word>peace</word>
         <word>okay</word>
-        <word>Niiice</word>
+        <word>niiice</word>
         <word>RIP</word>
         <word>bullshit</word>
-        <word>Say what</word>
-        <word>K.O</word>
+        <word>say what</word>
+        <word>K.O.</word>
     </excl-abbrv>
     <media>
         <word>fans</word>
@@ -168,12 +168,12 @@
         <word>ticket</word>
         <word>studio</word>
         <word>pop-art</word>
-        <!-- <word>rock & roll</word> -->
+        <word>rock &amp; roll</word>
         <word>spoilers</word>
         <word>newsletter</word>
         <word>Looney Tunes</word>
         <word>time lapse</word>
-        <word>Darkroom</word>
+        <word>darkroom</word>
         <word>2D</word>
         <word>tounes</word>
     </media>
@@ -214,12 +214,13 @@
         <word>Kool-Aid</word>
         <word>grits</word>
         <word>deep-fried</word> 
+        <word>Double Down</word>
         <word>butter</word>
         <word>chitterlings</word>
         <word>Kraft Singles</word>
         <word>sloppy joes</word>
         <word>chicken-fried</word>
-        <word>Tater Tots</word>
+        <word>tater tots</word>
         <word>gravy</word>
         <word>gumbo</word>
         <word>ketchup</word>
@@ -257,13 +258,12 @@
     <action>
         <word>fist-fucking</word>
         <word>shampoing</word>
-        <word>Mic drop</word>
+        <word>mic drop</word>
         <word>shopping</word>
         <word>manterrupting</word>
         <word>crash</word>
         <word>shooting</word>
         <word>teasing</word>
-        <word>Double Down</word>
         <word>drive</word>
         <word>drop</word>
         <word>tatoué</word>
@@ -286,7 +286,7 @@
         <word>dollar</word>
         <word>budget</word>
     </money>
-    <description>
+    <generalDesc>
         <word>bad</word>
         <word>normal</word>
         <word>fun</word>
@@ -296,7 +296,7 @@
         <word>frozen</word>
         <word>kioute</word>
         <word>stressé</word>
-    </description>
+    </generalDesc>
     <animal>
         <word>dinosaur</word>
     </animal>
@@ -311,7 +311,7 @@
     <misc>
         <word>tracts</word>
         <word>quiz</word>
-        <word>Bop</word>
+        <word>bop</word>
         <word>superglu</word>
         <word>test</word>
         <word>power</word>
