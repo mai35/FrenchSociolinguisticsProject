@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<borrowings>
+    <year when="1998">
+        <English>2613</English>
+        <Italian>1164</Italian>
+        <Gallo-Roman>1012</Gallo-Roman>
+        <Old-German>694</Old-German>
+        <German>408</German>
+        <Spanish>362</Spanish>
+        <Dutch>312</Dutch>
+        <Celtic>236</Celtic>
+        <Balto-Slav>148</Balto-Slav>
+        <Persian>98</Persian>
+        <Sanskrit>89</Sanskrit>
+        <Portuguese>68</Portuguese>
+        <Scandinavian>47</Scandinavian>
+        <Creoles>22</Creoles>
+    </year>
+    <year when="2010">
+        <English></English>
+        <Spanish></Spanish>
+        <German></German>
+        <Russian></Russian>
+        <Italian></Italian>
+        <Finnsih>1</Finnsih>
+        <Polish>1</Polish>
+        <Portuguese>1</Portuguese>
+    </year>
+</borrowings>

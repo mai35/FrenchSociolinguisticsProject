@@ -1,46 +1,170 @@
-body {
-    background-image: url("background.png"); 
-    background-repeat: no-repeat; 
-    background-position: center top;
-    background-color: #D8D8D8;
-    background-attachment: fixed;
-} 
-h1 { 
-    text-align: center;
-    font-size: 2.5em;
-    font-family: "Abyssinica SIL", "Sans Serif";
+body{
+    background-image:url("../images/background.png");
+    background-position:center top;
+    background-color:#D8D8D8;
+    background-attachment:fixed;
+    min-width:95%;
 }
-h2 {
+h1{
     text-align:center;
-    font-size: 2em;
-    font-family: "Abyssinica SIL", "Sans Serif";
+    font-size:2.5em;
+    font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
 }
-#img {
+a:link{
+    text-decoration:none;
+}
+h2{
+    text-align:center;
+    font-size:2em;
+    font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
+}
+h3{
+    text-align:center;
+    font-size:1.5em;
+    font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
+}
+h4{
+    text-align:center;
+    font-size:1.2em;
+    font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
+}
+#nav {
+    text-align:center; 
+    display:inline-block;
+    font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
+}
+#nav ul{
+    font-size:1.2em;
+    margin:0 auto;
+    background:#00004C;
+    padding:0;
+    list-style-type:none;
+    position:relative;
+    height:30px;
+    width:430px;
+    text-align:center;
+    z-index:1;
+}
+#nav ul li{
+    float:left;
+    display:inline-block;
     text-align: center;
 }
-#menu {
-       text-align: center;
-       color: #0000FF;
-       text-transform: lowercase;
+#nav li a{
+    padding:3px 8px;
+    text-decoration:none;
+    color:#FFFFFF;
+    float:left;
+    display:inline-block;
 }
-hr {
-    width: 35%;
+#nav li a:hover{
+    color:#FFFFFF;
 }
-p {
-    text-align: center;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left: 100px;
-    margin-right: 100px;
-    font-family: "Abyssinica SIL", "Sans Serif";
-    letter-spacing: 2px;
+#nav li ul{
+    display:none;
+    height:auto;
+    width:100px;
+    margin:0;
 }
-#transbox {
-  margin-top: 0px;
-  margin-bottom: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
-  background-color: #ffffff;
-  border: 1px solid black;
-  opacity:0.7;
+#nav li ul li{
+    display:block;
+    font-size:.8em;
+    color:#FFFFFF;
+    width:60px;
+    background:#800000;
+    position:relative;
+}
+#nav li:hover ul{
+    display:block;
+    position:absolute;
+    margin-top: 28px;
+}
+
+#nav li:hover{
+    position:relative;
+    background:#800000;
+}
+#nav li:active{
+    position:relative;
+    background:#800000;
+    z-index:100;
+}
+#nav li:hover ul li{
+    padding:5px;
+    display:block;
+    width:160px;
+    background-color:#800000;
+}
+#nav li:hover ul li a:hover{
+    background:#005555;
+}
+hr{
+    width:35%;
+}
+p{
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:30px;
+    margin-left:100px;
+    margin-right:100px;
+    font-family:"Abyssinica SIL", "Sans Serif";
+    letter-spacing:2px;
+}
+#transbox{
+    margin-top:30px;
+    margin-bottom:auto;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:#ffffff;
+    border:5px solid black;
+    opacity:0.9;
+    height:100%;
+    width:900px;
+}
+.bio{
+    font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
+}
+.lt{
+    font-weight:700;
+}
+.other{
+    text-align:left;
+    font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
+    margin-top:0px;
+    margin-bottom:30px;
+    margin-left:100px;
+    margin-right:100px;
+    font-family:"Abyssinica SIL", "Sans Serif";
+}
+#key{
+    font-style:italic;
+}
+ul{
+    text-align:left;
+    font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
+    margin-top:0px;
+    margin-bottom:30px;
+    margin-left:100px;
+    margin-right:100px;
+    font-family:"Abyssinica SIL", "Sans Serif";
+    letter-spacing:2px;
+}
+#ccl{
+    text-align:center;
+    vertical-align:middle;
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:#ffffff;
+    border:1px solid black;
+    opacity:0.7;
+    height:60px;
+    width:650px;
+}
+#home{
+    color:#000000;
+}
+#lt{
+
 }
