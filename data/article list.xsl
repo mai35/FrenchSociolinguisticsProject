@@ -15,28 +15,25 @@
                     <xsl:apply-templates select="//article/header">
                         <xsl:sort select="not(number(titre/@num))"/> 
                         <xsl:sort select="number(titre/@num)" data-type="number"/> 
-                        <xsl:sort select="substring((translate(titre,'Le', ' ')),2)"/>
-                        <xsl:sort select="substring((translate(titre,'Les', ' ')),2)"/>
-                        <xsl:sort select="substring((translate(titre,'La', ' ')),2)"/>
-                        <xsl:sort select="substring((translate(titre,'Un', ' ')),2)"/>
-                        <xsl:sort select="substring((translate(titre,'Une', ' ')),2)"/>
+                        <xsl:sort select="substring((translate(titre,'Le', ' ')),1)"/>
+                        <xsl:sort select="substring((translate(titre,'Les', ' ')),1)"/>
+                        <xsl:sort select="substring((translate(titre,'La', ' ')),1)"/>
+                        <xsl:sort select="substring((translate(titre,'Un', ' ')),1)"/>
+                        <xsl:sort select="substring((translate(titre,'Une', ' ')),1)"/>
                         <xsl:sort select="titre"/>
                     </xsl:apply-templates>
                 </ul>
             </body>
         </html>
+        
     </xsl:template>
     <xsl:template match="article/header">
         <li>
-            <a href="{url}">
+            <a href="{url}" id="list">
                 <xsl:apply-templates select="titre"/>
             </a>
         </li>
     </xsl:template>
 </xsl:stylesheet>
 
-<!--Ignore «, Le, Les, La, reorder so that á follows a
-
-
-<titre>(\d+\s)
-    <titre num="\1">\1-->
+<!--Screw it, just sort manually to fix errors-->
