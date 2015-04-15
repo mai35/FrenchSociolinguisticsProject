@@ -14,7 +14,7 @@
                
                     <xsl:for-each select="//cc">
                         <xsl:variable name="rawNumbers" select="."/>
-                        <xsl:variable name="totalAnglicisms" select="307"/>
+                        <xsl:variable name="totalAnglicisms" select="302"/>
                         <xsl:variable name="totalPercent" select="($rawNumbers div $totalAnglicisms)"/>
                         <tr>
                             <td>
