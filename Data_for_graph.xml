@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <analyses>
+    <!-- total number is 302 -->
     <analysis name="POS">
-        <pos cat="Noun">234</pos>
-        <pos cat="Adj">43</pos>
+        <pos cat="Noun">226</pos>
+        <pos cat="Adj">44</pos>
         <pos cat="Verb">16</pos>
-        <pos cat="Excl">8</pos>
+        <pos cat="Excl">9</pos>
         <pos cat="Abbr">7</pos>
-        <pos cat="Adv">2</pos>
+        <pos cat="Adv">1</pos>
         <pos cat="Interj">1</pos>
     </analysis>
 
     <analysis name="CC">
-        <cc cat="1-5">106</cc>
-        <cc cat="6-10">162</cc>
-        <cc cat="10+">42</cc>
+        <cc cat="1-5">107</cc>
+        <cc cat="6-10">156</cc>
+        <cc cat="10+">39</cc>
     </analysis>
 
     <analysis name="SylCount">
         <sylc cat="1">73</sylc>
-        <sylc cat="2">147</sylc>
-        <sylc cat="3">69</sylc>
+        <sylc cat="2">146</sylc>
+        <sylc cat="3">65</sylc>
         <sylc cat="4+">18</sylc>
     </analysis>
 
