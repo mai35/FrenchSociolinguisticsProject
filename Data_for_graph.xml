@@ -13,7 +13,7 @@
 
     <analysis name="CC">
         <cc cat="1-5">107</cc>
-        <cc cat="6-10">156</cc>
+        <cc cat="6-9">156</cc>
         <cc cat="10+">39</cc>
     </analysis>
 
