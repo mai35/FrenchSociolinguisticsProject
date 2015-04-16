@@ -128,6 +128,7 @@
     <excl-abbrv>
         <word>yess</word>
         <word>OMG</word>
+        <word>yeah</word>
         <word>lol</word>
         <word>wow</word>
         <word>yes</word>
@@ -160,6 +161,7 @@
         <word>mix-tape</word>
         <word>magazine</word>
         <word>flashbacks</word>
+        <word>New York Times</word>
         <word>playback</word>
         <word>Oscar</word>
         <word>interviewé</word>
@@ -316,6 +318,9 @@
         <word>test</word>
         <word>power</word>
         <word>stocker</word>
+        <word>brushing</word>
+        <word>gloss</word>
         <word>Post-it</word>
     </misc>
 </categories>
+
