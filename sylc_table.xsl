@@ -10,6 +10,8 @@
                 <table>
                     <tr>
                         <th>Syllable Count</th>
+                        <th>Raw</th>
+                        <th>Percent</th>
                     </tr>
                
                     <xsl:for-each select="//sylc">
@@ -19,6 +21,9 @@
                         <tr>
                             <td>
                                 <xsl:apply-templates select="@cat"/>
+                            </td>
+                            <td>
+                                <xsl:apply-templates select="$rawNumbers"/>
                             </td>
                             <td>
                                 <xsl:value-of select="format-number($totalPercent, '##.#%')" />
