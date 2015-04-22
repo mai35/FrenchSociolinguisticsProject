@@ -1,0 +1,11 @@
+/articles/article/tokenize(., '  *') = 61698
+
+//ol/li/titre = 1405
+
+61698-1405 = 60293
+
+//anglicisme = 782
+
+782/60293 = 1.297
+
+I did my best to try and remove all the extra blank space things from the tokenize, which worked to a degree. I then got a count of all th ordered list items and subtracted them from th tokenize total. I then took the count of anglicisms and divided them by the total token count, getting a 1.297 percentage of anglicisms in the corpus. There remain some spaces, but some of the of the ordered list items did not have numbers, so I'm hoping they balance out to a degree. It seems like a reasonable number so I don't really see the issue with a rough approximation.
