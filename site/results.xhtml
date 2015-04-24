@@ -4,23 +4,19 @@
    <head>
       <link rel="stylesheet" type="text/css" href="css/indexcss.css" />
       <title>Results</title>
+      <script type="text/javascript" src="chartjavascript.js">/**/</script>
    </head>
    <body>
       <div id="transbox">
          <br /><br />
-         <div id="img"><a href="/"><img src="images/headerimagelow.jpg" alt="Dictionary Page"
-             /></a></div>
+         <div id="img"><a href="/"><img src="images/headerimagesmall.jpg" alt="Dictionary Page"
+                /></a></div>
          <!--#include virtual="inc/dropdownmenu.xhtml" -->
-         <h3>Results</h3>
+         <br /><br />
+         <h3 id="top">Results</h3>
          <br />
          <h4>List of Tables and Graphs</h4>
          <ol>
-            <li>
-               <a href="results.xhtml#main">Anglicisms by Part of Speech, Character Count, and Syllable Count</a>
-            </li>
-            <li>
-               <a href="results.xhtml#list">Articles</a>
-            </li>
             <li>
                <a href="results.xhtml#character">Character Count Distribution</a>
             </li>
@@ -33,492 +29,2046 @@
             <li>
                <a href="results.xhtml#semantic">Semantic Category Distribution</a>
             </li>
+            <li>
+               <a href="results.xhtml#main">Anglicisms by Part of Speech, Character Count, and
+                  Syllable Count</a>
+            </li>
          </ol>
-         <h4 id="main">Anglicisms by Part of Speech, Character Count, and Syllable Count</h4>
-            <table>
-               
-                  <tr>
-                     <th>Word</th>
-                     <th>Part of Speech</th>
-                     <th>Character Count</th>
-                     <th>Syllable Count</th>
-                  </tr>
-               
-               <tr>
-                  <td>#tbt</td>
-                  <td>nom</td>
-                  <td>4</td>
-                  <td>3</td>
-               </tr>
-               <tr>
-                  <td>Alien</td>
-                  <td>nom</td>
-                  <td>5</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>BBQ</td>
-                  <td>nom</td>
-                  <td>3</td>
-                  <td>3</td>
-               </tr>
-               <tr>
-                  <td>BuzzFeed</td>
-                  <td>nom</td>
-                  <td>8</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>Disney</td>
-                  <td>adj</td>
-                  <td>6</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>Facebook</td>
-                  <td>nom</td>
-                  <td>8</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>Fashion Week</td>
-                  <td>nom</td>
-                  <td>11</td>
-                  <td>3</td>
-               </tr>
-               <tr>
-                  <td>Gramfeed</td>
-                  <td>nom</td>
-                  <td>8</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>Instagram</td>
-                  <td>nom</td>
-                  <td>9</td>
-                  <td>3</td>
-               </tr>
-               <tr>
-                  <td>Instagrammable</td>
-                  <td>adj</td>
-                  <td>14</td>
-                  <td>5</td>
-               </tr>
-               <tr>
-                  <td>MoodPanda</td>
-                  <td>nom</td>
-                  <td>9</td>
-                  <td>3</td>
-               </tr>
-               <tr>
-                  <td>Thinkstock</td>
-                  <td>nom</td>
-                  <td>10</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>Tumblr</td>
-                  <td>nom</td>
-                  <td>6</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>advil</td>
-                  <td>nom</td>
-                  <td>5</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>bacon</td>
-                  <td>nom</td>
-                  <td>5</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>basket</td>
-                  <td>nom</td>
-                  <td>7</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>bébé</td>
-                  <td>nom</td>
-                  <td>4</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>cool</td>
-                  <td>adj</td>
-                  <td>4</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>cranberry</td>
-                  <td>nom</td>
-                  <td>9</td>
-                  <td>3</td>
-               </tr>
-               <tr>
-                  <td>e-mail</td>
-                  <td>nom</td>
-                  <td>7</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>emo</td>
-                  <td>nom</td>
-                  <td>3</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>emoji</td>
-                  <td>nom</td>
-                  <td>6</td>
-                  <td>3</td>
-               </tr>
-               <tr>
-                  <td>fan</td>
-                  <td>adj</td>
-                  <td>3</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>fangirl</td>
-                  <td>nom</td>
-                  <td>7</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>film</td>
-                  <td>nom</td>
-                  <td>4</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>flirter</td>
-                  <td>verbe</td>
-                  <td>7</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>freedom fries</td>
-                  <td>nom</td>
-                  <td>12</td>
-                  <td>3</td>
-               </tr>
-               <tr>
-                  <td>gif</td>
-                  <td>nom</td>
-                  <td>3</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>hater</td>
-                  <td>nom</td>
-                  <td>5</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>hipster</td>
-                  <td>nom</td>
-                  <td>8</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>hot dog</td>
-                  <td>nom</td>
-                  <td>6</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>humour</td>
-                  <td>nom</td>
-                  <td>6</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>iPhone</td>
-                  <td>nom</td>
-                  <td>6</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>logo</td>
-                  <td>nom</td>
-                  <td>4</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>marshmallow</td>
-                  <td>nom</td>
-                  <td>12</td>
-                  <td>3</td>
-               </tr>
-               <tr>
-                  <td>mash-up</td>
-                  <td>nom</td>
-                  <td>7</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>no life</td>
-                  <td>nom</td>
-                  <td>6</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>pancake</td>
-                  <td>nom</td>
-                  <td>8</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>parking</td>
-                  <td>nom</td>
-                  <td>7</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>pickpocket</td>
-                  <td>nom</td>
-                  <td>11</td>
-                  <td>3</td>
-               </tr>
-               <tr>
-                  <td>record</td>
-                  <td>nom</td>
-                  <td>6</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>sandwich</td>
-                  <td>nom</td>
-                  <td>9</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>selfie</td>
-                  <td>nom</td>
-                  <td>6</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>site</td>
-                  <td>nom</td>
-                  <td>4</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>spin-off</td>
-                  <td>nom</td>
-                  <td>7</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>sport</td>
-                  <td>adj</td>
-                  <td>5</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>tag</td>
-                  <td>nom</td>
-                  <td>3</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>toast</td>
-                  <td>nom</td>
-                  <td>5</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>tract</td>
-                  <td>nom</td>
-                  <td>6</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>troll</td>
-                  <td>nom</td>
-                  <td>5</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>vitamine</td>
-                  <td>nom</td>
-                  <td>8</td>
-                  <td>3</td>
-               </tr>
-               <tr>
-                  <td>watch</td>
-                  <td>nom</td>
-                  <td>5</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>yes</td>
-                  <td>excl</td>
-                  <td>4</td>
-                  <td>1</td>
-               </tr>
-            </table>
          <h4 id="character">Character Count Distribution</h4>
          <table>
             <tr>
                <th>Character Count</th>
+               <th>Raw</th>
                <th>Percent</th>
             </tr>
             <tr>
                <td>1-5</td>
+               <td>107</td>
                <td>35.4%</td>
             </tr>
             <tr>
-               <td>6-10</td>
+               <td>6-9</td>
+               <td>156</td>
                <td>51.7%</td>
             </tr>
             <tr>
                <td>10+</td>
+               <td>39</td>
                <td>12.9%</td>
             </tr>
          </table>
+         <br />
+         <a href="results.xhtml#top" class="topOfPage">Top of Page</a>
          <h4 id="syllable">Syllable Count Distribution</h4>
          <table>
             <tr>
                <th>Syllable Count</th>
+               <th>Raw</th>
                <th>Percent</th>
             </tr>
             <tr>
                <td>1</td>
+               <td>73</td>
                <td>24.2%</td>
             </tr>
             <tr>
                <td>2</td>
+               <td>146</td>
                <td>48.3%</td>
             </tr>
             <tr>
                <td>3</td>
+               <td>65</td>
                <td>21.5%</td>
             </tr>
             <tr>
                <td>4+</td>
+               <td>18</td>
                <td>6%</td>
             </tr>
          </table>
+         <br />
+         <a href="results.xhtml#top" class="topOfPage">Top of Page</a>
          <h4 id="pos">Occurrences of Parts of Speech</h4>
          <table>
             <tr>
                <th>Part of Speech</th>
+               <th>Raw</th>
                <th>Percent</th>
             </tr>
             <tr>
                <td>Noun</td>
+               <td>226</td>
                <td>74.8%</td>
             </tr>
             <tr>
                <td>Adj</td>
+               <td>44</td>
                <td>14.6%</td>
             </tr>
             <tr>
                <td>Verb</td>
+               <td>16</td>
                <td>5.3%</td>
             </tr>
             <tr>
                <td>Excl</td>
+               <td>9</td>
                <td>3%</td>
             </tr>
             <tr>
                <td>Abbr</td>
+               <td>7</td>
                <td>2.3%</td>
             </tr>
             <tr>
                <td>Adv</td>
+               <td>1</td>
                <td>.3%</td>
             </tr>
             <tr>
                <td>Interj</td>
+               <td>1</td>
                <td>.3%</td>
             </tr>
          </table>
+         <br />
+         <a href="results.xhtml#top" class="topOfPage">Top of Page</a>
          <h4 id="semantic">Semantic Category Distribution</h4>
+         <h5 id="semCatTable">Click on each category to view of list of words in each one. Click on
+            the popup to dismiss.</h5>
          <table>
             <tr>
                <th>Category</th>
                <th>Percent</th>
             </tr>
             <tr>
-               <td>Food</td>
+               <td><span
+                     data-definition="freedom fries, toast, pancakes, marshmallows, cranberry, BBQ, sandwiches, bacon, hot dogs, shots, big mac, nuggets, steak, burger, toaster, filet-o-fish, coffee, gluten-free, brunch, cocktail, Special K, Mentos, Coca Light, fish, chips, cake, soda, drink, fairy bread, breakfast, bagel, chewing-gum, Jell-O, Kool-Aid, grits, deep-fried, butter, chitterlings, Kraft Singles, sloppy joes, chicken-fried, Tater Tots, gravy, gumbo, ketchup, Twinkies, green beans, Peeps, donut, cornbread, bol, scrapple, fry, burgoo"
+                     >Food</span></td>
                <td>17.6%</td>
+
             </tr>
             <tr>
-               <td>Media</td>
+               <td><span
+                     data-definition="fans, spin-off, film, mash-up, logo, script, superstar, blockbuster, fanfare, clip, star, buzz, video, casting, sitcom, mix-tape, magazine, flashbacks, playback, Oscar, interviewé, médias, marketing, ticket, studio, pop-art, spoilers, newsletter, Looney Tunes, time lapse, Darkroom, 2D, tounes"
+                     >Media</span></td>
                <td>10.7%</td>
             </tr>
             <tr>
-               <td>Persona/Identity</td>
+               <td><span
+                     data-definition="troll, flirter, haters, pickpockets, no life, végétarienne, zombie, boss, alien, community manager, leader, serial killer, BFF, reporter, coaches, touriste, ex, followers, hippie, geek, shérif, top, bottom, djôkeuse, barmen, surfeur, tatoueur, gang, club"
+                     >Persona/Identity</span></td>
                <td>9.4%</td>
             </tr>
             <tr>
-               <td>Company</td>
+               <td><span
+                     data-definition="Facebook, Instagram, Thinkstock, BuzzFeed, Disney, Tumblr, MoodPanda, Netflix, Wikipedia, Disney Channel, Apple, YouTube, Google, Windows XP, Photoshop, Ask.fm, Reddit, Amazon, Airbus, McDo, red-eye"
+                     >Company</span></td>
                <td>6.8%</td>
             </tr>
             <tr>
-               <td>Tech-Related</td>
+               <td><span
+                     data-definition="selfie, Instagrammable, #tbt, tag, like, tweeté, avatar, textos, playlist, skypé, blogueuse, live-tweeté, retweetée, hashtag, spam, selfie-stick, icône, flash, post, kik"
+                     >Tech-Related</span></td>
                <td>6.5%</td>
             </tr>
             <tr>
-               <td>Technology</td>
+               <td><span
+                     data-definition="iPhone, site, gif, email, iPad, mic, UNIX, interface, cloud, Internet, bluetooth, Gramfeed, HDR, SNAP, AE, AF, Afterlight, VSCO, Facetune, Be Funky"
+                     >Technology</span></td>
                <td>6.5%</td>
             </tr>
             <tr>
-               <td>Exclamations and Abbreviations</td>
+               <td><span
+                     data-definition="yess, OMG, lol, wow, yes, BYOB, OK, peace, okay, Niiice, RIP, bullshit, Say what, K.O"
+                     >Exclamations and Abbreviations</span></td>
                <td>4.6%</td>
             </tr>
             <tr>
-               <td>Action</td>
+               <td><span
+                     data-definition="fist-fucking, shampoing, Mic drop, shopping, manterrupting, crash, shooting, teasing, Double Down, drive, drop, tatoué, relooking"
+                     >Action</span></td>
                <td>4.2%</td>
             </tr>
             <tr>
-               <td>Place</td>
+               <td><span
+                     data-definition="shop, food truck, coffee shop, yacht, cockpit, cafétéria, jungle, bar, parking, city farm, stand"
+                     >Place</span></td>
                <td>3.6%</td>
             </tr>
             <tr>
-               <td>Description (People)</td>
+               <td><span
+                     data-definition="poker, jogging, hockey, tennis, golf, Quidditch, sport, set, match, fitness, foot"
+                     >Sport/Game</span></td>
+               <td>3.5%</td>
+            </tr>
+            <tr>
+               <td><span
+                     data-definition="cool, émo, fan, fangirl, hipster, sexy, badass, skinny, sportifs"
+                     >Description (People)</span></td>
                <td>2.9%</td>
             </tr>
             <tr>
-               <td>Description (Non-Person)</td>
+               <td><span
+                     data-definition="bad, normal, fun, must, fake, for real, frozen, kioute, stressé"
+                     >Description (Non-Person)</span></td>
                <td>2.9%</td>
             </tr>
             <tr>
-               <td>Clothing</td>
+               <td><span
+                     data-definition="watch, baskets, t-shirt, shorts, mini-short, Zipper, dézipper, look"
+                     >Clothing</span></td>
                <td>2.6%</td>
             </tr>
             <tr>
-               <td>Miscellaneous</td>
+               <td><span
+                     data-definition="tracts, quiz, Bop, superglu, test, power, stocker, Post-it"
+                     >Miscellaneous</span></td>
                <td>2.6%</td>
             </tr>
             <tr>
-               <td>Event</td>
+               <td><span data-definition="meeting, debfriefing, festival, roadtrip, deadline, panel"
+                     >Event</span></td>
                <td>2%</td>
             </tr>
             <tr>
-               <td>Medicine</td>
+               <td><span data-definition="advil, vitamine, overdose, acné, Roaccutane, Accutane"
+                     >Medicine</span></td>
                <td>2%</td>
             </tr>
             <tr>
-               <td>Holiday</td>
+               <td><span data-definition="Fashion Week, Thanksgiving, Halloween, week-end"
+                     >Holiday</span></td>
                <td>1.3%</td>
             </tr>
             <tr>
-               <td>Money</td>
+               <td><span data-definition="dollar, budget">Money</span></td>
                <td>.7%</td>
             </tr>
             <tr>
-               <td>Animal</td>
+               <td><span data-definition="dinosaure">Animal</span></td>
                <td>.3%</td>
             </tr>
          </table>
+         <br />
+         <a href="results.xhtml#top" class="topOfPage">Top of Page</a>
+         <h4 id="main">Anglicisms by Part of Speech, Character Count, and Syllable Count</h4>
+         <table>
+            <thead>
+               <tr>
+                  <th>Word</th>
+                  <th>Part of Speech</th>
+                  <th>Character Count</th>
+                  <th>Syllable Count</th>
+               </tr>
+            </thead>
+            <tr>
+               <td>#tbt</td>
+               <td>abbr</td>
+               <td>4</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>2D</td>
+               <td>nom abbr</td>
+               <td>2</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>AE</td>
+               <td>adj</td>
+               <td>2</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>AF</td>
+               <td>adj</td>
+               <td>2</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Accutane</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Afterlight</td>
+               <td>nom</td>
+               <td>10</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Airbus</td>
+               <td>adj</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Alien</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Amazon</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Apple</td>
+               <td>adj</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Ask.fm</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>4</td>
+            </tr>
+            <tr>
+               <td>BBQ</td>
+               <td>nom</td>
+               <td>3</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>BFF</td>
+               <td>abbr nom</td>
+               <td>3</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>BYOB</td>
+               <td>abbr</td>
+               <td>4</td>
+               <td>4</td>
+            </tr>
+            <tr>
+               <td>Be Funky</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Big Mac</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Bluetooth</td>
+               <td>adj</td>
+               <td>9</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Bop</td>
+               <td>nom</td>
+               <td>3</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>Buzzfeed</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Buzzfeed Life</td>
+               <td>nom</td>
+               <td>12</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>City Farm</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Coca</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Coca Light</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Disney</td>
+               <td>adj</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Disney Channel</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Double Down</td>
+               <td>nom</td>
+               <td>10</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Facebook</td>
+               <td>adj</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Fantune</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Filet-O-Fish</td>
+               <td>nom</td>
+               <td>12</td>
+               <td>4</td>
+            </tr>
+            <tr>
+               <td>Google</td>
+               <td>adj</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Gramfeed</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>HDR</td>
+               <td>nom</td>
+               <td>3</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Halloween</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Instagram</td>
+               <td>adj</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Instagrammable</td>
+               <td>adj</td>
+               <td>14</td>
+               <td>5</td>
+            </tr>
+            <tr>
+               <td>Internet</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Jell-O</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>K.O</td>
+               <td>nom</td>
+               <td>3</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Kik</td>
+               <td>nom</td>
+               <td>3</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>Kool-Aid</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Kraft Singles</td>
+               <td>nom</td>
+               <td>12</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Light</td>
+               <td>adj</td>
+               <td>5</td>
+               <td>5</td>
+            </tr>
+            <tr>
+               <td>Looney Tunes</td>
+               <td>nom</td>
+               <td>11</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>MacDonald's</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Mentos</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>MoodPanda</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Netflix</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>New York Times</td>
+               <td>nom</td>
+               <td>12</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>OMG</td>
+               <td>excl</td>
+               <td>3</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Oscar</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Paging Dr. Nerdlove</td>
+               <td>nom</td>
+               <td>17</td>
+               <td>6</td>
+            </tr>
+            <tr>
+               <td>Peeps</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>PhotoShop</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Pop-Tarts</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Post-it</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Quidditch</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>RIP</td>
+               <td>abbr</td>
+               <td>3</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Reddit</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>6</td>
+            </tr>
+            <tr>
+               <td>Roaccutane</td>
+               <td>nom</td>
+               <td>10</td>
+               <td>4</td>
+            </tr>
+            <tr>
+               <td>Sloppy Joe</td>
+               <td>nom</td>
+               <td>10</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Special K</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>SureSpot</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Thanksgiving</td>
+               <td>nom</td>
+               <td>12</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>Thinkstock</td>
+               <td>nom</td>
+               <td>10</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Tumblr</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Twinkie</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>Twitter</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>UNIX</td>
+               <td>adj</td>
+               <td>4</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>VSCO</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>4</td>
+            </tr>
+            <tr>
+               <td>Wikipedia</td>
+               <td>adj</td>
+               <td>9</td>
+               <td>4</td>
+            </tr>
+            <tr>
+               <td>Windows XP</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>4</td>
+            </tr>
+            <tr>
+               <td>YouTube</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>acné</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>advil</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>avatar</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>baby</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>bacon</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>bad</td>
+               <td>adj</td>
+               <td>3</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>badass</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>bagel</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>bar</td>
+               <td>nom</td>
+               <td>3</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>barman</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>basket</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>battle</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>blockbuster</td>
+               <td>nom</td>
+               <td>11</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>blogger</td>
+               <td>adj</td>
+               <td>9</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>boss</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>bottom</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>bowl</td>
+               <td>nom</td>
+               <td>3</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>break</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>breakfast</td>
+               <td>adj</td>
+               <td>9</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>brunch</td>
+               <td>adj</td>
+               <td>6</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>brushing</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>budget</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>bullshit</td>
+               <td>excl</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>burger</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>butter</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>buzz</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>cafeteria</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>4</td>
+            </tr>
+            <tr>
+               <td>cake</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>casting</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>chewing gum</td>
+               <td>nom</td>
+               <td>11</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>chicken-fried</td>
+               <td>adj</td>
+               <td>13</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>chip</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>chitterlings</td>
+               <td>nom</td>
+               <td>12</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>clip</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>cloud</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>club</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>coach</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>cockpit</td>
+               <td>2</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>cocktail</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>coffee</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>coffee shop</td>
+               <td>nom</td>
+               <td>10</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>community manager</td>
+               <td>adj</td>
+               <td>16</td>
+               <td>7</td>
+            </tr>
+            <tr>
+               <td>cool</td>
+               <td>adj</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>cornbread</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>cranberry</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>crash</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>cute</td>
+               <td>adj</td>
+               <td>6</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>darkroom</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>deadline</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>debriefing</td>
+               <td>nom</td>
+               <td>10</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>deep-fried</td>
+               <td>adj</td>
+               <td>10</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>dinosaur</td>
+               <td>nom</td>
+               <td>10</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>dollar</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>donut</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>drink</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>drive</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>drop</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>e-mail</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>émo</td>
+               <td>nom</td>
+               <td>3</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>ex</td>
+               <td>nom</td>
+               <td>2</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>fairy bread</td>
+               <td>nom</td>
+               <td>10</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>fake</td>
+               <td>adj</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>fan</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>fanfare</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>fangirl</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>festival</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>film</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>filmer</td>
+               <td>verbe</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>fish</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>fist-fucking</td>
+               <td>nom</td>
+               <td>11</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>fitness</td>
+               <td>adj</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>flash</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>flashback</td>
+               <td>nom</td>
+               <td>10</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>flirter</td>
+               <td>verbe</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>follower</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>food truck</td>
+               <td>nom</td>
+               <td>10</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>football</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>for real</td>
+               <td>adv</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>freak</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>freedom fries</td>
+               <td>nom</td>
+               <td>12</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>frozen</td>
+               <td>adj</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>fry</td>
+               <td>adj</td>
+               <td>3</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>fun</td>
+               <td>nom</td>
+               <td>3</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>gang</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>geek</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>gif</td>
+               <td>abbr nom</td>
+               <td>3</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>gloss</td>
+               <td>adj</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>gluten-free</td>
+               <td>adj</td>
+               <td>11</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>golf</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>gravy</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>great</td>
+               <td>adj</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>green bean</td>
+               <td>adj</td>
+               <td>9</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>grits</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>gumbo</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>hashtag</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>hater</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>hippie</td>
+               <td>adj</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>hipster</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>hockey</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>hot dog</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>humour</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>iPad</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>iPhone</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>icon</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>interface</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>interview</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>interviewer</td>
+               <td>verbe</td>
+               <td>10</td>
+               <td>4</td>
+            </tr>
+            <tr>
+               <td>jogging</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>joker</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>jungle</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>ketchup</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>leader</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>light</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>liker</td>
+               <td>verbe</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>live-tweeter</td>
+               <td>verbe</td>
+               <td>11</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>logo</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>lol</td>
+               <td>abbr excl</td>
+               <td>3</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>look</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>magazine</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>manterrupting</td>
+               <td>verbe</td>
+               <td>13</td>
+               <td>4</td>
+            </tr>
+            <tr>
+               <td>marketing</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>marshmallow</td>
+               <td>nom</td>
+               <td>12</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>mash-up</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>match</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>media</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>meeting</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>mini-short</td>
+               <td>nom</td>
+               <td>10</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>mix-tape</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>must</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>newsletter</td>
+               <td>nom</td>
+               <td>10</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>nice</td>
+               <td>excl</td>
+               <td>6</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>no life</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>normal</td>
+               <td>adj</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>nugget</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>okay</td>
+               <td>int</td>
+               <td>2</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>overdose</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>pancake</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>panel</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>parking</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>peace</td>
+               <td>excl</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>photoshoper</td>
+               <td>adj</td>
+               <td>12</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>pickpocket</td>
+               <td>nom</td>
+               <td>11</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>play-back</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>playlist</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>poker</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>pop</td>
+               <td>intj</td>
+               <td>3</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>pop-art</td>
+               <td>adj</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>post</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>poster</td>
+               <td>verbe</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>power</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>quiz</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>record</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>red-eye</td>
+               <td>adj</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>relooking</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>reporter</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>retweet</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>retweeter</td>
+               <td>verbe</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>roadtrip</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>rock &amp; roll</td>
+               <td>adj</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>rock star</td>
+               <td>adj</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>rocker</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>sandwich</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>say what</td>
+               <td>excl</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>scrapple</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>script</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>selfie</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>selfie-stick</td>
+               <td>nom</td>
+               <td>12</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>serial killer</td>
+               <td>nom</td>
+               <td>13</td>
+               <td>4</td>
+            </tr>
+            <tr>
+               <td>set</td>
+               <td>nom</td>
+               <td>3</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>sexy</td>
+               <td>adj</td>
+               <td>4</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>shampoing</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>sheriff</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>shooting</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>shop</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>shopping</td>
+               <td>verbe</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>short</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>shot</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>sitcom</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>site</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>skinny</td>
+               <td>adj</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>skyper</td>
+               <td>verbe</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>snap</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>soda</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>spam</td>
+               <td>adj</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>spin-off</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>spoiler</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>sport</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>sportif</td>
+               <td>adj</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>stand</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>star</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>steak</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>stocker</td>
+               <td>verbe</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>stress</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>stresser</td>
+               <td>verbe</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>studio</td>
+               <td>adj</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>superglue</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>superstar</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>surfer</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>t-shirt</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>tag</td>
+               <td>nom</td>
+               <td>3</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>tater tot</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>tatouer</td>
+               <td>verbe</td>
+               <td>6</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>teasing</td>
+               <td>verbe</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>tennis</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>test</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>texto</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>ticket</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>time lapse</td>
+               <td>nom</td>
+               <td>9</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>toast</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>toaster</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>top</td>
+               <td>nom</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>tourist</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>tract</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>troll</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>tune</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>tweet</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>tweeter</td>
+               <td>verbe</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>vegetarian</td>
+               <td>adj</td>
+               <td>12</td>
+               <td>5</td>
+            </tr>
+            <tr>
+               <td>vidéo</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>vitamin</td>
+               <td>nom</td>
+               <td>8</td>
+               <td>3</td>
+            </tr>
+            <tr>
+               <td>week-end</td>
+               <td>nom</td>
+               <td>7</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>wow</td>
+               <td>excl</td>
+               <td>3</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>yacht</td>
+               <td>nom</td>
+               <td>5</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>yeah</td>
+               <td>excl</td>
+               <td>4</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>yes</td>
+               <td>excl</td>
+               <td>3</td>
+               <td>1</td>
+            </tr>
+            <tr>
+               <td>zipper</td>
+               <td>verbe</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+            <tr>
+               <td>zombie</td>
+               <td>nom</td>
+               <td>6</td>
+               <td>2</td>
+            </tr>
+         </table>
+         <p id="key">French verbs tend to take the form of a stem with an ending of –er, –ir, or
+            –re. From the data that we have looked at, it would seem to be the case that with verbs
+            borrowed from English that the English naked infinitive (that is to say, the infinitive
+            without the to i.e. to flirt becomes flirt) is appended with –er affix, the most common
+            for verbs in the language (i.e flirter). The newly created stem is then used to form the
+            conjugated forms of the verb (i.e. je flirte, tu flirtes etc.). This is evident in our
+            corpus with such verbs as filmer, surfer, and flirter among others.</p>
+         <br />
+         <a href="results.xhtml#top" class="topOfPage">Top of Page</a>
+         <br />
+         <br />
       </div>
       <br />
       <div id="ccl">

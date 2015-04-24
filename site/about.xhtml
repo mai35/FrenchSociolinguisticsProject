@@ -8,19 +8,26 @@
     <body>
         <div id="transbox">
             <br /><br />
-            <div id="img"><a href="/"><img src="images/headerimagelow.jpg" alt="Dictionary Page"
+            <div id="img"><a href="/"><img src="images/headerimagesmall.jpg" alt="Dictionary Page"
                      /></a></div>
             <!--#include virtual="inc/dropdownmenu.xhtml" -->
+            <br /><br />
             <h3 id="project">The Project</h3>
             <h4>What is an anglicism?</h4>
             <p>Simply put, an anglicism is a word or construction borrowed from English into another
-                language. Our project will focus on the following types of borrowing:<br /><br />
-                <span class="lt">1. Integral borrowing:</span> When an English word is borrowed
-                directly into the second language.<br />
-                <span class="lt">2. Semantic borrowing:</span> A French word takes on an expanded
-                meaning due to contact with English.
+                language. Our project will focus on integral borrowing, which is when a foreign word
+                is borrowed directly into a second language.
                 <!--http://site.ebrary.com/lib/pitt/reader.action?docID=10513334-->
             </p>
+            <p>When starting this project, we looked at two other studies of loan words in French,
+                and both included a number of other languages in addition to English.
+                Unsurprisingly, a number of borrowings were from the languages of nearby and
+                neighboring countries, like Spain and Italy. In both studies, though, English loan
+                words greatly outnumbered loan words from other languages.</p><p>It may be hard for
+                English speakers to understand French's aversion to English loanwords at first,
+                since English is very accepting of loan words. Unlike in English, though, a sizable
+                proportion of borrowings into French come from English, so it is understandable that
+                the Académie may see English words as invasive. </p>
             <h4 id="academie">The Académie</h4>
             <p>France is known for being very protective of its language, and even has the Académie
                 française, whose mission it is to correct unfavorable speech and keep the French
@@ -49,33 +56,58 @@
                 caveat of the corpus is that many of the articles are translated from or based on
                 English articles, and many of the topics (especially TV and movies) are
                 American.</p>
-            <h4 id="creators">The Creators</h4>
-            <h5>Vicki Yuhas</h5>
+            <h4>Building the Corpus</h4>
+            <p>We could have created our corpus by going to BuzzFeed France and copy and pasting
+                articles into XML files, but that would be very tedious. Instead, we used a Python
+                program called Scrapy to make a spider (a bot that crawls the web) that gathered
+                articles and saved them to out server. With the help of Na-Rae and Andrew, the
+                spider was able to bring back only French articles, and bring them back marked up
+                with everything we needed except the anglicisms. </p>
+            <p>One of the more challenging parts of building the spider was getting it to only
+                scrape French articles. Nothing in the URLs indicated what language a BuzzFeed
+                article is in, so while we could make the spider stay within BuzzFeed, getting it to
+                stay within French BuzzFeed wasn't so easy. French BuzzFeed has links to English
+                BuzzFeed, but English BuzzFeed only has links to English BuzzFeed (US, UK,
+                Australia, and India). The spider harvests every link on a page, so if one English
+                link was harvested it would contaminate the entire corpus.</p>
+            <p> By viewing the source code of different-language BuzzFeed pages, Devra was able to
+                find something in the HTML of each page that indicated what language it was in. The
+                head HTML element of a page has an attribute called "lang." If the page is in
+                English, lang will be equal to "en." For German pages, lang=de, and for French pages
+                lang=fr.</p>
+            <p> Using the lang attribute, Andrew and Devra were able to write an if statement in the
+                spider's code that made it only write the contents of an article out to a new file
+                if the lang attribute was equal to fr.</p>
+            <h3 id="creators">The Creators</h3>
+            <h4>Vicki Yuhas</h4>
             <p><span class="lt">Majors:</span> French and Linguistics<br />
                 <span class="lt">Certificate:</span> Arabic Studies<br />
                 <span class="lt">Linguistic Interests:</span> Language contact, Dialectal variation
                 and stratification, Phonetics, Phonological change <br />
-                <span class="lt">Project Duties: </span>Developed project idea, XML mark-up, syllable count, defined
-                research question and modeled general approach, distracted people at weekly meetings
-                with fun facts about French, researched previous studies, made fun of the academie
-                francaise a lot</p>
-            <h5>Devra Gatling</h5>
+                <span class="lt">Project Duties: </span>Developed project idea, XML mark-up,
+                comparative analysis, made fun of the academie francaise a lot</p>
+            <h4>Devra Gatling</h4>
             <p><span class="lt">Majors:</span> Linguistics and Music<br />
                 <span class="lt">Certificate:</span> Asian Studies<br />
                 <span class="lt">Linguistic Interests:</span> ESL, Computational Linguistics <br />
-                <span class="lt">Project Duties:</span> Corpus creation, spider</p>
-            <h5>Will Randall</h5>
+                <span class="lt">Project Duties:</span> Corpus creation, spider, analysis</p>
+            <h4>Will Randall</h4>
             <p><span class="lt">Majors:</span> French and Linguistics<br />
                 <span class="lt">Minor:</span> Economics<br />
                 <span class="lt">Linguistic Interests:</span> Historical Linguistics, Second
                 Language Acquisition <br />
-                <span class="lt">Project Duties:</span> Xml markup, xslt development</p>
-            <h5>Emmett Williams</h5>
+                <span class="lt">Project Duties:</span> XML markup, XSLT development, analysis</p>
+            <h4>Emmett Williams</h4>
             <p><span class="lt">Major:</span> Linguistics<br />
                 <span class="lt">Certificates:</span> Russian and East European Studies, Global Studies<br />
                 <span class="lt">Linguistic Interests:</span> Second Language Acquisition,
                 Sociolinguistics <br />
                 <span class="lt">Project Duties:</span> Site design, research<br /></p>
+            <h3 id="thanks">Thanks</h3>
+            <p>This project was completed as part of the Computational Methods in the Humanities
+                Course at the University of Pittsburgh, under the direction of David Birnbaum. We
+                would also like to thank our project mentor, Mako Ishikawa, along with Andrew Nitz
+                and Na-Rae Han for helping with creating the spider.</p>
             <br /><br />
         </div>
         <br />

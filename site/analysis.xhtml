@@ -7,15 +7,195 @@
     </head>
     <body>
         <div id="transbox">
-            <br/><br/>
-            <div id="img"><a href="/"><img src="images/headerimagelow.jpg" alt="Dictionary Page"/></a></div>
-        <!--#include virtual="inc/dropdownmenu.xhtml" -->
-        <h2>Analysis</h2>
-        </div>
-        <br/>
+            <br /><br />
+            <div id="img"><a href="/"><img src="images/headerimagesmall.jpg" alt="Dictionary Page"
+                     /></a></div>
+            <!--#include virtual="inc/dropdownmenu.xhtml" -->
+            <br /><br />
+            <h3>Analysis</h3>
+            <h4 id="cc">Character Count</h4>
+            <svg xmlns="http://www.w3.org/2000/svg">
+                <g transform="translate(30, 330)">
+                    <line x1="20" x2="180" y1="-150" y2="-150" stroke="black" opacity="0.5"
+                        stroke-dasharray="8 4" stroke-width="1"></line>
+                    <line x1="20" x2="180" y1="-75" y2="-75" stroke="black" opacity="0.5"
+                        stroke-dasharray="8 4" stroke-width="1"></line>
+                    <line x1="20" x2="180" y1="-240" y2="-240" stroke="black" opacity="0.5"
+                        stroke-dasharray="8 4" stroke-width="1"></line>
+                    <line x1="20" x2="20" y1="0" y2="-320" stroke="black" stroke-width="2"></line>
+                    <line x1="20" x2="180" y1="0" y2="0" stroke="black" stroke-width="2"></line>
+                    <text x="10" y="5" text-anchor="end">0%</text>
+                    <text x="10" y="-145" text-anchor="end">50%</text>
+                    <text x="10" y="-295" text-anchor="end">100%</text>
+                    <rect x="20" y="-106.29139072847681" stroke="black" stroke-width=".5" fill="red"
+                        width="40" height="106.29139072847681"></rect>
+                    <text x="40" y="20" text-anchor="middle">1-5</text>
+                    <rect x="80" y="-154.96688741721854" stroke="black" stroke-width=".5" fill="red"
+                        width="40" height="154.96688741721854"></rect>
+                    <text x="100" y="20" text-anchor="middle">6-9</text>
+                    <rect x="140" y="-38.741721854304636" stroke="black" stroke-width=".5"
+                        fill="red" width="40" height="38.741721854304636"></rect>
+                    <text x="160" y="20" text-anchor="middle">10+</text>
+                </g>
+            </svg>
+            <p>Since the entirety of our corpus draws from written (in this case, typed) data, we
+                chose to include character count as a potential factor in determining why a French
+                speaker would choose to employ an anglicism over alternative lexical variants. We
+                decided that character count, for our purposes, is rather comparable to syllable
+                count in spoken speech and that functionally-speaking, a speaker would theoretically
+                want to choose words that take the least amount of time to type—efficiency being a
+                primary motivator in discourse decisions. </p>
+            <p>Here, we see that over half of the anglicisms we found fall under the medial category
+                of “between 6 and 9 characters,” while roughly one-third consist of between 1 and 5.
+                The smallest group, comprising 12.9% of the data, contain 10 or more characters in
+                total. </p>
+            <p>Adopted English words, then, in general tend to be rather short, and based on the
+                measly number of anglicisms within the 10+ category, it is not unreasonable to
+                assume that an inversely correlational and possibly causational relationship between
+                character count and likelihood to be borrowed does, in fact, exist. Overall, there
+                is an 87.1% chance that the borrowed word will fall into one of the first two
+                categories, whereas there is only a 12.9% chance that the anglicism will consist of
+                more than 9 characters. </p>
+            <p>There is, of course, the issue that the majority of words in both English and French
+                do not consist of more than 9 characters. Even in the previous sentence, for
+                example, the only word that consists of 10+ characters is “characters” itself. To
+                know for certain if an individual’s choice is at least partially influenced by
+                character count, then, it would become necessary to compare each anglicism to the
+                character count of its suggested replacement. For now, missing this data, we can
+                offer the idea that such a relationship may exist, but we do not have adequate data
+                to say for certain whether or not it does. Such a relationship, among other factors,
+                could work to explain a French BuzzFeed user’s decision to employ “hashtag” (7
+                characters) over the Académie’s “mot-dièse” (9 characters), among others. </p>
+            <h4 id="sc">Syllable Count</h4>
+            <svg xmlns="http://www.w3.org/2000/svg">
+                <g transform="translate(30, 330)">
+                    <line x1="20" x2="240" y1="-150" y2="-150" stroke="black" opacity="0.5"
+                        stroke-dasharray="8 4" stroke-width="1"></line>
+                    <line x1="20" x2="240" y1="-75" y2="-75" stroke="black" opacity="0.5"
+                        stroke-dasharray="8 4" stroke-width="1"></line>
+                    <line x1="20" x2="240" y1="-240" y2="-240" stroke="black" opacity="0.5"
+                        stroke-dasharray="8 4" stroke-width="1"></line>
+                    <line x1="20" x2="20" y1="0" y2="-320" stroke="black" stroke-width="2"></line>
+                    <line x1="20" x2="240" y1="0" y2="0" stroke="black" stroke-width="2"></line>
+                    <text x="10" y="5" text-anchor="end">0%</text>
+                    <text x="10" y="-145" text-anchor="end">50%</text>
+                    <text x="10" y="-295" text-anchor="end">100%</text>
+                    <rect x="20" y="-72.51655629139073" stroke="black" stroke-width=".5" fill="red"
+                        width="40" height="72.51655629139073"></rect>
+                    <text x="40" y="20" text-anchor="middle">1</text>
+                    <rect x="80" y="-145.03311258278146" stroke="black" stroke-width=".5" fill="red"
+                        width="40" height="145.03311258278146"></rect>
+                    <text x="100" y="20" text-anchor="middle">2</text>
+                    <rect x="140" y="-64.56953642384106" stroke="black" stroke-width=".5" fill="red"
+                        width="40" height="64.56953642384106"></rect>
+                    <text x="160" y="20" text-anchor="middle">3</text>
+                    <rect x="200" y="-17.880794701986755" stroke="black" stroke-width=".5"
+                        fill="red" width="40" height="17.880794701986755"></rect>
+                    <text x="220" y="20" text-anchor="middle">4+</text>
+                </g>
+            </svg>
+            <p>Like character count, we included syllable count in our analyses in an attempt to
+                relate this written data back to the spoken, community object that sociolinguists
+                traditionally prefer to study. Syllable count relates back to the linguistic
+                efficiency principle—if it can be explained in less time, using fewer words, why
+                would we want to make things more difficult for ourselves? Theoretically-speaking,
+                then, a speaker should exhibit a preference for words with fewer syllables, and when
+                deciding between anglicisms and Académie suggestions, speakers, overall, should
+                exhibit a tendency to choose the option with fewer syllables. </p>
+            <p>Here, we see that words consisting of 4 or more syllables seem to be highly
+                disfavored, and excluding the 1 syllable category, there is a notable inverse
+                correlation between word-length and an anglicism’s likelihood to be adopted.
+                Overall, based on our data, there is a 94% chance that an anglicism will consist of
+                3 syllables or fewer, meanwhile there is only a 6% chance that an anglicism will be
+                longer than 3 syllables. </p>
+            <p>As is true for the character count analysis, it is possible that these findings
+                falsely identify a relationship between these two factors and that the true
+                motivator behind these numbers is, in reality, simply a lack of lengthy English
+                words available for borrowing. To test the relevance of this correlation, then, it
+                would become necessary to extend the current study and directly compare the syllable
+                count of each anglicism to that of its corresponding Académie suggestion. </p>
+            <h4 id="ps">Parts of Speech</h4>
+            <svg xmlns="http://www.w3.org/2000/svg">
+                <g transform="translate(30, 330)">
+                    <line x1="20" x2="280" y1="-150" y2="-150" stroke="black" opacity="0.5"
+                        stroke-dasharray="8 4" stroke-width="1"></line>
+                    <line x1="20" x2="280" y1="-75" y2="-75" stroke="black" opacity="0.5"
+                        stroke-dasharray="8 4" stroke-width="1"></line>
+                    <line x1="20" x2="280" y1="-240" y2="-240" stroke="black" opacity="0.5"
+                        stroke-dasharray="8 4" stroke-width="1"></line>
+                    <line x1="20" x2="20" y1="0" y2="-320" stroke="black" stroke-width="2"></line>
+                    <line x1="20" x2="280" y1="0" y2="0" stroke="black" stroke-width="2"></line>
+                    <text x="10" y="5" text-anchor="end">0%</text>
+                    <text x="10" y="-145" text-anchor="end">50%</text>
+                    <text x="10" y="-295" text-anchor="end">100%</text>
+                    <rect x="20" y="-224.50331125827816" stroke="black" stroke-width=".5" fill="red"
+                        width="20" height="224.50331125827816"></rect>
+                    <text x="30" y="20" text-anchor="middle">Noun</text>
+                    <rect x="60" y="-43.70860927152318" stroke="black" stroke-width=".5" fill="red"
+                        width="20" height="43.70860927152318"></rect>
+                    <text x="70" y="20" text-anchor="middle">Adj</text>
+                    <rect x="100" y="-15.894039735099337" stroke="black" stroke-width=".5"
+                        fill="red" width="20" height="15.894039735099337"></rect>
+                    <text x="110" y="20" text-anchor="middle">Verb</text>
+                    <rect x="140" y="-8.940397350993377" stroke="black" stroke-width=".5" fill="red"
+                        width="20" height="8.940397350993377"></rect>
+                    <text x="150" y="20" text-anchor="middle">Excl</text>
+                    <rect x="180" y="-6.953642384105961" stroke="black" stroke-width=".5" fill="red"
+                        width="20" height="6.953642384105961"></rect>
+                    <text x="190" y="20" text-anchor="middle">Abbr</text>
+                    <rect x="220" y="-0.9933774834437086" stroke="black" stroke-width=".5"
+                        fill="red" width="20" height="0.9933774834437086"></rect>
+                    <text x="230" y="20" text-anchor="middle">Adv</text>
+                    <rect x="260" y="-0.9933774834437086" stroke="black" stroke-width=".5"
+                        fill="red" width="20" height="0.9933774834437086"></rect>
+                    <text x="270" y="20" text-anchor="middle">Interj</text>
+                </g>
+            </svg>
+            <p>The overwhelming majority of anglicisms were nouns, which make up 74.8% of our
+                results. The next largest categories were adjectives, many of which were derivatives
+                of these nouns (i.e. tweeter), at 14.6%, and then verbs at 5.3%. Exclamations,
+                abbreviations, interjections and adverbs together made up the remaining 5.9%. </p>
+            <p>These results, in general, are not very surprising, as the syntactic category of
+                “noun” tends to be the most open to neologisms, and therefore, contains the largest
+                pool of lexical items from which other languages may then borrow tokens.
+                Additionally, many of these anglicisms are products and inventions, which are
+                typically more difficult to translate than a word like “tree,” for example, for
+                which French already has a direct correspondent in the form of arbre. Finding French
+                equivalents for words like “Sloppy Joe” and “selfie-stick” would unquestionably be
+                significantly more difficult, and the resulting translations would likely fail to
+                capture the words’ full meanings. </p>
+            <h4 id="sa">Semantic Analysis</h4> <p>After finding all of the anglicisms within our corpus, we
+            divided them into semantic categories. Overall, the largest concentration of tokens
+            seems to fall under “Food” at 17.6%, followed by “Media” at 10.7%, and words associated
+            with “Persona/Identity” at 9.4%. A possible explanation for these numbers could be the
+            lack of French tokens available to use instead. English words for animals, for instance,
+            often have exact semantic matches in French (i.e. dog/chien), whereas there are no
+            French equivalents for words like “donut” and “mash-up.” One could theoretically choose
+            the French word for pastry, “pâte,” over donut, for example, but then listeners would
+            have a harder time determining exactly which kind of pastry the speaker means. Choosing
+            to use the anglicism in these situations, then, is a functionally logical choice, as the
+            anglicism better captures the meaning the speaker wishes to evoke and thus, increases
+            conversational clarity. Another possible explanation, which could potentially work to
+            explain the usage of anglicisms like “ticket” (French eqv: ”billet”), is that there may
+            actually be prestige associated with using anglicisms. According to the Pew Research
+            Center’s ongoing “Global Attitudes” project, for example, 75% of French citizens have a
+            “favorable” view of the United States. It is possible, then, (assuming this number is
+            truly reflective of modern French society), that the choice to use an anglicism over its
+            French equivalent may actually, in some cases, be a stylistic one. It may be that a
+            positive view of American culture has led to a positive view of the English language and
+            that, contrary to what the Académie may wish, French speakers now show an affinity for
+            all things American, including our language.</p> 
+        <h4 id="tta">Token-Type Analysis</h4>
+            <p>To find the number of anglicisms compared to the total word count, we completed a token type analysis, and arrived at 1.45%. Compared to the other studies, such as the Bogaards 2008 study of borrowings in French, where researchers found a type-token percentage of 2.6%, our number reflects a near 50% decrease.  As one of the aforementioned downsides of our BuzzFeed corpus is the disproportionately large focus on American topics, we would have actually expected to see a number larger than 2.6%, not lower.  Additionally, many of the anglicisms we found in our data (i.e. selfie stick, Instagram, #tbt) did not even enter the English language until after 2008, meaning the amount of anglicisms present within French has to have grown somewhat since 2008, even if only negligibly.
+                
+               </p><p> Unfortunately, this means that it is very likely that the 1.45% figure is incorrect, as this would imply that there has been drastic decrease in anglicisms since 2008, while we have data from post-2008 suggesting that there has to at least have been some growth.   
+            </p></div>
+        <br />
         <div id="ccl">
-            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/>
-            This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-        </div>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
+                    alt="Creative Commons License" style="border-width:0"
+                    src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /> This work is
+            licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
+                >Creative Commons Attribution 4.0 International License</a>. </div>
     </body>
 </html>

@@ -7,19 +7,16 @@ body{
 }
 h1{
     text-align:center;
-    font-size:3em;
-    font-family:"Andalus", "Georgia", "Palatino", "Serif";
+    font-size:2.5em;
+    font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
+}
+a:link{
+    text-decoration:none;
 }
 h2{
     text-align:center;
     font-size:2em;
     font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
-}
-#byline{
-    text-align:center;
-    font-size:2em;
-    font-style:italic;
-    font-family:"Andalus", "Georgia", "Palatino", "Serif";
 }
 h3{
     text-align:center;
@@ -31,32 +28,8 @@ h4{
     font-size:1.2em;
     font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
 }
-h5{
-    text-align:center;
-    font-size:1em;
-    font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
-}
-#headline{
-    color:#CC0000;
-}
-a:link{
-    text-decoration:none;
-    color:#000099;
-}
-a:visited{
-    color:#000099;
-}
-a:hover{
-    text-decoration:underline;
-}
-a:active{
-    text-decoration:underline;
-}
-a.list:visited{
-    color:#CC0000;
-}
-#nav{
-    text-align:center;
+#nav {
+    text-align:center; 
     display:inline-block;
     font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
 }
@@ -68,13 +41,14 @@ a.list:visited{
     list-style-type:none;
     position:relative;
     height:30px;
+    width:430px;
     text-align:center;
     z-index:1;
 }
 #nav ul li{
     float:left;
     display:inline-block;
-    text-align:center;
+    text-align: center;
 }
 #nav li a{
     padding:3px 8px;
@@ -103,7 +77,7 @@ a.list:visited{
 #nav li:hover ul{
     display:block;
     position:absolute;
-    margin-top:28px;
+    margin-top: 28px;
 }
 
 #nav li:hover{
@@ -134,10 +108,9 @@ p{
     margin-left:100px;
     margin-right:100px;
     font-family:"Abyssinica SIL", "Sans Serif";
-    letter-spacing:1px;
+    letter-spacing:2px;
 }
 #transbox{
-    text-align:center;
     margin-top:30px;
     margin-bottom:auto;
     margin-left:auto;
@@ -150,7 +123,6 @@ p{
 }
 .bio{
     font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
-    letter-spacing:2px;
 }
 .lt{
     font-weight:700;
@@ -162,7 +134,7 @@ p{
     margin-bottom:30px;
     margin-left:100px;
     margin-right:100px;
-    letter-spacing:2px;
+    font-family:"Abyssinica SIL", "Sans Serif";
 }
 #key{
     font-style:italic;
@@ -174,12 +146,8 @@ ul{
     margin-bottom:30px;
     margin-left:100px;
     margin-right:100px;
+    font-family:"Abyssinica SIL", "Sans Serif";
     letter-spacing:2px;
-}
-ol{
-    text-align:left;
-    font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
-    margin-left:100px;
 }
 #ccl{
     text-align:center;
@@ -197,12 +165,13 @@ ol{
 #home{
     color:#000000;
 }
-table{
-    display:inline-block;
-    font-family:"Abyssinica SIL", "Lucida Sans", "Sans Serif";
-    border-collapse:collapse;
+#lt{
+
 }
-table td,
-table th{
-    border:1px solid black;
+#table{
+    text-align:center;
+    width: auto;
+}
+table {
+    border: 2px solid black;
 }
